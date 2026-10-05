@@ -1,0 +1,362 @@
+{
+  "slug": "do-third-party-mentions-help-ai-visibility",
+  "title": "Does Getting Mentioned on Other Websites Help With AI Visibility?",
+  "metaTitle": "Do Third-Party Mentions Help With AI Visibility?",
+  "description": "Third-party brand mentions are strongly associated with AI visibility, but not every mention is equal. Here is what current research shows and how to use it.",
+  "ogTitle": "Do Mentions on Other Websites Help With AI Visibility?",
+  "ogDescription": "What current research says about third-party brand mentions, AI citations and the external evidence surrounding your brand.",
+  "category": "Third-party evidence",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-06",
+  "updatedAt": "2026-10-06",
+  "hero": "third-party-mentions-ai-visibility.webp",
+  "heroAlt": "Third-party websites and creator channels creating external evidence around a brand for AI visibility",
+  "diagram": "third-party-mention-quality-framework.webp",
+  "diagramAlt": "Framework showing what makes a third-party brand mention useful for AI visibility",
+  "diagramAfter": "The strongest data point is not backlinks. It is mentions.",
+  "diagramWidth": 1200,
+  "diagramHeight": 800,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Yes, probably. In fact, third-party brand mentions are one of the more interesting signals showing up in current AI visibility research. But i would not turn that into the simplistic advice of getting your company name onto as many websites as possible.",
+      "sources": []
+    },
+    {
+      "type": "p",
+      "text": "The useful version is this: when relevant independent websites, creators, publications and communities talk about your brand in the context you want to be known for, they create external evidence around your company. AI systems can encounter, retrieve and sometimes cite that evidence. Current studies also show a strong association between branded web mentions and visibility in AI answers."
+    },
+    {
+      "type": "p",
+      "text": "That is not the same as proving that a mention causes an AI system to recommend you. Nobody outside these platforms has that formula. But the evidence is strong enough that i would absolutely include third-party mentions in an AEO strategy."
+    },
+    {
+      "type": "h2",
+      "text": "The strongest data point is not backlinks. It is mentions."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs analysed 75,000 brands against Google AI Overview visibility. Branded web mentions had the strongest correlation in the study at 0.664. Backlinks were much lower at 0.218.",
+      "sources": [
+        {
+          "label": "Backlinks vs Brand Mentions: Which Matters More for AI Search?",
+          "url": "/blog/backlinks-vs-brand-mentions-ai-search"
+        },
+        {
+          "label": "Ahrefs - An Analysis of AI Overview Brand Visibility Factors (75K Brands Studied)",
+          "url": "https://ahrefs.com/blog/ai-overview-brand-correlation/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That is a pretty striking difference. It does not mean backlinks stopped mattering, and correlation is not causation. The study itself is careful about that. What it does suggest is that the web talking about a brand may be unusually relevant in AI-mediated search."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs also found that the brands with the most web mentions earned up to 10 times more AI Overview mentions than the next closest quartile. Again, this is an association, not a recipe. Big, well-known brands naturally earn more mentions for lots of reasons. Still, it is difficult to look at the data and conclude that off-site brand presence is irrelevant."
+    },
+    {
+      "type": "h2",
+      "text": "Why would other websites matter at all?"
+    },
+    {
+      "type": "p",
+      "text": "Because AI search is not restricted to your homepage."
+    },
+    {
+      "type": "p",
+      "text": "ChatGPT search can search the web and show citations to sources used in an answer. OpenAI says any public website can potentially appear in ChatGPT search, provided it is accessible to OAI-SearchBot, although placement is never guaranteed.",
+      "sources": [
+        {
+          "label": "OpenAI - Searching the web with ChatGPT",
+          "url": "https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt"
+        },
+        {
+          "label": "OpenAI - Publishers and Developers FAQ",
+          "url": "https://help.openai.com/en/articles/12627856-publishers-and-developers-faq"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Google's AI results also cite external sources. In an October 2026 Ahrefs study of branded queries, Wikipedia, YouTube and LinkedIn were the most common external citations in the sample. That means even when somebody searches for a brand by name, third parties can help shape the answer sitting above or alongside the brand's own website.",
+      "sources": [
+        {
+          "label": "Ahrefs - AI Overviews Currently Appear for 83% of Branded Searches (Oct 2, 2026)",
+          "url": "https://ahrefs.com/blog/ai-overviews-on-branded-searches/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "This is why i keep coming back to the idea of third-party evidence. Your website explains what you say about yourself. The rest of the web shows what other people say about you."
+    },
+    {
+      "type": "h2",
+      "text": "A mention and a citation are not the same thing"
+    },
+    {
+      "type": "p",
+      "text": "This distinction matters because AI visibility gets confusing quickly.",
+      "sources": [
+        {
+          "label": "How Do I Get My Brand Cited by ChatGPT?",
+          "url": "/blog/how-to-get-your-brand-cited-by-chatgpt"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A brand mention means the AI answer says your company name. A citation means it links to a source. Those things can happen together, but often they do not."
+    },
+    {
+      "type": "p",
+      "text": "Semrush analysed 3,981 domain appearances across 115 prompts, 14 countries and four AI search experiences in 2026. It found that 61.7% of appearances were what it calls ghost citations: the AI cited a domain as a source but did not name the brand in the answer. Only 13.2% of appearances were both cited and mentioned, while 25.1% were brand mentions without a citation.",
+      "sources": [
+        {
+          "label": "Semrush - Why 62% of AI citations do not lead to brand mentions (June 9, 2026)",
+          "url": "https://www.semrush.com/blog/the-ghost-citations-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The pattern also differed dramatically by engine. In that dataset ChatGPT cited brands in 87% of appearances but mentioned them in only 20.7%. That is why measuring only links or only brand names can give you a very incomplete picture."
+    },
+    {
+      "type": "h2",
+      "text": "An unlinked mention can still be useful"
+    },
+    {
+      "type": "p",
+      "text": "This is one of the biggest differences between thinking about traditional link building and thinking about AI visibility.",
+      "sources": [
+        {
+          "label": "Do Brand Mentions Without Backlinks Help With AI Search?",
+          "url": "/blog/do-brand-mentions-without-backlinks-help-ai-search"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "If a respected industry newsletter writes about your company without linking to you, an SEO team might historically have treated that as a missed backlink opportunity. From a brand and AEO perspective, the mention itself can still have value because it adds another public source connecting your company to a subject."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs' research is particularly interesting here because branded web mentions correlated much more strongly with AI Overview visibility than the raw number of backlinks. I would not interpret that as 'links do not matter'. I would interpret it as 'do not dismiss a relevant brand mention simply because it is unlinked'.",
+      "sources": []
+    },
+    {
+      "type": "h2",
+      "text": "Not every third-party mention is equally useful"
+    },
+    {
+      "type": "p",
+      "text": "This is where people can ruin a good idea by turning it into a volume game."
+    },
+    {
+      "type": "p",
+      "text": "A hundred random websites repeating your company name is not the same thing as ten credible sources discussing your company in the exact category you want to be associated with."
+    },
+    {
+      "type": "p",
+      "text": "If i were evaluating a third-party mention for AI visibility, i would care about five things: relevance of the source, relevance of the surrounding topic, specificity of the brand context, whether the page is public and discoverable, and whether the content is actually useful enough that a person or AI system might want to reference it."
+    },
+    {
+      "type": "p",
+      "text": "The surrounding words matter. 'Acme sponsored this post' tells us almost nothing. 'Acme is a treasury management platform used by European startups to automate cash forecasting' creates a much clearer relationship between the brand and a topic."
+    },
+    {
+      "type": "h2",
+      "text": "The best mentions usually start with something worth mentioning"
+    },
+    {
+      "type": "p",
+      "text": "You cannot manufacture strong third-party evidence from an empty brief."
+    },
+    {
+      "type": "p",
+      "text": "Give people something useful: original data, a customer result, a benchmark, expert access, a product worth testing, a case study, an unusual opinion or a genuinely useful explanation of a problem."
+    },
+    {
+      "type": "p",
+      "text": "Then find people who already care about that subject. A specialist YouTuber, newsletter writer, analyst, blogger or LinkedIn creator can take your evidence and add their own perspective. The resulting content is much more natural than asking somebody to insert your company into an unrelated article."
+    },
+    {
+      "type": "p",
+      "text": "This is the logic behind B2B Influencer Finder. It starts with the useful content and expertise a company already has, then matches that evidence to creators whose existing work overlaps with it. The goal is not to buy mentions. It is to find credible reasons for the right people to talk about you."
+    },
+    {
+      "type": "h2",
+      "text": "Where should those mentions appear?"
+    },
+    {
+      "type": "p",
+      "text": "There is no single magic domain. Different AI systems retrieve different sources, and the best channel depends on the topic and audience.",
+      "sources": [
+        {
+          "label": "What Types of Creator Content Can Appear in AI Search?",
+          "url": "/blog/creator-content-that-can-appear-in-ai-search"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "For B2B, i would look at specialist websites and blogs, YouTube, newsletters, podcasts with public pages or transcripts, LinkedIn, industry publications, review sites and relevant communities. The common thread is not the platform. It is that the source is relevant, public enough to be discovered and useful to the people asking the question."
+    },
+    {
+      "type": "p",
+      "text": "YouTube deserves particular attention. It repeatedly appears in current AI visibility research. Ahrefs found it among the strongest correlated off-site signals in its broader brand studies, and YouTube was one of the most common external sources in its October 2026 analysis of branded AI Overviews."
+    },
+    {
+      "type": "h2",
+      "text": "Third-party websites can also say the wrong thing"
+    },
+    {
+      "type": "p",
+      "text": "There is a less comfortable side to all of this. You do not control third-party evidence."
+    },
+    {
+      "type": "p",
+      "text": "A review page can be outdated. A Reddit thread can be negative. A comparison article can put you in the wrong category. A creator can misunderstand your product. If AI systems use those sources, the fact that you are being mentioned is not automatically good news."
+    },
+    {
+      "type": "p",
+      "text": "That is another reason i would not measure success as raw mention count. Track what the sources actually say, which topics they associate you with and whether the information is accurate."
+    },
+    {
+      "type": "h2",
+      "text": "So should you deliberately try to earn more third-party mentions?"
+    },
+    {
+      "type": "p",
+      "text": "Yes, but i would approach it more like evidence distribution than link building."
+    },
+    {
+      "type": "p",
+      "text": "Pick the topics you want to be known for. Audit the proof and expertise you already have. Find credible third parties who cover those subjects. Give them a reason to create something useful. Then track both the coverage and your visibility across a stable set of relevant AI prompts."
+    },
+    {
+      "type": "p",
+      "text": "Do not pay for thousands of low-quality mentions. Do not demand exact keyword phrases. Do not assume one article will change ChatGPT. And do not treat a sponsored mention as independent editorial validation when it is not."
+    },
+    {
+      "type": "h2",
+      "text": "How i would measure whether it is working"
+    },
+    {
+      "type": "p",
+      "text": "Keep two scorecards.",
+      "sources": [
+        {
+          "label": "Ahrefs - AI Visibility Metrics",
+          "url": "https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The first is your evidence scorecard: number of relevant third-party pieces, source quality, topic coverage, sentiment, creator or publisher, links where present, and whether the page is still live and accurate."
+    },
+    {
+      "type": "p",
+      "text": "The second is your AI visibility scorecard: brand mentions, citations, share of voice, recommendation frequency and topic association across the prompts that matter to your business."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs now separates mentions, citations, impressions and AI share of voice in its AI visibility metrics. That separation is useful because a brand can be named without being linked, or cited without being named.",
+      "sources": []
+    },
+    {
+      "type": "h2",
+      "text": "The bigger idea"
+    },
+    {
+      "type": "p",
+      "text": "For years, brands focused heavily on what existed on their own domain and which websites linked back to it. AI search makes the rest of the conversation harder to ignore."
+    },
+    {
+      "type": "p",
+      "text": "What customers say about you matters. What creators say matters. What YouTubers, newsletter writers, reviewers, journalists and specialist websites say matters. Not because every mention is a secret ranking signal, but because together they create the external information environment around your brand."
+    },
+    {
+      "type": "p",
+      "text": "So yes, getting mentioned on other websites can help with AI visibility. The research is increasingly pointing in that direction. Just do not chase mentions for the sake of a number."
+    },
+    {
+      "type": "p",
+      "text": "Chase accurate, relevant third-party evidence in the places your buyers already trust. If AI systems trust some of those places too, that is where the strategy gets interesting."
+    },
+    {
+      "type": "h2",
+      "text": "Sources"
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs - An Analysis of AI Overview Brand Visibility Factors (75K Brands Studied)",
+      "sources": [
+        {
+          "label": "Ahrefs - An Analysis of AI Overview Brand Visibility Factors (75K Brands Studied)",
+          "url": "https://ahrefs.com/blog/ai-overview-brand-correlation/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs - AI Overviews Currently Appear for 83% of Branded Searches (Oct 2, 2026)",
+      "sources": [
+        {
+          "label": "Ahrefs - AI Overviews Currently Appear for 83% of Branded Searches (Oct 2, 2026)",
+          "url": "https://ahrefs.com/blog/ai-overviews-on-branded-searches/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Semrush - Why 62% of AI citations do not lead to brand mentions (June 9, 2026)",
+      "sources": [
+        {
+          "label": "Semrush - Why 62% of AI citations do not lead to brand mentions (June 9, 2026)",
+          "url": "https://www.semrush.com/blog/the-ghost-citations-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "OpenAI - Searching the web with ChatGPT",
+      "sources": [
+        {
+          "label": "OpenAI - Searching the web with ChatGPT",
+          "url": "https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "OpenAI - Publishers and Developers FAQ",
+      "sources": [
+        {
+          "label": "OpenAI - Publishers and Developers FAQ",
+          "url": "https://help.openai.com/en/articles/12627856-publishers-and-developers-faq"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs - AI Visibility Metrics",
+      "sources": [
+        {
+          "label": "Ahrefs - AI Visibility Metrics",
+          "url": "https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics"
+        }
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "do-brand-mentions-without-backlinks-help-ai-search",
+    "backlinks-vs-brand-mentions-ai-search",
+    "how-to-build-a-creator-aeo-strategy"
+  ]
+}

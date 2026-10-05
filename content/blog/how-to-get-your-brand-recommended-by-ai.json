@@ -1,0 +1,578 @@
+{
+  "slug": "how-to-get-your-brand-recommended-by-ai",
+  "title": "How Do I Get My Brand Recommended by AI?",
+  "description": "Want ChatGPT and other AI tools to recommend your brand? Learn what can influence AI recommendations and how to build the evidence your brand needs.",
+  "ogTitle": "How Do You Get AI to Recommend Your Brand?",
+  "ogDescription": "AI recommendations are becoming a new discovery channel. Here’s how to make your brand easier for AI systems to understand, verify and recommend.",
+  "category": "AI visibility",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-05",
+  "updatedAt": "2026-10-05",
+  "hero": "how-to-get-brand-recommended-by-ai-color.webp",
+  "heroAlt": "Factors that can help a brand become more recommendable in AI search",
+  "diagram": "ai-brand-mentioned-vs-recommended-color.webp",
+  "diagramAlt": "Ai brand mentioned vs recommended",
+  "diagramAfter": "Recommendation requires reasons, not just awareness",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Getting AI to mention your company is one thing. Getting it to actually recommend you is a much bigger prize."
+    },
+    {
+      "type": "p",
+      "text": "If somebody asks ChatGPT, Gemini or another AI assistant for the best software, agency, bank, consultant or platform for a particular problem, the answer can influence which companies make the buyer's shortlist before that buyer ever reaches Google."
+    },
+    {
+      "type": "p",
+      "text": "So naturally marketers want to know: how do i get my company into that answer?"
+    },
+    {
+      "type": "p",
+      "text": "There isn't a button you can press or a piece of schema that guarantees it. OpenAI itself says ChatGPT search ranks results using multiple factors intended to surface relevant and reliable information, and that placement is not guaranteed.",
+      "sources": [
+        {
+          "label": "help.openai.com",
+          "url": "https://help.openai.com/en/articles/9237897-chatgpt-search"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "But we are starting to get enough research to make sensible decisions about what to work on."
+    },
+    {
+      "type": "p",
+      "text": "The practical answer is this: make it very easy for AI systems to understand what your company does, who it is for and why it belongs in a particular recommendation set. Then build enough credible evidence around the web that those claims don't exist only on your own website."
+    },
+    {
+      "type": "h2",
+      "text": "Being recommended is different from being mentioned"
+    },
+    {
+      "type": "p",
+      "text": "This distinction matters."
+    },
+    {
+      "type": "p",
+      "text": "An AI system could know your company exists and still never recommend it."
+    },
+    {
+      "type": "p",
+      "text": "Imagine someone asks: \"What are the best referral marketing platforms for a European fintech company?\""
+    },
+    {
+      "type": "p",
+      "text": "Your brand could appear in several ways. It might be cited as a source for a general statement. It might be mentioned in passing. It might appear in a list of alternatives. Or it might be actively recommended as one of the products the buyer should consider."
+    },
+    {
+      "type": "p",
+      "text": "Those outcomes have very different commercial value."
+    },
+    {
+      "type": "p",
+      "text": "Semrush found this quite clearly in a 2026 study of 3,981 domain appearances across four AI search experiences. Almost 62% were what it called ghost citations: the domain was used as a source, but the brand wasn't named in the answer. Comparative content produced 2.4 times more brand mentions than informational content in the same study.",
+      "sources": [
+        {
+          "label": "www.semrush.com",
+          "url": "https://www.semrush.com/blog/the-ghost-citations-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "In other words, getting your content used by AI and getting your company presented as an option are related, but they are not the same job."
+    },
+    {
+      "type": "h2",
+      "text": "Start with the recommendation prompts you actually want to win"
+    },
+    {
+      "type": "p",
+      "text": "Before trying to improve anything, decide what you want to be recommended for."
+    },
+    {
+      "type": "p",
+      "text": "\"We want ChatGPT to recommend us\" is too vague."
+    },
+    {
+      "type": "p",
+      "text": "A payroll company might care about prompts like:"
+    },
+    {
+      "type": "p",
+      "text": "What is the best payroll software for a 100-person UK company?\n\nWhich payroll platforms work well for distributed teams?\n\nWhat are good alternatives to [competitor]?\n\nWhich payroll software integrates with our HR system?"
+    },
+    {
+      "type": "p",
+      "text": "Those are much more useful than asking ChatGPT whether it has heard of your brand."
+    },
+    {
+      "type": "p",
+      "text": "I'd start with 20 to 50 prompts that reflect real buying situations. Include category prompts, use-case prompts, industry prompts, competitor comparisons and problem-based questions."
+    },
+    {
+      "type": "p",
+      "text": "Then run them across the AI systems your buyers are likely to use and record what happens."
+    },
+    {
+      "type": "p",
+      "text": "Which companies get recommended? How are they described? What reasons are given? Which sources are cited? Which attributes keep appearing?"
+    },
+    {
+      "type": "p",
+      "text": "That gives you a map of the recommendation environment you're actually trying to enter."
+    },
+    {
+      "type": "h2",
+      "text": "Make your positioning painfully easy to understand"
+    },
+    {
+      "type": "p",
+      "text": "AI can't reliably recommend you for something if the web is confused about what you do."
+    },
+    {
+      "type": "p",
+      "text": "This sounds obvious, but company websites are often full of positioning that only makes sense after a 30-minute sales call."
+    },
+    {
+      "type": "p",
+      "text": "If you sell expense software for construction companies, say that clearly."
+    },
+    {
+      "type": "p",
+      "text": "If you are particularly good for multi-location retailers, make that obvious."
+    },
+    {
+      "type": "p",
+      "text": "If your product is built for enterprises with more than 1,000 employees, explain it."
+    },
+    {
+      "type": "p",
+      "text": "Your product pages, homepage, comparison pages, integrations, case studies and about information should consistently reinforce the same basic entities and relationships: what you are, who you serve, what you solve, where you operate and what makes you different."
+    },
+    {
+      "type": "p",
+      "text": "Don't make an AI system reverse-engineer your positioning from a slogan like \"reimagine what's possible.\" Your buyers shouldn't have to do that either."
+    },
+    {
+      "type": "h2",
+      "text": "Create pages that help answer recommendation questions"
+    },
+    {
+      "type": "p",
+      "text": "Your website should also contain the information someone would need to decide whether to recommend you."
+    },
+    {
+      "type": "p",
+      "text": "That usually goes beyond generic thought-leadership articles."
+    },
+    {
+      "type": "p",
+      "text": "Think about the questions a buyer asks while making a shortlist: Who is this for? What does it cost? Which systems does it integrate with? Where is customer data stored? How does it compare with alternatives? Does it work in my industry? What results have similar customers achieved? What are its limitations?"
+    },
+    {
+      "type": "p",
+      "text": "Useful product pages, integration pages, industry pages, pricing information, case studies and honest comparison content all help create that picture."
+    },
+    {
+      "type": "p",
+      "text": "Google's own guidance for succeeding in its AI search experiences is remarkably unexciting in the best possible way: focus on unique, valuable content that genuinely fulfills people's needs. Google says the fundamentals it has long recommended still apply to AI Overviews and AI Mode.",
+      "sources": [
+        {
+          "label": "developers.google.com",
+          "url": "https://developers.google.com/search/blog/2025/05/succeeding-in-ai-search"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So don't abandon useful SEO work because somebody renamed the problem GEO."
+    },
+    {
+      "type": "h2",
+      "text": "The bigger opportunity is what exists beyond your website"
+    },
+    {
+      "type": "p",
+      "text": "This is where AI recommendation strategy starts becoming more interesting."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs analysed 75,000 brands and millions of AI responses. In its December 2025 study, branded web mentions showed a strong correlation with visibility across ChatGPT, Google AI Mode and AI Overviews, roughly 0.66 to 0.71. YouTube mentions were even more strongly correlated at about 0.737.",
+      "sources": [
+        {
+          "label": "ahrefs.com",
+          "url": "https://ahrefs.com/blog/ai-brand-visibility-correlations/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Classic authority metrics were much weaker in the same analysis. For ChatGPT, branded search volume correlated at 0.352 and Domain Rating at 0.266. The number of pages on a company's website had almost no relationship with AI visibility at around 0.194."
+    },
+    {
+      "type": "p",
+      "text": "Important caveat: correlation is not causation. Ahrefs makes that warning itself.",
+      "sources": [
+        {
+          "label": "ahrefs.com",
+          "url": "https://ahrefs.com/blog/ai-brand-visibility-correlations/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "But the pattern is hard to ignore. Brands that exist broadly across the web are also more visible in AI answers."
+    },
+    {
+      "type": "p",
+      "text": "That makes intuitive sense. If the only source claiming that Acme is brilliant enterprise procurement software is acme.com, there isn't much independent context supporting the claim."
+    },
+    {
+      "type": "p",
+      "text": "If procurement experts, customers, YouTube creators, software reviewers, industry newsletters and relevant publications are all discussing Acme in that context, the web contains a much richer body of evidence connecting the brand with the category.",
+      "sources": [
+        {
+          "label": "What Is Creator AEO?",
+          "url": "/blog/what-is-creator-aeo"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "The right context matters more than collecting random mentions"
+    },
+    {
+      "type": "p",
+      "text": "I wouldn't turn that research into a target like \"get 500 brand mentions this quarter.\""
+    },
+    {
+      "type": "p",
+      "text": "A random mention is not the same as a relevant recommendation signal."
+    },
+    {
+      "type": "p",
+      "text": "Suppose you sell fraud-detection software to banks."
+    },
+    {
+      "type": "p",
+      "text": "A mention on a generic startup directory tells the web that your company exists."
+    },
+    {
+      "type": "p",
+      "text": "A detailed YouTube discussion by a fintech risk expert about fraud tools for digital banks can connect your brand with fraud detection, banking, risk, digital finance and the particular problem that expert is discussing."
+    },
+    {
+      "type": "p",
+      "text": "That's much closer to the recommendation you ultimately want an AI system to make."
+    },
+    {
+      "type": "p",
+      "text": "The question therefore isn't just \"how do we get mentioned?\""
+    },
+    {
+      "type": "p",
+      "text": "It's \"where would a credible person naturally talk about us in the context we want to own?\""
+    },
+    {
+      "type": "h2",
+      "text": "Give third parties something useful to say"
+    },
+    {
+      "type": "p",
+      "text": "This is where brands can make the job unnecessarily difficult."
+    },
+    {
+      "type": "p",
+      "text": "You approach a creator, journalist, consultant or newsletter writer and essentially ask them to repeat your homepage."
+    },
+    {
+      "type": "p",
+      "text": "That's not very interesting for them or their audience."
+    },
+    {
+      "type": "p",
+      "text": "Instead, look at the useful material already inside your company."
+    },
+    {
+      "type": "p",
+      "text": "You might have original data, an unusual customer result, a strong case study, a useful benchmark, a contrarian opinion, a practical framework or expertise from working with hundreds of companies in a niche."
+    },
+    {
+      "type": "p",
+      "text": "Then find the people who already talk about that exact subject."
+    },
+    {
+      "type": "p",
+      "text": "If your company has analysed 50 million B2B payment transactions and found something genuinely interesting about late payments, a finance creator who regularly covers cash flow has a reason to care."
+    },
+    {
+      "type": "p",
+      "text": "They may write an article. They may discuss the findings in a video. They may invite someone from your team onto a podcast. They might disagree with the conclusions."
+    },
+    {
+      "type": "p",
+      "text": "All of those outcomes are more interesting than paying someone to publish \"Acme is the best payment platform.\""
+    },
+    {
+      "type": "h2",
+      "text": "Recommendation requires reasons, not just awareness"
+    },
+    {
+      "type": "p",
+      "text": "Think about how humans recommend companies."
+    },
+    {
+      "type": "p",
+      "text": "If a friend asks me for a CRM recommendation, I don't normally choose a company simply because I've heard its name most often."
+    },
+    {
+      "type": "p",
+      "text": "I choose based on the context."
+    },
+    {
+      "type": "p",
+      "text": "For a two-person startup, I might recommend one tool. For a bank with complicated permissions and compliance requirements, I'd recommend something completely different."
+    },
+    {
+      "type": "p",
+      "text": "AI recommendations also happen inside a context created by the prompt."
+    },
+    {
+      "type": "p",
+      "text": "That means your brand needs reasons to belong in particular answers."
+    },
+    {
+      "type": "p",
+      "text": "Your case studies, integrations, pricing model, industry expertise, geographic coverage, customer type and product capabilities can all become reasons."
+    },
+    {
+      "type": "p",
+      "text": "The more specific the recommendation you want, the more specific your evidence should be."
+    },
+    {
+      "type": "p",
+      "text": "Don't aim to be \"the best marketing software.\" Aim to become an obvious candidate for the narrow situations where you genuinely fit."
+    },
+    {
+      "type": "h2",
+      "text": "Creators can help build that context"
+    },
+    {
+      "type": "p",
+      "text": "This is one reason I'm increasingly interested in B2B creators rather than influencer marketing in the traditional sense."
+    },
+    {
+      "type": "p",
+      "text": "I'm not particularly interested in finding the person with the biggest following and asking them to hold up a software product."
+    },
+    {
+      "type": "p",
+      "text": "I'm interested in people who already have credibility around a very specific subject."
+    },
+    {
+      "type": "p",
+      "text": "A LinkedIn creator with 15,000 followers who writes almost exclusively about payments infrastructure might be more useful to a payments company than a general business creator with 500,000 followers."
+    },
+    {
+      "type": "p",
+      "text": "If that specialist independently discusses your research, product, case study or expertise, they create another piece of third-party context around your company."
+    },
+    {
+      "type": "p",
+      "text": "That's the problem we're building B2B Influencer Finder around."
+    },
+    {
+      "type": "p",
+      "text": "Instead of starting with follower count, the tool starts with what your company actually has worth talking about. It then looks for creators whose existing content overlaps with those subjects and shows you why there could be a fit."
+    },
+    {
+      "type": "p",
+      "text": "You still choose who to approach and what kind of collaboration makes sense. The point is to find a relevant conversation rather than manufacture one."
+    },
+    {
+      "type": "h2",
+      "text": "Don't ignore YouTube"
+    },
+    {
+      "type": "p",
+      "text": "If your audience exists on YouTube, the current data makes it particularly difficult to dismiss."
+    },
+    {
+      "type": "p",
+      "text": "In Ahrefs' 75,000-brand analysis, YouTube mentions had the strongest correlation with AI visibility of every factor studied, at roughly 0.737.",
+      "sources": [
+        {
+          "label": "ahrefs.com",
+          "url": "https://ahrefs.com/blog/ai-brand-visibility-correlations/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That does not mean uploading ten videos next week will make ChatGPT recommend you."
+    },
+    {
+      "type": "p",
+      "text": "But it is another reason to think beyond written guest posts and backlinks when you're deciding where third-party brand conversations should happen."
+    },
+    {
+      "type": "p",
+      "text": "A detailed product walkthrough, expert interview, category comparison or discussion of your original research can contain far more contextual information than a logo in a directory ever will."
+    },
+    {
+      "type": "h2",
+      "text": "Make sure AI search systems can actually access your site"
+    },
+    {
+      "type": "p",
+      "text": "There is also a boring technical layer that shouldn't be forgotten."
+    },
+    {
+      "type": "p",
+      "text": "OpenAI says websites need to allow OAI-Searchbot if they want to be eligible for inclusion in ChatGPT search results, and that the host or CDN must allow traffic from OpenAI's published searchbot IP addresses.",
+      "sources": [
+        {
+          "label": "help.openai.com",
+          "url": "https://help.openai.com/en/articles/9237897-chatgpt-search"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That won't make ChatGPT recommend you. It simply avoids accidentally preventing your content from being eligible for search inclusion."
+    },
+    {
+      "type": "p",
+      "text": "The same principle applies generally: make important content crawlable, don't hide the useful parts of your site behind interfaces search systems can't access, maintain sensible internal linking and keep your technical SEO clean."
+    },
+    {
+      "type": "h2",
+      "text": "Track recommendation share, not just citations"
+    },
+    {
+      "type": "p",
+      "text": "If the commercial goal is recommendation, measure recommendation.",
+      "sources": [
+        {
+          "label": "What Is AI Share of Voice and How Do You Improve It?",
+          "url": "/blog/ai-share-of-voice"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "For your target prompt set, track:"
+    },
+    {
+      "type": "p",
+      "text": "whether your brand is recommended\nhow prominently it appears\nwhich competitors are recommended\nwhat reason the AI gives for recommending each company\nwhich attributes are associated with your brand\nwhich sources are cited\nwhether the description of your company is accurate"
+    },
+    {
+      "type": "p",
+      "text": "Over time you can calculate something like recommendation share of voice: across the prompts that matter to you, how often are you included compared with your competitors?"
+    },
+    {
+      "type": "p",
+      "text": "Don't obsess over a single run. AI answers can vary, products change and search-enabled answers can draw on fresh information. Look for patterns across a meaningful prompt set and over time."
+    },
+    {
+      "type": "h2",
+      "text": "A practical plan for becoming more recommendable"
+    },
+    {
+      "type": "p",
+      "text": "If i were starting from zero, I'd do this in roughly this order:"
+    },
+    {
+      "type": "li",
+      "text": "Choose the 20 to 50 recommendation prompts that could actually influence a buyer."
+    },
+    {
+      "type": "li",
+      "text": "Record which brands currently win those prompts and why."
+    },
+    {
+      "type": "li",
+      "text": "Make your own positioning unambiguous across your website."
+    },
+    {
+      "type": "li",
+      "text": "Build useful pages that answer the buying questions behind those prompts."
+    },
+    {
+      "type": "li",
+      "text": "Identify the evidence your company already has: customers, data, case studies, expertise, research and genuinely interesting opinions."
+    },
+    {
+      "type": "li",
+      "text": "Find credible third parties already talking about those subjects."
+    },
+    {
+      "type": "li",
+      "text": "Give them a useful reason to discuss, test, compare, cite or challenge your work."
+    },
+    {
+      "type": "li",
+      "text": "Keep earning relevant mentions across the places your market actually pays attention to."
+    },
+    {
+      "type": "li",
+      "text": "Re-run the prompt set and measure whether your recommendation share changes."
+    },
+    {
+      "type": "p",
+      "text": "None of this guarantees an AI recommendation."
+    },
+    {
+      "type": "p",
+      "text": "But almost all of it is good marketing even if AI search changes completely next year."
+    },
+    {
+      "type": "h2",
+      "text": "Build a brand worth recommending"
+    },
+    {
+      "type": "p",
+      "text": "There is a temptation with every new discovery channel to search for the hack."
+    },
+    {
+      "type": "p",
+      "text": "What's the schema? What's the prompt trick? How many mentions do we need? Which domain should we buy?"
+    },
+    {
+      "type": "p",
+      "text": "Some technical tactics will matter. New ones will emerge too."
+    },
+    {
+      "type": "p",
+      "text": "But recommendation is fundamentally a higher bar than indexing."
+    },
+    {
+      "type": "p",
+      "text": "For an AI system to repeatedly put your company in front of buyers, the web needs to contain enough useful information to connect your brand with the problem being asked about."
+    },
+    {
+      "type": "p",
+      "text": "Your own website is part of that evidence."
+    },
+    {
+      "type": "p",
+      "text": "What customers, creators, experts and publications say about you is another part."
+    },
+    {
+      "type": "p",
+      "text": "So don't only ask how to get AI to recommend your brand."
+    },
+    {
+      "type": "p",
+      "text": "Ask what evidence exists on the internet that makes recommending you a sensible answer in the first place."
+    }
+  ],
+  "relatedArticles": [
+    "how-to-get-your-brand-cited-by-chatgpt",
+    "why-doesnt-chatgpt-mention-my-brand",
+    "how-to-build-a-creator-aeo-strategy"
+  ]
+}

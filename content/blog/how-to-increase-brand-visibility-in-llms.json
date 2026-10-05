@@ -1,0 +1,450 @@
+{
+  "slug": "how-to-increase-brand-visibility-in-llms",
+  "title": "How Do I Increase My Brand's Visibility in LLMs?",
+  "metaTitle": "How Do I Increase My Brand's Visibility in LLMs?",
+  "description": "Learn how to improve your brand's visibility in ChatGPT and other LLMs using clear positioning, useful content, third-party mentions and measurement.",
+  "ogTitle": "How to Increase Your Brand's Visibility in LLMs",
+  "ogDescription": "A practical approach to becoming easier for ChatGPT and other AI systems to understand, mention and cite.",
+  "category": "AI visibility",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-05",
+  "updatedAt": "2026-10-05",
+  "hero": "llm-brand-visibility-system.webp",
+  "heroAlt": "Diagram showing website content, third-party mentions and market signals contributing to brand visibility in LLMs",
+  "diagram": "first-party-third-party-llm-visibility.webp",
+  "diagramAlt": "First-party website content and third-party evidence working together to build LLM brand visibility",
+  "diagramAfter": "4. Build evidence outside your own website",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "If your brand barely appears when people ask ChatGPT, Gemini, Perplexity or other AI tools about your category, the tempting response is to look for an LLM optimization trick.",
+      "sources": [
+        {
+          "label": "Related guide: How Do I Get My Brand Mentioned by AI?",
+          "url": "/blog/how-to-get-your-brand-mentioned-by-ai"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A special file. A new type of schema. A prompt hack. Some technical setting that tells AI systems to pay attention to you."
+    },
+    {
+      "type": "p",
+      "text": "There are technical things worth checking. But increasing your visibility in LLMs is mostly a bigger marketing problem than that."
+    },
+    {
+      "type": "p",
+      "text": "You need to make your company easy to understand, easy to discover and present in enough credible places that AI systems have useful evidence connecting your brand with the topics you want to be known for.",
+      "sources": [
+        {
+          "label": "Related guide: How Do I Get My Company to Show Up in AI Search?",
+          "url": "/blog/how-to-get-your-company-to-show-up-in-ai-search"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "In practice, that means working on your own website and the rest of the web at the same time."
+    },
+    {
+      "type": "h2",
+      "text": "First, define what you mean by LLM visibility"
+    },
+    {
+      "type": "p",
+      "text": "LLM visibility isn't one number."
+    },
+    {
+      "type": "p",
+      "text": "Your brand might be mentioned in an answer without receiving a link. Your website might be cited while the brand name is barely discussed. You might appear for one high-value buying prompt and disappear from 50 broad informational prompts."
+    },
+    {
+      "type": "p",
+      "text": "So before trying to improve anything, decide what you actually care about."
+    },
+    {
+      "type": "p",
+      "text": "For most B2B companies I'd track at least four things: whether the brand is mentioned, how it is described, whether it is cited, and how often it appears compared with competitors.",
+      "sources": [
+        {
+          "label": "What Is AI Share of Voice and How Do You Improve It?",
+          "url": "/blog/ai-share-of-voice"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs, for example, separates AI visibility into mentions, citations, estimated impressions and AI share of voice. You don't need to use their software, but the distinction is useful because a mention and a citation are not the same outcome.",
+      "sources": [
+        {
+          "label": "Ahrefs AI visibility metrics",
+          "url": "https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics"
+        },
+        {
+          "label": "Related guide: How Do I Get ChatGPT to Mention My Brand?",
+          "url": "/blog/how-to-get-chatgpt-to-mention-your-brand"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "1. Make your positioning painfully clear"
+    },
+    {
+      "type": "p",
+      "text": "Start with the boring part because it matters."
+    },
+    {
+      "type": "p",
+      "text": "Can somebody land on your website and understand, in a few seconds, what you sell, who it is for and why they would choose you?",
+      "sources": [
+        {
+          "label": "Related guide: Why Doesn't ChatGPT Mention My Brand?",
+          "url": "/blog/why-doesnt-chatgpt-mention-my-brand"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "If your homepage says you are 'reimagining the future of intelligent business transformation', you may have a positioning problem before you have an LLM problem."
+    },
+    {
+      "type": "p",
+      "text": "Use the language your market actually uses. Name the category. Name the customer. Explain the use case. Make important product capabilities, integrations, industries, pricing information and customer evidence accessible on crawlable pages where appropriate."
+    },
+    {
+      "type": "p",
+      "text": "The goal isn't to write for robots. It is to remove ambiguity."
+    },
+    {
+      "type": "p",
+      "text": "If you want your company associated with B2B referral marketing, restaurant accounting, cloud security or employee benefits, those relationships should be obvious across your site rather than hidden inside vague brand language."
+    },
+    {
+      "type": "h2",
+      "text": "2. Publish content that answers the questions buyers actually ask"
+    },
+    {
+      "type": "p",
+      "text": "LLM visibility overlaps heavily with search visibility because AI products often retrieve current information from the web."
+    },
+    {
+      "type": "p",
+      "text": "That makes useful, indexable content important."
+    },
+    {
+      "type": "p",
+      "text": "Think beyond your product pages. What questions come up before somebody buys? What comparisons do they make? What terminology confuses them? What does implementation cost? What alternatives exist? What risks are they worried about?"
+    },
+    {
+      "type": "p",
+      "text": "Answer those questions properly."
+    },
+    {
+      "type": "p",
+      "text": "This article is an example. Somebody trying to improve LLM visibility doesn't need another page saying 'AI search is the future'. They need to know what to change."
+    },
+    {
+      "type": "p",
+      "text": "Build topic depth around the subjects your company genuinely has expertise in. Don't publish 500 shallow pages because an AI writer made that cheap. More pages are not automatically more authority."
+    },
+    {
+      "type": "h2",
+      "text": "3. Check that AI search crawlers can actually access your site"
+    },
+    {
+      "type": "p",
+      "text": "This is one of the genuinely technical checks worth doing."
+    },
+    {
+      "type": "p",
+      "text": "OpenAI says public websites can appear in ChatGPT search and advises publishers who want their content discoverable in ChatGPT search not to block OAI-SearchBot. Google similarly recommends normal search fundamentals for its AI search experiences rather than a separate AI-only optimization system.",
+      "sources": [
+        {
+          "label": "OpenAI - Publishers and Developers FAQ",
+          "url": "https://help.openai.com/en/articles/12627856"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So check your robots.txt, noindex directives, canonical tags and general crawlability. Make sure important content isn't trapped behind JavaScript behavior that prevents it being discovered properly."
+    },
+    {
+      "type": "p",
+      "text": "But don't confuse crawlability with visibility."
+    },
+    {
+      "type": "p",
+      "text": "Allowing a crawler through the front door doesn't give it a reason to recommend your company."
+    },
+    {
+      "type": "h2",
+      "text": "4. Build evidence outside your own website"
+    },
+    {
+      "type": "p",
+      "text": "This is the part I think a lot of brands are underestimating."
+    },
+    {
+      "type": "p",
+      "text": "Your website is first-party evidence. It tells the world what you say about yourself."
+    },
+    {
+      "type": "p",
+      "text": "The rest of the web can provide third-party evidence: customers, creators, journalists, industry publications, newsletters, podcasts, YouTube channels, review sites, communities and other experts talking about you.",
+      "sources": [
+        {
+          "label": "What Is Creator AEO?",
+          "url": "/blog/what-is-creator-aeo"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "There is already interesting data around this. Ahrefs analysed 75,000 brands and found branded web mentions had the strongest correlation with brand visibility in Google's AI Overviews in its study, at 0.664. Backlinks had a much weaker correlation of 0.218. Ahrefs explicitly warns that correlation is not causation, and so should we.",
+      "sources": [
+        {
+          "label": "Ahrefs - Analysis of AI Overview Brand Visibility Factors (75K brands)",
+          "url": "https://ahrefs.com/blog/ai-overview-brand-correlation/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A later Ahrefs analysis across ChatGPT, Google AI Mode and AI Overviews again found branded web mentions strongly correlated with AI visibility. It also found YouTube mentions had an even stronger correlation across the platforms studied.",
+      "sources": [
+        {
+          "label": "Ahrefs - Top Brand Visibility Factors in ChatGPT, AI Mode, and AI Overviews",
+          "url": "https://ahrefs.com/blog/ai-brand-visibility-correlations/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "None of this means 'buy 100 mentions and ChatGPT will rank you'. It does suggest something more useful: brands that are widely discussed in relevant contexts tend to be more visible in AI answers."
+    },
+    {
+      "type": "h2",
+      "text": "5. Focus on context, not mention volume"
+    },
+    {
+      "type": "p",
+      "text": "Imagine you sell cybersecurity software for banks."
+    },
+    {
+      "type": "p",
+      "text": "You could get mentioned 50 times on generic startup directories. Or you could be discussed in a detailed YouTube video by a banking security expert explaining how financial institutions handle a particular compliance problem."
+    },
+    {
+      "type": "p",
+      "text": "Those are both technically brand mentions. They are not equally useful marketing."
+    },
+    {
+      "type": "p",
+      "text": "I would optimize for contextual evidence rather than raw mention count."
+    },
+    {
+      "type": "p",
+      "text": "Who talks about you? What subject are they discussing? What words appear around your brand? Is the page actually about something you want to be known for? Would a potential buyer trust the person or publication?"
+    },
+    {
+      "type": "p",
+      "text": "That is also why niche B2B creators are interesting. A creator with 15,000 highly relevant followers may have far more useful subject authority for your company than a general business influencer with half a million."
+    },
+    {
+      "type": "h2",
+      "text": "6. Give credible people a reason to talk about you"
+    },
+    {
+      "type": "p",
+      "text": "Getting third-party coverage is difficult if the only thing you have to offer is your product pitch."
+    },
+    {
+      "type": "p",
+      "text": "Look inside your company for things other people could genuinely use: original data, customer results, benchmarks, case studies, unusual opinions, practical expertise, experiments, industry observations and useful tools."
+    },
+    {
+      "type": "p",
+      "text": "Then match those assets to people already covering the subject."
+    },
+    {
+      "type": "p",
+      "text": "If you have data on SaaS referral conversion rates, find creators who already discuss SaaS growth or referral marketing. If you have a strong banking case study, find fintech newsletters, banking creators and podcasts where the underlying problem is relevant."
+    },
+    {
+      "type": "p",
+      "text": "The collaboration becomes much stronger because you aren't asking someone to randomly advertise you. You're giving them material that fits something they already care about."
+    },
+    {
+      "type": "h2",
+      "text": "7. Think about creators as distribution for expertise"
+    },
+    {
+      "type": "p",
+      "text": "This is the idea behind B2B Influencer Finder."
+    },
+    {
+      "type": "p",
+      "text": "Most influencer databases start with the person: follower count, platform, location, engagement rate."
+    },
+    {
+      "type": "p",
+      "text": "We're approaching it from the collaboration."
+    },
+    {
+      "type": "p",
+      "text": "What does your company know? Which content or evidence is actually interesting? Who is already talking about that subject? And why would their audience care?"
+    },
+    {
+      "type": "p",
+      "text": "B2B Influencer Finder analyses your existing content and matches it with relevant B2B creators across channels such as LinkedIn, YouTube, newsletters, podcasts, blogs and X."
+    },
+    {
+      "type": "p",
+      "text": "The point isn't to find the biggest influencer. It's to find a credible person with a sensible reason to talk about something your brand knows."
+    },
+    {
+      "type": "h2",
+      "text": "8. Don't forget customers and partners"
+    },
+    {
+      "type": "p",
+      "text": "You may already have your best third-party evidence sitting in your CRM."
+    },
+    {
+      "type": "p",
+      "text": "Customers can explain why they chose you, what problem they had and what happened after implementation. Partners can explain where your product fits in a broader workflow. Industry specialists can add perspective to your research."
+    },
+    {
+      "type": "p",
+      "text": "Your own case study is useful. A customer independently talking about the same experience can add another layer of credibility."
+    },
+    {
+      "type": "p",
+      "text": "Don't manufacture reviews or script fake enthusiasm. Make it easier for people with genuine experience to tell the story in their own words."
+    },
+    {
+      "type": "h2",
+      "text": "9. Track a fixed set of prompts instead of testing randomly"
+    },
+    {
+      "type": "p",
+      "text": "LLM outputs vary. Personalization, model changes, retrieval and prompt wording can all affect what appears."
+    },
+    {
+      "type": "p",
+      "text": "So don't judge your visibility by opening ChatGPT once and asking whether it knows your company."
+    },
+    {
+      "type": "p",
+      "text": "Create a prompt set based on actual buyer questions."
+    },
+    {
+      "type": "p",
+      "text": "For a referral marketing platform, that might include 'best referral software for SaaS', 'how to automate customer referral rewards', 'Referral Factory alternatives' and 'best referral platforms for banks'."
+    },
+    {
+      "type": "p",
+      "text": "Record which brands appear, where you rank or appear in the answer, how your brand is described, which sources are cited and which competitors dominate."
+    },
+    {
+      "type": "p",
+      "text": "Repeat the same prompt set over time. The absolute number will never be perfect, but the trend is far more useful than random screenshots."
+    },
+    {
+      "type": "h2",
+      "text": "10. Separate the things you can control from the things you cannot"
+    },
+    {
+      "type": "p",
+      "text": "You cannot control exactly how an LLM will answer a question tomorrow."
+    },
+    {
+      "type": "p",
+      "text": "You can control whether your website is technically accessible. You can control whether your positioning is clear. You can publish better information. You can create original evidence. You can build relationships with credible people in your industry. You can help customers tell their stories. You can earn coverage on pages and channels your buyers already trust."
+    },
+    {
+      "type": "p",
+      "text": "Those are durable marketing activities even if AI search changes dramatically next year."
+    },
+    {
+      "type": "h2",
+      "text": "A practical LLM visibility plan"
+    },
+    {
+      "type": "p",
+      "text": "If I were starting from zero, I'd do this in order."
+    },
+    {
+      "type": "p",
+      "text": "First, establish a baseline using 20 to 50 commercially relevant prompts and a handful of direct competitors."
+    },
+    {
+      "type": "p",
+      "text": "Second, clean up the website so the category, audience, use cases and expertise are obvious and crawlable."
+    },
+    {
+      "type": "p",
+      "text": "Third, identify content gaps around the questions buyers ask and build genuinely useful pages to fill them."
+    },
+    {
+      "type": "p",
+      "text": "Fourth, map the strongest evidence your company already has: research, data, customer stories, expertise and case studies."
+    },
+    {
+      "type": "p",
+      "text": "Fifth, find the external people and publications already discussing those subjects and create legitimate reasons for them to engage with your evidence."
+    },
+    {
+      "type": "p",
+      "text": "Then measure what changes."
+    },
+    {
+      "type": "p",
+      "text": "Not next Tuesday. Over months."
+    },
+    {
+      "type": "p",
+      "text": "LLM visibility is still a young discipline and anyone pretending the causal mechanics are completely understood is getting ahead of the evidence."
+    },
+    {
+      "type": "p",
+      "text": "But the direction is becoming clearer."
+    },
+    {
+      "type": "p",
+      "text": "If you want LLMs to understand your company, make your company understandable."
+    },
+    {
+      "type": "p",
+      "text": "If you want LLMs to encounter your brand, be present where useful information about your market is being published."
+    },
+    {
+      "type": "p",
+      "text": "And if you want your brand associated with a particular topic, don't be the only person making that association."
+    },
+    {
+      "type": "p",
+      "text": "Give other credible people something worth saying about you."
+    }
+  ],
+  "relatedArticles": [
+    "how-to-get-ai-to-associate-your-brand-with-a-topic",
+    "ai-share-of-voice",
+    "how-to-build-a-creator-aeo-strategy"
+  ],
+  "plannedInternalLinks": [
+    "Link naturally to Article 01: How Do I Get My Brand Mentioned by AI?",
+    "Link to Article 02: How Do I Get ChatGPT to Mention My Brand? where ChatGPT-specific optimization is discussed.",
+    "Link to Article 04: How Do I Get My Company to Show Up in AI Search? where search visibility is discussed.",
+    "Link to Article 06: Why Doesn't ChatGPT Mention My Brand? from the troubleshooting context.",
+    "Future link to Article 08: What Is AI Share of Voice and How Do You Improve It? once live.",
+    "Future link to Article 11: What Is Creator AEO? once live.",
+    "Article is a new post and the public page contains no implementation notes from this brief."
+  ],
+  "diagramWidth": 1200,
+  "diagramHeight": 630
+}

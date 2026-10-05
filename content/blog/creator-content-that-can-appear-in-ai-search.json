@@ -1,0 +1,330 @@
+{
+  "slug": "creator-content-that-can-appear-in-ai-search",
+  "title": "What Types of Creator Content Can Appear in AI Search?",
+  "metaTitle": "What Creator Content Can Appear in AI Search?",
+  "description": "YouTube videos, LinkedIn content, articles, communities and other creator formats can surface in AI search. Here is what current citation data actually shows.",
+  "ogTitle": "Which Creator Content Formats Can Show Up in AI Search?",
+  "ogDescription": "A practical look at the creator formats AI search engines currently cite, from YouTube and LinkedIn to articles, communities and podcasts.",
+  "category": "Third-party evidence",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-06",
+  "updatedAt": "2026-10-06",
+  "hero": "creator-content-ai-search-formats.webp",
+  "heroAlt": "Creator content formats including video, articles, LinkedIn, newsletters and podcasts flowing into AI search",
+  "diagram": "creator-content-ai-discoverability-framework.webp",
+  "diagramAlt": "Framework comparing creator content formats by public accessibility, extractable text, topic depth and durability",
+  "diagramAfter": "YouTube is impossible to ignore",
+  "diagramWidth": 1200,
+  "diagramHeight": 800,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Creator content can appear in AI search in more formats than most B2B teams assume. YouTube videos, LinkedIn posts and articles, independent blogs, community discussions, reviews and other public web pages are already showing up as sources across AI search products.",
+      "sources": []
+    },
+    {
+      "type": "p",
+      "text": "But there is an important catch: there is no universal list of formats that every AI engine treats the same way. ChatGPT, Google AI Overviews, Gemini and Perplexity use different retrieval systems and their source mix changes over time. So i would not build a creator strategy around one platform being 'the AI platform'."
+    },
+    {
+      "type": "p",
+      "text": "I would build around a simpler idea. Creator content has a better chance of becoming useful AI-search evidence when it is public, accessible, specific to a topic, rich enough to answer a real question and durable enough to still exist when somebody asks that question later."
+    },
+    {
+      "type": "h2",
+      "text": "YouTube is impossible to ignore"
+    },
+    {
+      "type": "p",
+      "text": "If i had to choose one creator format to take seriously right now, YouTube would be near the top of the list.",
+      "sources": [
+        {
+          "label": "Does YouTube Help Your Brand Get Mentioned in AI Search?",
+          "url": "/blog/does-youtube-help-ai-visibility"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs' AI Visibility Index for August 2026 lists youtube.com as the most-cited source in its dataset, with 26.55 million citations across the AI surfaces it tracks. That does not mean every AI engine cites YouTube at the same rate. It does show that video content can absolutely become part of the source layer around AI answers.",
+      "sources": [
+        {
+          "label": "Ahrefs - AI Visibility Index",
+          "url": "https://ahrefs.com/ai-visibility-index"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The interesting bit is that a YouTube video is not only video. It has a title, description, channel context, often captions or a transcript, comments and a stable public URL. A useful specialist video can therefore carry a lot of extractable context around a subject."
+    },
+    {
+      "type": "p",
+      "text": "For B2B brands, this makes product walkthroughs, expert analysis, case-study breakdowns, comparisons and research commentary much more interesting than a generic creator shout-out."
+    },
+    {
+      "type": "h2",
+      "text": "LinkedIn can appear too, especially in B2B"
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn is another format marketers often underestimate because they think of it as a feed rather than a source.",
+      "sources": [
+        {
+          "label": "Does LinkedIn Content Influence What AI Says About Your Brand?",
+          "url": "/blog/does-linkedin-content-influence-ai"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Meltwater analysed 9.5 million AI citations across six major models in B2B categories and reported LinkedIn as the second most-cited source in its study, behind YouTube. The exact ranking will vary by dataset and engine, but it is strong evidence that professional creator content can make its way into AI answers.",
+      "sources": [
+        {
+          "label": "LinkedIn / Meltwater - AI Search & LinkedIn: 5 Takeaways from 9.5 Million Citations",
+          "url": "https://www.linkedin.com/business/marketing/blog/ai-search/new-meltwater-research-shares-5-insights-from-9-million-citations"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "There is also a useful distinction inside LinkedIn. A 2026 analysis from cloro found that among answers in its corpus that cited LinkedIn, LinkedIn Articles appeared more often than feed posts. That is one dataset, not a law, but it makes intuitive sense that longer, more self-contained pieces can give retrieval systems more context to work with.",
+      "sources": [
+        {
+          "label": "cloro - LinkedIn Articles vs Posts: AI Citations Fell 65%",
+          "url": "https://cloro.dev/blog/linkedin-articles-vs-posts/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "I would not stop publishing normal LinkedIn posts because of that. I would just recognise that a substantial article explaining a niche problem may create a different kind of evidence from a short opinion post designed mainly for feed engagement."
+    },
+    {
+      "type": "h2",
+      "text": "Independent articles and blogs are still extremely useful"
+    },
+    {
+      "type": "p",
+      "text": "AI search did not make normal websites disappear. Creator blogs, specialist publications, contributed articles and independent comparison pages remain useful because they are ordinary public web documents with clear text, headings, URLs and topical context."
+    },
+    {
+      "type": "p",
+      "text": "For a B2B company this can be one of the cleanest forms of third-party evidence. A specialist writes an article about a problem your buyers care about, includes your company where it genuinely belongs and adds their own analysis. The result can serve humans through search and sharing while also being available to retrieval systems that can access the page."
+    },
+    {
+      "type": "p",
+      "text": "This is why i would rather earn one detailed article from the right expert than twenty thin syndicated mentions."
+    },
+    {
+      "type": "h2",
+      "text": "Community discussions are part of the source mix"
+    },
+    {
+      "type": "p",
+      "text": "Reddit is the obvious example. Tinuiti's Q1 2026 citation research found Reddit's share of AI citations growing across every industry and platform it studied, although the amount varied dramatically by AI engine. Ahrefs' August 2026 index also places reddit.com among the most-cited domains overall.",
+      "sources": [
+        {
+          "label": "Tinuiti - Q1 2026 AI Citation Trends Report",
+          "url": "https://tinuiti.com/research-insights/research/ai-citation-trends-report-q1-2026/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "For brands, that does not mean 'go seed Reddit'. That is usually a terrible interpretation. It means genuine public discussions, recommendations, complaints and comparisons can become part of the information environment AI systems use."
+    },
+    {
+      "type": "p",
+      "text": "Creator AEO should not turn communities into another spam channel. If a creator genuinely participates in a relevant community, the useful thing is the quality of the contribution, not forcing a brand mention into it."
+    },
+    {
+      "type": "h2",
+      "text": "What about newsletters and Substack?"
+    },
+    {
+      "type": "p",
+      "text": "Newsletters are interesting because the format can split in two. The email itself may be private to an inbox, while the web version of the newsletter may be publicly accessible and indexable.",
+      "sources": [
+        {
+          "label": "Do Substack Articles Help With AI Visibility?",
+          "url": "/blog/do-substack-articles-help-ai-visibility"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "From an AI-search perspective, the public web version is the more obvious asset. If a newsletter writer publishes a permanent article page on Substack, beehiiv or their own domain, that page can potentially be discovered like other web content. If the content exists only inside an email or behind access controls, you should be much more cautious about assuming an AI search engine can retrieve it."
+    },
+    {
+      "type": "p",
+      "text": "So when arranging a newsletter collaboration, i would ask whether there will also be a public archive page. That can matter for the long-term evidence value of the piece."
+    },
+    {
+      "type": "h2",
+      "text": "Podcasts are slightly more complicated"
+    },
+    {
+      "type": "p",
+      "text": "A podcast episode can create useful brand evidence, but the discoverable object is often not the audio file itself. It may be the episode page, show notes, transcript, YouTube version, Spotify or Apple Podcasts listing, or an article created from the discussion.",
+      "sources": [
+        {
+          "label": "Do Podcasts Help With AI Search Visibility?",
+          "url": "/blog/do-podcasts-help-ai-visibility"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That means a podcast collaboration becomes more useful for AI discovery when there is good public text around it. A detailed episode page and transcript give the conversation a much clearer web footprint than an audio file with a vague two-line description."
+    },
+    {
+      "type": "p",
+      "text": "I would therefore treat podcast distribution as a package: the conversation itself plus the public pages and transcripts that make the conversation easier to find and understand."
+    },
+    {
+      "type": "h2",
+      "text": "Short-form social content is harder to generalise about"
+    },
+    {
+      "type": "p",
+      "text": "Instagram, TikTok, X, Facebook and other social platforms do appear in citation datasets, but access and citation patterns can be volatile. Ahrefs' August 2026 index, for example, includes Facebook, Instagram and TikTok among its most-cited domains, while other studies show very different mixes by engine and category."
+    },
+    {
+      "type": "p",
+      "text": "This is why i would not tell a B2B company that every social post is an AEO asset. Platform access changes. AI engines change. A brilliant post can disappear in a feed quickly. Use social content because the audience is there first, then treat AI discoverability as an additional possible benefit."
+    },
+    {
+      "type": "h2",
+      "text": "The format matters less than four underlying properties"
+    },
+    {
+      "type": "p",
+      "text": "When we talk about creator content for AI search, i think marketers get too obsessed with channel names. I would evaluate each piece on four simpler questions."
+    },
+    {
+      "type": "p",
+      "text": "Is it public and accessible? Is there enough extractable context to understand what the piece is about? Is it tightly connected to a topic people actually ask about? And will it still be available in six or twelve months?"
+    },
+    {
+      "type": "p",
+      "text": "A niche YouTube video can score well on all four. So can a LinkedIn article, specialist blog post or public newsletter. A disappearing story or private email might be valuable marketing, but it creates a weaker persistent evidence asset."
+    },
+    {
+      "type": "h2",
+      "text": "This changes how i would brief a creator"
+    },
+    {
+      "type": "p",
+      "text": "Instead of saying 'please mention our brand', start with the useful thing the creator could make."
+    },
+    {
+      "type": "p",
+      "text": "Maybe you have original data they can analyse. Maybe there is a customer result worth unpacking. Maybe your founder has a strong point of view on a change in the market. Maybe the creator can compare approaches, test the product or interview an expert."
+    },
+    {
+      "type": "p",
+      "text": "Then choose the format that fits the creator and the idea. A detailed YouTube walkthrough might be perfect for one creator. Another might turn the same evidence into a newsletter article. A podcast host might build an episode around the argument. The goal is not to force every creator into the same deliverable."
+    },
+    {
+      "type": "p",
+      "text": "This is also the logic behind B2B Influencer Finder. We start with what a company actually knows and the content it already has, then match that to creators whose existing work overlaps with the subject. The collaboration angle comes before follower count."
+    },
+    {
+      "type": "h2",
+      "text": "Do not confuse appearing with being recommended"
+    },
+    {
+      "type": "p",
+      "text": "A creator page being cited by an AI answer does not mean the AI system endorses your brand. It might cite a review that criticises you, a comparison that prefers a competitor or a discussion where your company is only one option."
+    },
+    {
+      "type": "p",
+      "text": "That is why creator AEO is partly about visibility and partly about context. You want credible third parties discussing you accurately in the topics where you genuinely belong. You cannot control their conclusion, and you should not try to manufacture fake consensus."
+    },
+    {
+      "type": "h2",
+      "text": "How i would prioritise creator formats for a B2B brand"
+    },
+    {
+      "type": "p",
+      "text": "I would start with the audience and subject, then favour formats that create durable public evidence. In many B2B categories that means YouTube, specialist articles, public newsletters, LinkedIn articles or substantive posts, podcasts with strong public episode pages and relevant community discussions."
+    },
+    {
+      "type": "p",
+      "text": "The mix will be different for every company. More importantly, it will keep changing as AI products change their source behaviour."
+    },
+    {
+      "type": "p",
+      "text": "So the answer to 'what creator content can appear in AI search?' is broader than one channel. Video can. Professional social content can. Articles can. Community discussions can. Public newsletter pages can. Podcast pages and transcripts can. Other public social content can too."
+    },
+    {
+      "type": "p",
+      "text": "The better question is whether the piece creates useful, accessible and durable evidence around the subject you want your brand to be understood for."
+    },
+    {
+      "type": "p",
+      "text": "That is the content worth creating even if the AI citation never comes."
+    },
+    {
+      "type": "h2",
+      "text": "Sources"
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs - AI Visibility Index",
+      "sources": [
+        {
+          "label": "Ahrefs - AI Visibility Index",
+          "url": "https://ahrefs.com/ai-visibility-index"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn / Meltwater - AI Search & LinkedIn: 5 Takeaways from 9.5 Million Citations",
+      "sources": [
+        {
+          "label": "LinkedIn / Meltwater - AI Search & LinkedIn: 5 Takeaways from 9.5 Million Citations",
+          "url": "https://www.linkedin.com/business/marketing/blog/ai-search/new-meltwater-research-shares-5-insights-from-9-million-citations"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tinuiti - Q1 2026 AI Citation Trends Report",
+      "sources": [
+        {
+          "label": "Tinuiti - Q1 2026 AI Citation Trends Report",
+          "url": "https://tinuiti.com/research-insights/research/ai-citation-trends-report-q1-2026/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "cloro - LinkedIn Articles vs Posts: AI Citations Fell 65%",
+      "sources": [
+        {
+          "label": "cloro - LinkedIn Articles vs Posts: AI Citations Fell 65%",
+          "url": "https://cloro.dev/blog/linkedin-articles-vs-posts/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Wellows - Social Media in AI Citations (2026)",
+      "sources": [
+        {
+          "label": "Wellows - Social Media in AI Citations (2026)",
+          "url": "https://wellows.com/research/social-media-ai-citations-report-2026/"
+        }
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "does-linkedin-content-influence-ai",
+    "does-youtube-help-ai-visibility",
+    "how-to-build-a-creator-aeo-strategy"
+  ]
+}

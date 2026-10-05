@@ -1,0 +1,524 @@
+{
+  "slug": "how-to-get-your-company-to-show-up-in-ai-search",
+  "title": "How Do I Get My Company to Show Up in AI Search?",
+  "description": "Learn how to improve your company’s visibility in ChatGPT, Google AI search and other AI answers using clear positioning, useful content and third-party evidence.",
+  "ogTitle": "How to Get Your Company to Show Up in AI Search",
+  "ogDescription": "AI search visibility is bigger than ranking one page. Here’s how to make your company easier for AI systems to find, understand and surface.",
+  "category": "AI visibility",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-05",
+  "updatedAt": "2026-10-05",
+  "hero": "company-show-up-in-ai-search-color.webp",
+  "heroAlt": "How a company becomes visible across AI search results and recommendations",
+  "diagram": "ai-search-visibility-system-color.webp",
+  "diagramAlt": "Ai search visibility system",
+  "diagramAfter": "Think in terms of first-party and third-party evidence",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "AI search has created a slightly strange new marketing problem."
+    },
+    {
+      "type": "p",
+      "text": "Your company can rank on Google, publish regularly, have real customers and still be missing when somebody asks ChatGPT, Gemini or another AI system a question about your category."
+    },
+    {
+      "type": "p",
+      "text": "That doesn't necessarily mean the AI has never heard of you. It may simply mean your company isn't being surfaced for the particular questions that matter."
+    },
+    {
+      "type": "p",
+      "text": "So if the goal is to show up in AI search, i'd think about it as three separate jobs:"
+    },
+    {
+      "type": "p",
+      "text": "Make your company easy to understand.\n\nCreate useful information AI systems can retrieve or cite.\n\nBuild enough evidence around the web that your relevance doesn't depend entirely on what you say about yourself."
+    },
+    {
+      "type": "p",
+      "text": "There is no guaranteed formula. Different AI products retrieve information differently and their answers can change from one prompt to another. But we now have enough public documentation and independent research to build a sensible strategy around those three jobs."
+    },
+    {
+      "type": "h2",
+      "text": "First, stop thinking of AI search as one search engine"
+    },
+    {
+      "type": "p",
+      "text": "One of the easiest mistakes is talking about 'AI search' as though ChatGPT, Google AI Overviews, Gemini and every other AI assistant share one ranking system."
+    },
+    {
+      "type": "p",
+      "text": "They don't."
+    },
+    {
+      "type": "p",
+      "text": "ChatGPT can search the web when a question benefits from current information and may include citations to sources. Google is building AI Overviews and AI Mode directly into Search and continues to add links to relevant websites and original content inside those experiences."
+    },
+    {
+      "type": "p",
+      "text": "Independent research also shows that the same brand can perform very differently from one AI platform to another. Semrush's 2026 AI Visibility Index measures mentions and citations separately across ChatGPT, Gemini, Google AI Mode and AI Overviews because the platforms behave differently.",
+      "sources": [
+        {
+          "label": "Semrush — Why 62% of AI citations don’t lead to brand mentions",
+          "url": "https://www.semrush.com/blog/the-ghost-citations-study/"
+        },
+        {
+          "label": "What Is AI Share of Voice and How Do You Improve It?",
+          "url": "/blog/ai-share-of-voice"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That means there probably isn't one universal position to rank for."
+    },
+    {
+      "type": "p",
+      "text": "Your company could be visible in Gemini and absent from ChatGPT. You could be cited by one system without being named. Another could recommend you without linking to your website at all."
+    },
+    {
+      "type": "p",
+      "text": "So the useful question isn't 'where do we rank in AI?'"
+    },
+    {
+      "type": "p",
+      "text": "It's 'for which prompts, on which platforms, does our company appear?'"
+    },
+    {
+      "type": "h2",
+      "text": "Decide what you actually want to show up for"
+    },
+    {
+      "type": "p",
+      "text": "Before changing your website, make a list of the questions where appearing would have commercial value."
+    },
+    {
+      "type": "p",
+      "text": "If you sell procurement software, these might be:"
+    },
+    {
+      "type": "p",
+      "text": "What are the best procurement platforms for mid-market companies?\n\nWhich procurement software works for multi-entity businesses?\n\nWhat are good alternatives to [competitor]?\n\nWhich procurement tools integrate with NetSuite?\n\nHow should a 500-person company automate purchase approvals?"
+    },
+    {
+      "type": "p",
+      "text": "Notice that these aren't all 'best software' queries."
+    },
+    {
+      "type": "p",
+      "text": "Some are direct recommendations. Some are comparisons. Some are problem questions where your company could appear as part of the answer or as a cited source."
+    },
+    {
+      "type": "p",
+      "text": "I'd build an initial set of perhaps 20 to 50 prompts covering your category, customer type, important use cases, integrations, industries and competitors."
+    },
+    {
+      "type": "p",
+      "text": "Then test them across the AI systems your customers are likely to use."
+    },
+    {
+      "type": "p",
+      "text": "Record who appears. Record who gets cited. Record how the winners are described. And pay attention to which external sources keep showing up."
+    },
+    {
+      "type": "p",
+      "text": "That baseline is far more useful than asking ChatGPT one branded question and deciding whether your AI strategy is working."
+    },
+    {
+      "type": "h2",
+      "text": "Make it painfully obvious what your company does"
+    },
+    {
+      "type": "p",
+      "text": "Before trying to influence AI answers elsewhere, fix ambiguity on your own website."
+    },
+    {
+      "type": "p",
+      "text": "A surprising number of B2B homepages make visitors decode the company before they can understand the product."
+    },
+    {
+      "type": "p",
+      "text": "'Transform the future of work.'"
+    },
+    {
+      "type": "p",
+      "text": "'Unlock your potential.'"
+    },
+    {
+      "type": "p",
+      "text": "'The operating system for possibility.'"
+    },
+    {
+      "type": "p",
+      "text": "Lovely. But what do you actually sell?"
+    },
+    {
+      "type": "p",
+      "text": "Your homepage and important product pages should make the basic facts easy to extract: what kind of company you are, what your product does, who it's for, which problems it solves, which markets you serve and where you're meaningfully different."
+    },
+    {
+      "type": "p",
+      "text": "The same entities and relationships should appear consistently across product pages, industry pages, integrations, case studies and company information."
+    },
+    {
+      "type": "p",
+      "text": "This isn't about writing for robots. Clear positioning helps humans too."
+    },
+    {
+      "type": "h2",
+      "text": "Create pages that deserve to appear in the answer"
+    },
+    {
+      "type": "p",
+      "text": "Being understood is only the first part."
+    },
+    {
+      "type": "p",
+      "text": "You also need information worth retrieving."
+    },
+    {
+      "type": "p",
+      "text": "If people repeatedly ask whether your product integrates with Salesforce and your only explanation is hidden inside a PDF sales deck, you've made the web's job unnecessarily difficult."
+    },
+    {
+      "type": "p",
+      "text": "The same applies to pricing, industries, use cases, comparisons, implementation, security, geographic availability and customer outcomes."
+    },
+    {
+      "type": "p",
+      "text": "Create genuinely useful pages around the questions buyers ask while researching your category."
+    },
+    {
+      "type": "p",
+      "text": "That might mean an integration page that actually explains the integration. A comparison that discusses real differences rather than declaring yourself the winner in every row. A case study containing numbers and context. A guide based on experience your company genuinely has."
+    },
+    {
+      "type": "p",
+      "text": "Google's direction with AI search is useful here. In 2026 it said it was adding more ways for AI Mode and AI Overviews to surface relevant websites, original content and authentic voices, including links placed directly beside relevant parts of an AI response."
+    },
+    {
+      "type": "p",
+      "text": "So don't build a parallel website full of thin 'AI SEO' pages."
+    },
+    {
+      "type": "p",
+      "text": "Build the best evidence for the questions you want to answer."
+    },
+    {
+      "type": "h2",
+      "text": "Your own website is only one part of the evidence"
+    },
+    {
+      "type": "p",
+      "text": "This is the biggest shift for me."
+    },
+    {
+      "type": "p",
+      "text": "Traditional SEO trained marketers to think heavily about their own pages and the links pointing to them."
+    },
+    {
+      "type": "p",
+      "text": "AI answers can bring together information from many places, and research increasingly suggests that broad brand presence matters too."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs analysed 75,000 brands and found branded web mentions had a strong correlation with brand visibility across ChatGPT, Google AI Mode and AI Overviews. In a later cross-platform analysis, branded web mentions correlated at roughly 0.66 to 0.71 with AI visibility. YouTube mentions were even more strongly correlated, at around 0.737.",
+      "sources": [
+        {
+          "label": "Ahrefs — Top Brand Visibility Factors in ChatGPT, AI Mode, and AI Overviews",
+          "url": "https://ahrefs.com/blog/ai-brand-visibility-correlations/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That does not prove that a YouTube mention causes ChatGPT to recommend you. Correlation is not causation, and AI systems are too complicated for that conclusion."
+    },
+    {
+      "type": "p",
+      "text": "But it supports a useful marketing principle: a company that exists only on its own domain gives the wider web much less evidence to work with than a company discussed by customers, creators, publications and specialists in its market.",
+      "sources": [
+        {
+          "label": "What Is Creator AEO?",
+          "url": "/blog/what-is-creator-aeo"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Think in terms of first-party and third-party evidence"
+    },
+    {
+      "type": "p",
+      "text": "I find this a more useful model than obsessing over whether something counts as GEO, AEO, SEO or PR."
+    },
+    {
+      "type": "p",
+      "text": "First-party evidence is what you publish yourself."
+    },
+    {
+      "type": "p",
+      "text": "Your product pages. Your research. Your documentation. Your case studies. Your blog."
+    },
+    {
+      "type": "p",
+      "text": "Third-party evidence is what exists outside your domain."
+    },
+    {
+      "type": "p",
+      "text": "A creator discussing your research. A customer explaining why they chose you. A newsletter mentioning your company. A YouTube comparison. A podcast conversation. An industry article. A review. A community discussion."
+    },
+    {
+      "type": "p",
+      "text": "You need the first-party material because it gives the web accurate information about you."
+    },
+    {
+      "type": "p",
+      "text": "You want the third-party material because it shows that your company exists in a wider market conversation."
+    },
+    {
+      "type": "p",
+      "text": "And ideally the two agree."
+    },
+    {
+      "type": "p",
+      "text": "If your website says you're enterprise cybersecurity software but every independent mention describes you as a tool for freelancers, you have a positioning problem bigger than AI search."
+    },
+    {
+      "type": "h2",
+      "text": "Get mentioned in the context you want to own"
+    },
+    {
+      "type": "p",
+      "text": "Volume alone isn't the goal."
+    },
+    {
+      "type": "p",
+      "text": "If your company sells treasury software to CFOs, 200 random mentions from generic startup directories aren't necessarily more useful than five detailed discussions from people who actually talk about finance operations."
+    },
+    {
+      "type": "p",
+      "text": "Context connects your brand with the subjects you want to be understood for."
+    },
+    {
+      "type": "p",
+      "text": "A finance creator discussing your benchmark on international cash management can connect your company with treasury, finance teams, cross-border operations and whatever findings the creator is discussing."
+    },
+    {
+      "type": "p",
+      "text": "A customer explaining how they used your product during an ERP migration connects you with a completely different set of concepts."
+    },
+    {
+      "type": "p",
+      "text": "This is why i think niche B2B creators are going to become much more interesting to marketers."
+    },
+    {
+      "type": "p",
+      "text": "You don't necessarily need celebrity reach. You need credible people already participating in the exact conversation where you want your company to exist."
+    },
+    {
+      "type": "h2",
+      "text": "Give those people something worth talking about"
+    },
+    {
+      "type": "p",
+      "text": "Nobody owes your brand a mention."
+    },
+    {
+      "type": "p",
+      "text": "And 'we launched a new feature' is rarely interesting enough on its own."
+    },
+    {
+      "type": "p",
+      "text": "Look through the information your company already owns."
+    },
+    {
+      "type": "p",
+      "text": "Maybe you have unusual customer data. A strong case study. An interesting benchmark. A useful framework. A founder with a genuinely contrarian view. An analysis nobody else has done. A customer result that teaches the market something."
+    },
+    {
+      "type": "p",
+      "text": "Then match that material with people who already cover the subject."
+    },
+    {
+      "type": "p",
+      "text": "This is the logic behind B2B Influencer Finder. Instead of starting with follower count, we start with the overlap between what a brand has worth talking about and what a creator already talks about."
+    },
+    {
+      "type": "p",
+      "text": "A creator who has written six times about B2B onboarding is more interesting for your onboarding benchmark than somebody with ten times the audience who mostly talks about general entrepreneurship."
+    },
+    {
+      "type": "p",
+      "text": "The collaboration angle comes from the match."
+    },
+    {
+      "type": "h2",
+      "text": "Don't confuse citations with visibility"
+    },
+    {
+      "type": "p",
+      "text": "Another measurement trap is assuming a citation means the user saw your brand."
+    },
+    {
+      "type": "p",
+      "text": "Semrush analysed 3,981 domain appearances across four AI search experiences and found that 61.7% were 'ghost citations': the domain appeared as a source but the brand wasn't actually named in the answer.",
+      "sources": [
+        {
+          "label": "Semrush — Why 62% of AI citations don’t lead to brand mentions",
+          "url": "https://www.semrush.com/blog/the-ghost-citations-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The same study found major differences between platforms. In its sample, ChatGPT had a much higher citation rate than brand-mention rate, while Gemini behaved very differently.",
+      "sources": [
+        {
+          "label": "Semrush — Why 62% of AI citations don’t lead to brand mentions",
+          "url": "https://www.semrush.com/blog/the-ghost-citations-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So track at least three things separately:"
+    },
+    {
+      "type": "p",
+      "text": "Are you mentioned?\n\nAre you recommended?\n\nAre you cited?"
+    },
+    {
+      "type": "p",
+      "text": "I'd add a fourth: how are you described?"
+    },
+    {
+      "type": "p",
+      "text": "A mention isn't very useful if the AI has misunderstood your product, puts you in the wrong category or repeats information that's two years out of date."
+    },
+    {
+      "type": "h2",
+      "text": "Measure AI visibility as a portfolio of prompts"
+    },
+    {
+      "type": "p",
+      "text": "AI answers are variable, which makes measurement messier than a traditional rank tracker."
+    },
+    {
+      "type": "p",
+      "text": "Don't obsess over one answer moving from week to week."
+    },
+    {
+      "type": "p",
+      "text": "Track a stable portfolio of commercially relevant prompts and look for patterns."
+    },
+    {
+      "type": "p",
+      "text": "For each prompt, record the platform, whether you're mentioned, whether you're recommended, whether your site is cited, which third-party sources are cited, which competitors appear and how your company is described."
+    },
+    {
+      "type": "p",
+      "text": "Semrush's AI visibility methodology uses similar distinctions, measuring brand mentions and citations separately by platform rather than pretending there is one universal AI ranking.",
+      "sources": [
+        {
+          "label": "Semrush — Why 62% of AI citations don’t lead to brand mentions",
+          "url": "https://www.semrush.com/blog/the-ghost-citations-study/"
+        },
+        {
+          "label": "Semrush — AI Visibility Index methodology",
+          "url": "https://ai-visibility-index.semrush.com/methodology"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Over time, you can start seeing where the gaps are."
+    },
+    {
+      "type": "p",
+      "text": "Maybe your competitors dominate comparison prompts. Maybe you're cited for educational questions but never recommended. Maybe YouTube sources keep appearing in your category and you've never worked with a creator there."
+    },
+    {
+      "type": "p",
+      "text": "Those are actionable observations."
+    },
+    {
+      "type": "h2",
+      "text": "What I would do in the next 90 days"
+    },
+    {
+      "type": "p",
+      "text": "If i were starting from zero, i'd keep this surprisingly simple."
+    },
+    {
+      "type": "p",
+      "text": "First, choose the 20 to 50 prompts that actually matter and establish a baseline across the major AI platforms your customers use."
+    },
+    {
+      "type": "p",
+      "text": "Second, clean up your own website so your positioning, use cases, integrations, customer proof and expertise are easy to understand."
+    },
+    {
+      "type": "p",
+      "text": "Third, identify the questions where competitors appear and you don't. Create or improve the genuinely useful content needed to answer those questions."
+    },
+    {
+      "type": "p",
+      "text": "Fourth, map the external sources and people already shaping those conversations. Which publications, creators, newsletters, YouTube channels, podcasts, communities and customers have real relevance?"
+    },
+    {
+      "type": "p",
+      "text": "Fifth, give them useful reasons to talk about your expertise rather than asking for generic promotion."
+    },
+    {
+      "type": "p",
+      "text": "Then measure again."
+    },
+    {
+      "type": "p",
+      "text": "Not after three days. Give the web time to change, keep building evidence and look at the trend across your prompt set."
+    },
+    {
+      "type": "h2",
+      "text": "The goal isn't to game an LLM"
+    },
+    {
+      "type": "p",
+      "text": "I suspect this is where a lot of AI-search advice will go wrong."
+    },
+    {
+      "type": "p",
+      "text": "Marketers will look for the equivalent of a title-tag hack that makes an LLM choose their company."
+    },
+    {
+      "type": "p",
+      "text": "Maybe short-lived tactics will appear. They usually do."
+    },
+    {
+      "type": "p",
+      "text": "But if you're building a brand, the more durable strategy is much less exciting."
+    },
+    {
+      "type": "p",
+      "text": "Be clear about what you do. Publish information worth using. Build real proof. Get credible people talking about you in the right context. Make sure your customers' experiences exist somewhere beyond a private Slack channel."
+    },
+    {
+      "type": "p",
+      "text": "Those things help humans discover and trust you too."
+    },
+    {
+      "type": "p",
+      "text": "And that's probably the best test for an AI-search strategy: if the AI platforms changed tomorrow, would the work still have made your company easier to find, understand and trust?"
+    },
+    {
+      "type": "p",
+      "text": "If the answer is yes, you're probably building something useful rather than chasing an algorithm you can't see."
+    }
+  ],
+  "relatedArticles": [
+    "how-to-get-your-brand-mentioned-by-ai",
+    "how-to-get-your-brand-cited-by-chatgpt",
+    "how-to-build-a-creator-aeo-strategy"
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "slug": "backlinks-vs-brand-mentions-ai-search",
+  "title": "Backlinks vs Brand Mentions: Which Matters More for AI Search?",
+  "metaTitle": "Backlinks vs Brand Mentions: Which Matters More for AI Search?",
+  "description": "Brand mentions currently correlate more strongly with AI visibility than raw backlink counts. Here is how backlinks and mentions differ, and why B2B brands still need both.",
+  "ogTitle": "Backlinks vs Brand Mentions for AI Search",
+  "ogDescription": "Current research points to brand mentions as the stronger AI-visibility signal, but backlinks still matter. Here is how to think about both.",
+  "category": "Third-party evidence",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-06",
+  "updatedAt": "2026-10-06",
+  "hero": "backlinks-vs-brand-mentions-ai-search.webp",
+  "heroAlt": "Backlinks and contextual brand mentions compared as different forms of web evidence for AI search",
+  "diagram": "backlinks-brand-mentions-jobs.webp",
+  "diagramAlt": "Comparison of the jobs backlinks and brand mentions perform across SEO, referral traffic and AI visibility",
+  "diagramAfter": "The data is unusually clear on the comparison",
+  "diagramWidth": 1200,
+  "diagramHeight": 800,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "If the question is specifically AI visibility, brand mentions currently look more interesting than raw backlink counts. In Ahrefs' research across 75,000 brands, branded web mentions correlated far more strongly with visibility in AI answers than the number of backlinks.",
+      "sources": []
+    },
+    {
+      "type": "p",
+      "text": "But i would not turn that into 'backlinks are dead'. They are not. Backlinks and brand mentions do different jobs. The useful strategy is understanding what each one contributes, then creating third-party coverage that can give you both.",
+      "sources": []
+    },
+    {
+      "type": "h2",
+      "text": "The data is unusually clear on the comparison"
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs' 75,000-brand study found branded web mentions correlated with AI visibility at roughly 0.66 to 0.71 across ChatGPT, Google AI Mode and AI Overviews. YouTube mentions were even higher at about 0.737.",
+      "sources": [
+        {
+          "label": "Ahrefs - Top Brand Visibility Factors in ChatGPT, AI Mode, and AI Overviews",
+          "url": "https://ahrefs.com/blog/ai-brand-visibility-correlations/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Raw link metrics were much weaker. In its earlier AI Overview analysis, Ahrefs reported a 0.664 correlation for branded web mentions compared with 0.218 for the number of backlinks. Referring domains came in at 0.295 and Domain Rating at 0.326.",
+      "sources": [
+        {
+          "label": "Ahrefs - An Analysis of AI Overview Brand Visibility Factors",
+          "url": "https://ahrefs.com/blog/ai-overview-brand-correlation/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Those numbers do not prove that mentions cause AI visibility. They are observational correlations. Strong brands tend to have more of many things at once. Still, the gap is large enough that marketers should stop assuming link volume is the main off-site metric for AI search."
+    },
+    {
+      "type": "h2",
+      "text": "Why backlinks became the default off-site metric"
+    },
+    {
+      "type": "p",
+      "text": "For traditional search, links have a long history. Google explicitly says its ranking systems use link analysis, including PageRank, to understand how pages relate to each other and which pages may be helpful for a query."
+    },
+    {
+      "type": "p",
+      "text": "A good backlink can help search engines discover pages, pass authority, send referral traffic and give a reader a direct route to your site. None of that disappears because AI answers now exist."
+    },
+    {
+      "type": "p",
+      "text": "The mistake is assuming that because links are important to classic SEO, the raw number of links must also be the best measure of whether an AI system understands or mentions your brand."
+    },
+    {
+      "type": "h2",
+      "text": "Brand mentions carry something links do not always carry: context"
+    },
+    {
+      "type": "p",
+      "text": "Imagine two pages. The first links to Acme with the words 'learn more'. The second says Acme is a treasury platform used by European startups to automate cash forecasting, but does not link.",
+      "sources": [
+        {
+          "label": "Do Brand Mentions Without Backlinks Help With AI Search?",
+          "url": "/blog/do-brand-mentions-without-backlinks-help-ai-search"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The first page has a backlink. The second contains much clearer language about what Acme is, who it is for and which topic it belongs to. For a system trying to retrieve or synthesize information about treasury software, that context is interesting even without a clickable link."
+    },
+    {
+      "type": "p",
+      "text": "This is why i think the better unit for Creator AEO is not the backlink. It is the useful third-party evidence. Sometimes that evidence includes a backlink. Great. But the link is not the whole thing."
+    },
+    {
+      "type": "h2",
+      "text": "A brand mention is not automatically valuable either"
+    },
+    {
+      "type": "p",
+      "text": "There is an obvious way to ruin this insight: turn brand mentions into the next volume game. Buy thousands of cheap mentions on irrelevant sites and call it AEO."
+    },
+    {
+      "type": "p",
+      "text": "That is not what the research supports. Ahrefs' own AEO guidance stresses that where a brand is mentioned matters, not just how often. Relevance, source quality and context matter."
+    },
+    {
+      "type": "p",
+      "text": "A specialist newsletter explaining your benchmark, a YouTube creator testing your product or an industry publication comparing you with alternatives can create useful evidence. A random scraped page repeating your company name probably does very little for buyers and may do very little for AI visibility too."
+    },
+    {
+      "type": "h2",
+      "text": "Mentions and links also separate inside AI answers"
+    },
+    {
+      "type": "p",
+      "text": "Semrush's 2026 ghost citations study is useful here because it shows that a citation and a brand mention are not the same outcome. Across 3,981 domain appearances, 61.7% were citations where the brand was not named. Another 25.1% were brand mentions without a citation. Only 13.2% were both cited and mentioned.",
+      "sources": [
+        {
+          "label": "Semrush - Why 62% of AI citations do not lead to brand mentions",
+          "url": "https://www.semrush.com/blog/the-ghost-citations-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So even inside an AI answer, a source link and visible brand presence can diverge. ChatGPT was particularly citation-heavy in that dataset, while other systems behaved differently."
+    },
+    {
+      "type": "p",
+      "text": "That is another reason to measure AI visibility as more than 'did we get a link?' Track mentions, citations, recommendations and topic association separately."
+    },
+    {
+      "type": "h2",
+      "text": "So which should a B2B marketer prioritize?"
+    },
+    {
+      "type": "p",
+      "text": "If you are fixing traditional SEO, earning authoritative backlinks is still a sensible priority. If you are trying to build the wider evidence AI systems and buyers encounter around your brand, relevant brand mentions deserve at least equal attention and probably more attention than raw link volume."
+    },
+    {
+      "type": "p",
+      "text": "For most B2B companies i would not create separate 'link campaigns' and 'mention campaigns'. I would create evidence worth discussing, then earn coverage from sources that matter. The best outcomes naturally produce a specific brand mention, useful context and a link where it helps the reader.",
+      "sources": []
+    },
+    {
+      "type": "h2",
+      "text": "Creators make this distinction easier to see"
+    },
+    {
+      "type": "p",
+      "text": "A creator collaboration should not be judged only by whether the creator links to your homepage. A YouTube video may mention and explain your product for ten minutes. A newsletter may analyse your research. A podcast may spend half an hour discussing a customer problem you solve. Those can create far more brand context than a small link buried in an unrelated article.",
+      "sources": [
+        {
+          "label": "Should Creators Link to Your Website or Just Mention Your Brand?",
+          "url": "/blog/creator-links-vs-brand-mentions"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "B2B Influencer Finder is built around that idea. It starts with the evidence a company already has, such as research, case studies, useful expertise and original data, then finds creators whose existing work overlaps with it. The collaboration angle comes before the link request."
+    },
+    {
+      "type": "p",
+      "text": "If the creator can link naturally, ask for it. You may get referral traffic and SEO value. But do not turn a strong collaboration into a bad one by making the backlink the only objective."
+    },
+    {
+      "type": "h2",
+      "text": "What i would measure instead of backlink count alone"
+    },
+    {
+      "type": "p",
+      "text": "For the third-party evidence itself, track where the brand was mentioned, the topic, the wording, whether the source is relevant, whether it is public and discoverable, whether there is a link and whether the content sends traffic or engagement.",
+      "sources": [
+        {
+          "label": "What Is AI Share of Voice and How Do You Improve It?",
+          "url": "/blog/ai-share-of-voice"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Then track AI visibility separately across a stable prompt set: brand mention rate, citations, recommendation frequency, share of voice against competitors and whether the brand appears in the topics you are deliberately trying to own."
+    },
+    {
+      "type": "p",
+      "text": "This avoids a common measurement mistake. A campaign can earn backlinks and still fail to create meaningful brand context. It can also create excellent independent brand evidence without generating many links."
+    },
+    {
+      "type": "h2",
+      "text": "The answer is not backlinks or mentions"
+    },
+    {
+      "type": "p",
+      "text": "For AI search, the best current evidence points more strongly toward branded web mentions than raw backlink counts. For traditional SEO, backlinks still have a documented role and remain valuable. So the sensible conclusion is not to replace one with the other."
+    },
+    {
+      "type": "p",
+      "text": "Build third-party coverage that says something specific and accurate about your company in the topics you want to be known for. Earn the link when it makes sense. But judge the coverage by the evidence it creates, not by the hyperlink alone."
+    },
+    {
+      "type": "h2",
+      "text": "Sources"
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs - Top Brand Visibility Factors in ChatGPT, AI Mode, and AI Overviews",
+      "sources": [
+        {
+          "label": "Ahrefs - Top Brand Visibility Factors in ChatGPT, AI Mode, and AI Overviews",
+          "url": "https://ahrefs.com/blog/ai-brand-visibility-correlations/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs - An Analysis of AI Overview Brand Visibility Factors",
+      "sources": [
+        {
+          "label": "Ahrefs - An Analysis of AI Overview Brand Visibility Factors",
+          "url": "https://ahrefs.com/blog/ai-overview-brand-correlation/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Google Search Central - A Guide to Google Search Ranking Systems",
+      "sources": [
+        {
+          "label": "Google Search Central - A Guide to Google Search Ranking Systems",
+          "url": "https://developers.google.com/search/docs/appearance/ranking-systems-guide?hl=en"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Semrush - Why 62% of AI citations do not lead to brand mentions",
+      "sources": [
+        {
+          "label": "Semrush - Why 62% of AI citations do not lead to brand mentions",
+          "url": "https://www.semrush.com/blog/the-ghost-citations-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs - Brand Mentions for SEO: How to Get Cited by AI",
+      "sources": [
+        {
+          "label": "Ahrefs - Brand Mentions for SEO: How to Get Cited by AI",
+          "url": "https://ahrefs.com/academy/aeo-course/lesson-3-2"
+        }
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "do-brand-mentions-without-backlinks-help-ai-search",
+    "creator-links-vs-brand-mentions",
+    "how-to-build-a-creator-aeo-strategy"
+  ]
+}

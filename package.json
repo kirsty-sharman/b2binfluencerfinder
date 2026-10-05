@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
-    "spike": "node --env-file=.env.local provider-spike/run.mjs"
+    "spike": "node --env-file=.env.local provider-spike/run.mjs",
+    "check:links": "node scripts/check-internal-links.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",

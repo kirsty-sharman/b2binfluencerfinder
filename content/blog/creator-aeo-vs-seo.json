@@ -1,0 +1,389 @@
+{
+  "slug": "creator-aeo-vs-seo",
+  "title": "Creator AEO vs SEO: What’s the Difference?",
+  "metaTitle": "Creator AEO vs SEO: What’s the Difference?",
+  "description": "Creator AEO and SEO solve different parts of online discovery. Learn how rankings, AI answers and third-party creator evidence fit together.",
+  "ogTitle": "Creator AEO vs SEO: You Probably Need Both",
+  "ogDescription": "SEO helps your pages get found. Creator AEO helps credible third parties talk about your brand where AI systems and buyers can encounter it.",
+  "category": "Creator AEO",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-05",
+  "updatedAt": "2026-10-05",
+  "hero": "creator-aeo-vs-seo.webp",
+  "heroAlt": "Comparison of SEO and Creator AEO showing owned website rankings and third-party creator evidence",
+  "diagram": "seo-creator-aeo-evidence-system.webp",
+  "diagramAlt": "How SEO, owned content and creator-led third-party evidence work together for AI visibility",
+  "diagramAfter": "Start with the simple difference",
+  "diagramWidth": 1200,
+  "diagramHeight": 800,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "SEO and Creator AEO are not competing strategies. SEO helps your own pages get discovered and ranked. Creator AEO is about building relevant third-party discussion around your brand through creators, experts and specialist publishers.",
+      "sources": [
+        {
+          "label": "What Is Creator AEO?",
+          "url": "/blog/what-is-creator-aeo"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The overlap is AI search. AI answer systems can use information from your website, but they can also retrieve and synthesise information from sources you do not control. That means a strong owned website still matters, while the wider evidence around your brand matters too."
+    },
+    {
+      "type": "p",
+      "text": "If i were building a B2B marketing strategy now, I would not move budget from SEO to Creator AEO just because AI search is growing. I would use SEO to make the company understandable and discoverable, then use Creator AEO to make sure the company is not the only one describing itself."
+    },
+    {
+      "type": "h2",
+      "text": "Start with the simple difference"
+    },
+    {
+      "type": "p",
+      "text": "Traditional SEO is mainly about getting a web page to appear prominently in search results for relevant queries. You optimise the site, publish useful content, earn authority, improve technical performance and try to win organic visibility."
+    },
+    {
+      "type": "p",
+      "text": "Creator AEO starts from a different question: which credible people outside our company should be discussing our expertise, and what useful thing could we give them to talk about?"
+    },
+    {
+      "type": "p",
+      "text": "The output may be a YouTube video, newsletter article, podcast discussion, LinkedIn post, independent blog or expert analysis. The creator owns the voice and the audience. Your brand becomes part of a piece of third-party evidence rather than the publisher of the claim.",
+      "sources": [
+        {
+          "label": "Backlinks vs Brand Mentions: Which Matters More for AI Search?",
+          "url": "/blog/backlinks-vs-brand-mentions-ai-search"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "SEO is still the foundation for AI search"
+    },
+    {
+      "type": "p",
+      "text": "It is easy to overreact to AI search and declare SEO dead. The evidence does not support that."
+    },
+    {
+      "type": "p",
+      "text": "Google’s 2026 guidance on generative AI search says the fundamentals of Search still apply to AI features. Google is also adding more direct links, source controls and original-content discovery inside AI Mode and AI Overviews. In other words, websites and search visibility still sit underneath a lot of the AI experience.",
+      "sources": [
+        {
+          "label": "Google - New opportunities, control and insights for website owners (updated Aug 31, 2026)",
+          "url": "https://blog.google/products-and-platforms/products/search/new-controls-website-owners/"
+        },
+        {
+          "label": "Google - 5 new ways to explore the web with generative AI in Search (May 6, 2026)",
+          "url": "https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search/"
+        },
+        {
+          "label": "Google - New ways to find your favorite sources and original content in AI Search (May 27, 2026)",
+          "url": "https://blog.google/products-and-platforms/products/search/original-high-quality-content-search/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs makes a similar point in its AEO guidance: AEO does not replace SEO, it builds on top of it. Pages that are crawlable, authoritative and discoverable have a head start when AI systems search the web for supporting information.",
+      "sources": [
+        {
+          "label": "Ahrefs - What is Answer Engine Optimization (AEO)?",
+          "url": "https://ahrefs.com/aeo/what-is-aeo"
+        },
+        {
+          "label": "Ahrefs - How AI Search Engines Work",
+          "url": "https://ahrefs.com/academy/aeo-course/lesson-1-1"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So before worrying about creators, I would still make sure the website clearly explains what the company does, who it is for, what problems it solves and why anyone should believe it."
+    },
+    {
+      "type": "h2",
+      "text": "But ranking a page and appearing in an AI answer are not the same job"
+    },
+    {
+      "type": "p",
+      "text": "This is where the distinction becomes useful."
+    },
+    {
+      "type": "p",
+      "text": "A traditional search result is a list. Your page can rank first, third or tenth. An AI answer is synthesised. The system may search across multiple sources, combine information and choose which brands to mention or cite."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs describes AI citations as probabilistic rather than a fixed leaderboard. Its research also shows that the most-cited domains differ substantially between Google AI Overviews, ChatGPT and Perplexity. So there is no single AI ranking to win in the way marketers are used to thinking about a Google position.",
+      "sources": [
+        {
+          "label": "Ahrefs - How Ranking in Google AI Overviews, ChatGPT, and Perplexity are Different",
+          "url": "https://ahrefs.com/academy/aeo-course/lesson-1-2"
+        },
+        {
+          "label": "Ahrefs - Top Brand Visibility Factors in ChatGPT, AI Mode, and AI Overviews",
+          "url": "https://ahrefs.com/blog/ai-brand-visibility-correlations/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That changes the marketing problem. You still want your own pages to be discoverable. But you also want the wider web to contain accurate, relevant evidence connecting your brand to the subjects you want to be known for."
+    },
+    {
+      "type": "h2",
+      "text": "Creator AEO is mostly an off-site evidence strategy"
+    },
+    {
+      "type": "p",
+      "text": "This is the part SEO teams have not traditionally owned."
+    },
+    {
+      "type": "p",
+      "text": "Your website can say you are excellent at fraud prevention, employee referrals or B2B payments. That is useful first-party evidence. A specialist creator independently discussing your benchmark, customer data or product category creates a different kind of signal."
+    },
+    {
+      "type": "p",
+      "text": "I call that third-party evidence. It is not automatically more trustworthy, and it definitely does not guarantee an AI mention. But it gives buyers and AI systems another source from which to understand the company."
+    },
+    {
+      "type": "p",
+      "text": "The point is not to pay 100 influencers to repeat your tagline. That would be bad marketing before AI and it is still bad marketing now. The useful version is when a creator already has expertise in the subject and your company has something genuinely relevant to add to their work."
+    },
+    {
+      "type": "h2",
+      "text": "This is where B2B Influencer Finder fits"
+    },
+    {
+      "type": "p",
+      "text": "This is why I built B2B Influencer Finder around matching creators to a company’s existing expertise rather than sorting a database by follower count.",
+      "sources": [
+        {
+          "label": "B2B Influencer Finder",
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The tool looks at useful assets on the brand’s site, such as research, case studies, industry guides and original insights. It then looks for creators whose existing work overlaps with those subjects and suggests a collaboration angle."
+    },
+    {
+      "type": "p",
+      "text": "SEO might tell me that an article on referral program benchmarks has search value. Creator AEO asks which newsletter writer, YouTuber or specialist LinkedIn creator already talks about referral growth and could do something useful with that benchmark."
+    },
+    {
+      "type": "p",
+      "text": "Same expertise. Different distribution layer."
+    },
+    {
+      "type": "h2",
+      "text": "SEO creates owned evidence. Creator AEO distributes evidence through other voices"
+    },
+    {
+      "type": "p",
+      "text": "That is probably the cleanest way to think about the relationship."
+    },
+    {
+      "type": "p",
+      "text": "SEO helps you build a strong body of owned information that search engines and people can find. Creator AEO takes the strongest parts of that information and helps relevant independent voices interpret, discuss or reference it."
+    },
+    {
+      "type": "p",
+      "text": "The strategies become much stronger when they share the same source material. Original research can become an SEO page, a creator video, a newsletter analysis and a podcast discussion. A case study can rank for a specific use case while also giving an industry expert something concrete to analyse."
+    },
+    {
+      "type": "p",
+      "text": "You are not creating separate facts for separate channels. You are giving good evidence more than one route into the market."
+    },
+    {
+      "type": "h2",
+      "text": "What does the research tell us about off-site evidence?"
+    },
+    {
+      "type": "p",
+      "text": "There are interesting correlations, but this is where marketers need to stay disciplined."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs’ analysis of 75,000 brands found that branded web mentions were strongly correlated with AI visibility, and YouTube mentions showed an especially strong relationship. That does not prove that getting a creator to mention you will cause ChatGPT to recommend you. Bigger and better-known brands naturally accumulate more mentions, links, searches and coverage."
+    },
+    {
+      "type": "p",
+      "text": "The useful conclusion is narrower: AI visibility appears to be associated with a brand’s presence across the wider web, not only with what sits on its own domain."
+    },
+    {
+      "type": "p",
+      "text": "That is enough reason for me to treat third-party creator coverage as a serious part of modern brand distribution, without pretending we have discovered a secret ranking factor."
+    },
+    {
+      "type": "h2",
+      "text": "SEO and Creator AEO are measured differently"
+    },
+    {
+      "type": "p",
+      "text": "SEO measurement is mature. Rankings, organic impressions, clicks, conversions, referring domains and revenue are all relatively familiar.",
+      "sources": [
+        {
+          "label": "What Is AI Share of Voice and How Do You Improve It?",
+          "url": "/blog/ai-share-of-voice"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Creator AEO needs another layer. I would track which creators discuss the brand, which topics they connect it with, where the content lives, whether it gets indexed or discovered, and whether it generates useful reach, referral traffic or engagement."
+    },
+    {
+      "type": "p",
+      "text": "Then track AI visibility separately across a stable set of prompts: brand mention rate, citations, recommendations, topic association and share of voice against competitors."
+    },
+    {
+      "type": "p",
+      "text": "Do not collapse all of that into one magic AEO score. AI outputs vary by platform and prompt, and the industry is still developing its measurement standards."
+    },
+    {
+      "type": "h2",
+      "text": "Should SEO teams own Creator AEO?"
+    },
+    {
+      "type": "p",
+      "text": "Maybe, but I do not think the org chart matters much."
+    },
+    {
+      "type": "p",
+      "text": "SEO teams understand discoverability, content architecture and search demand. PR teams understand earned authority. Influencer and creator teams understand relationships and distribution. Brand teams understand positioning. Creator AEO sits awkwardly across all four."
+    },
+    {
+      "type": "p",
+      "text": "For a small B2B company, one marketer can probably run the whole thing. In a larger company, I would at least make sure these teams share the same topic map, evidence library and AI visibility measurement."
+    },
+    {
+      "type": "h2",
+      "text": "Which should you invest in first?"
+    },
+    {
+      "type": "p",
+      "text": "If your website is thin, unclear or technically weak, fix SEO and owned content first. There is little point sending creators to investigate a company whose own evidence is confusing."
+    },
+    {
+      "type": "p",
+      "text": "If you already have a strong site, useful research, case studies and category expertise but almost nobody outside your company talks about it, Creator AEO may expose the bigger gap."
+    },
+    {
+      "type": "p",
+      "text": "Most established B2B brands will need both. SEO makes your expertise findable. Creator AEO helps that expertise travel through people your market already pays attention to."
+    },
+    {
+      "type": "h2",
+      "text": "The goal is not to choose between search engines and people"
+    },
+    {
+      "type": "p",
+      "text": "Search is becoming more conversational, but the web has not disappeared. Google says AI Mode has surpassed one billion monthly users and is increasingly blending conversational answers with links and supporting sources."
+    },
+    {
+      "type": "p",
+      "text": "That makes the old division between SEO, PR and creator marketing less tidy. Buyers can discover a company through a search result, an AI answer, a YouTube video, a newsletter or all four in the same afternoon."
+    },
+    {
+      "type": "p",
+      "text": "So I would stop asking whether Creator AEO replaces SEO. It does not."
+    },
+    {
+      "type": "p",
+      "text": "SEO gives your company a strong owned source of truth. Creator AEO helps credible third parties add context around it. If AI systems increasingly synthesise information from across the web, having both is a much more sensible position than betting everything on one channel."
+    },
+    {
+      "type": "h2",
+      "text": "Sources"
+    },
+    {
+      "type": "p",
+      "text": "Google - New opportunities, control and insights for website owners (updated Aug 31, 2026)",
+      "sources": [
+        {
+          "label": "Google - New opportunities, control and insights for website owners (updated Aug 31, 2026)",
+          "url": "https://blog.google/products-and-platforms/products/search/new-controls-website-owners/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Google - 5 new ways to explore the web with generative AI in Search (May 6, 2026)",
+      "sources": [
+        {
+          "label": "Google - 5 new ways to explore the web with generative AI in Search (May 6, 2026)",
+          "url": "https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Google - New ways to find your favorite sources and original content in AI Search (May 27, 2026)",
+      "sources": [
+        {
+          "label": "Google - New ways to find your favorite sources and original content in AI Search (May 27, 2026)",
+          "url": "https://blog.google/products-and-platforms/products/search/original-high-quality-content-search/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs - What is Answer Engine Optimization (AEO)?",
+      "sources": [
+        {
+          "label": "Ahrefs - What is Answer Engine Optimization (AEO)?",
+          "url": "https://ahrefs.com/aeo/what-is-aeo"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs - How AI Search Engines Work",
+      "sources": [
+        {
+          "label": "Ahrefs - How AI Search Engines Work",
+          "url": "https://ahrefs.com/academy/aeo-course/lesson-1-1"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs - How Ranking in Google AI Overviews, ChatGPT, and Perplexity are Different",
+      "sources": [
+        {
+          "label": "Ahrefs - How Ranking in Google AI Overviews, ChatGPT, and Perplexity are Different",
+          "url": "https://ahrefs.com/academy/aeo-course/lesson-1-2"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs - Top Brand Visibility Factors in ChatGPT, AI Mode, and AI Overviews",
+      "sources": [
+        {
+          "label": "Ahrefs - Top Brand Visibility Factors in ChatGPT, AI Mode, and AI Overviews",
+          "url": "https://ahrefs.com/blog/ai-brand-visibility-correlations/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Semrush - AEO vs SEO: core differences & how to win visibility in both (Sep 30, 2026)",
+      "sources": [
+        {
+          "label": "Semrush - AEO vs SEO: core differences & how to win visibility in both (Sep 30, 2026)",
+          "url": "https://www.semrush.com/blog/aeo-vs-seo/"
+        }
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "creator-aeo-vs-traditional-aeo",
+    "creator-aeo-vs-digital-pr",
+    "how-to-build-a-creator-aeo-strategy"
+  ]
+}

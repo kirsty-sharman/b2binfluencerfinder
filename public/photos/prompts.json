@@ -1,0 +1,23 @@
+{
+  "mode": "Built-in image_gen",
+  "scenes": [
+    [
+      "audience",
+      "Five adult professionals at an intimate industry workshop, candid engaged listening and discussion, expressive faces, one woman speaking with a notebook, diverse ages 30-60, relaxed contemporary meeting space."
+    ],
+    [
+      "founder",
+      "An adult female founder with short dark hair working thoughtfully at a laptop beside a notebook and printed research charts, side angle with face visible, quiet bright studio office."
+    ],
+    [
+      "creator",
+      "An adult male industry expert with salt-and-pepper hair and glasses recording a podcast, speaking naturally into a professional microphone, headphones, warm compact recording studio, face visible."
+    ],
+    [
+      "collaboration",
+      "Two adult professionals, a Black woman and an Asian man, reviewing a printed creative brief together at a wooden desk, candid warm conversation, both faces clearly visible, laptop to the side."
+    ]
+  ],
+  "research": "Use case: photorealistic-natural. One landscape 3:2 editorial photograph for a B2B creator discovery website: a close observational view of a wooden research desk, neatly arranged printed charts with no readable text, open notebook, pen, closed cream book, laptop edge, a ceramic coffee cup. No people required. Warm natural window light, cream and muted sage palette with small dusty rose accent, tactile paper, authentic lived-in workspace, refined editorial photography. No logos, no text overlay, no watermark. Composition comfortably inside frame for responsive crops.",
+  "note": "Fictional illustrative scenes; not employee or customer photographs."
+}

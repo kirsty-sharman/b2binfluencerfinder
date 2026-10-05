@@ -275,3 +275,69 @@
 
 .marketing-plan-type { align-self:flex-start; margin-top:12px; padding:7px 12px; border-radius:6px; background:#edf1e8; color:#20352a; font-size:14px; font-weight:650; }
 .marketing-plan:last-child .marketing-plan-type { background:#20352a; color:#fff; }
+
+.marketing-resources { position:relative; }
+.marketing-resources summary { display:flex; align-items:center; gap:6px; cursor:pointer; list-style:none; padding:10px 0; }
+.marketing-resources summary::-webkit-details-marker { display:none; }
+.marketing-resources[open] summary svg { transform:rotate(180deg); }
+.marketing-resources-menu { position:absolute; top:100%; right:0; z-index:30; min-width:180px; padding:8px; background:#fff; border:1px solid #dfe4da; border-radius:12px; box-shadow:0 12px 30px #20392c15; }
+.marketing-resources-menu a { display:block; padding:12px 14px; border-radius:7px; white-space:nowrap; }
+.marketing-resources-menu a:hover { background:#edf1e5; }
+.marketing-resources summary:focus-visible,.marketing-resources-menu a:focus-visible { outline:2px solid #e91d55; outline-offset:3px; }
+@media(max-width:900px) { .marketing-nav { flex-wrap:wrap; padding-block:16px; } .marketing-nav nav { display:flex; order:3; width:100%; justify-content:flex-end; gap:20px; } }
+@media(max-width:640px) { .marketing-nav nav { justify-content:space-between; gap:12px; font-size:12px; } }
+
+/* Editorial scenes bring the people behind the process into view. */
+.marketing-flow-photo { width:100%; height:auto; aspect-ratio:4/3; object-fit:cover; border-radius:9px; margin-bottom:22px; }
+.marketing-flow-number { margin-bottom:18px; }
+.validation-photo { display:block; width:100%; height:auto; aspect-ratio:2/1; object-fit:cover; border-radius:9px; margin-bottom:26px; }
+.marketing-plan-photo { display:block; width:100%; height:auto; aspect-ratio:2.7/1; object-fit:cover; object-position:center 15%; border-radius:9px; margin-bottom:26px; }
+.b2b-principle-photo { width:28%; height:180px; object-fit:cover; border-radius:12px; margin-left:auto; }
+.b2b-principle { gap:26px; }
+.b2b-principle-label { flex-basis:120px; }
+@media(max-width:800px) { .b2b-principle-photo { width:100%; height:230px; margin:8px 0 0; } }
+@media(max-width:640px) { .marketing-plan-photo { aspect-ratio:2/1; } }
+
+/* Mix human photography with concrete website, content and matching visuals. */
+.process-visual { aspect-ratio:4/3; width:100%; margin-bottom:22px; border-radius:9px; overflow:hidden; background:#e7ebdf; padding:16px; display:flex; align-items:center; justify-content:center; color:#20392c; }
+.process-browser { width:100%; background:#fff; border:1px solid #d6ddcd; border-radius:8px; overflow:hidden; box-shadow:0 8px 18px #20392c0a; }
+.process-browser-bar { display:flex; gap:4px; align-items:center; padding:9px; border-bottom:1px solid #edf0e9; }
+.process-browser-bar i { width:4px; height:4px; border-radius:50%; background:#b5bfad; }
+.process-browser-bar span { margin-left:6px; font-size:8px; color:#6a7663; }
+.process-browser-body { padding:12px; }
+.process-browser-body>svg { color:#c92955; margin-bottom:6px; }
+.process-browser-body>strong { display:block; font-size:13px; line-height:1.25; letter-spacing:-.3px; }
+.process-lines { display:grid; gap:5px; margin-top:10px; }
+.process-lines i { display:block; height:4px; border-radius:2px; background:#e2e7db; }
+.process-lines i:last-child { width:68%; }
+.process-tags { display:flex; gap:5px; margin-top:12px; flex-wrap:wrap; }
+.process-tags span { font-size:7px; padding:4px 5px; border-radius:4px; background:#eef2e8; }
+.process-visual-content { background:#f3e4df; }
+.process-content-stack { position:relative; width:100%; max-width:350px; height:100%; min-height:125px; }
+.process-article { position:absolute; left:0; top:0; width:74%; height:95%; background:white; border:1px solid #e4d7d1; border-radius:8px; padding:14px; transform:rotate(-4deg); }
+.process-article>span { display:flex; align-items:center; gap:5px; font-size:8px; color:#8a645f; }
+.process-article strong { display:block; font-size:16px; line-height:1.2; margin-top:12px; letter-spacing:-.4px; }
+.process-video { position:absolute; right:0; bottom:0; width:49%; height:58%; border:3px solid #f3e4df; border-radius:8px; background:#c92a54; color:white; display:flex; flex-direction:column; gap:10px; justify-content:center; align-items:center; transform:rotate(5deg); }
+.process-video span { font-size:7px; letter-spacing:1px; }
+.process-visual-match { background:#e4ecdf; }
+.process-match-pair { display:grid; width:100%; grid-template-columns:1fr 28px 1fr; align-items:center; }
+.process-expert,.process-match-asset { background:white; border-radius:8px; padding:8px 5px; min-height:100px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; text-align:center; }
+.process-expert img { border-radius:50%; width:48px; height:48px; object-fit:cover; object-position:42% 25%; }
+.process-expert span,.process-match-asset span { font-size:8px; }
+.process-link { display:flex; justify-content:center; color:#c92955; }
+.process-match-asset>svg { color:#c92955; }
+.process-match-caption { grid-column:1/-1; margin-top:13px; display:flex; align-items:center; gap:5px; justify-content:center; font-size:8px; text-align:center; }
+.process-match-caption svg { flex-shrink:0; }
+.process-visual-wide { aspect-ratio:2/1; margin-bottom:26px; padding:24px; }
+.process-visual-wide .process-content-stack { max-width:330px; }
+.process-visual-wide .process-article strong { font-size:24px; }
+@media(min-width:641px) and (min-width:1001px) { .process-visual { padding:12px; } .process-browser-body { padding:8px; } .process-browser-body>svg { width:18px; height:18px; } .process-browser-body>strong { font-size:11px; } .process-tags { margin-top:7px; } }
+
+/* Crawlable editorial paths shared by public pages. */
+.resource-paths { padding: 48px 0; border-top: 1px solid #dce2d5; margin-top: 36px; }
+.resource-paths h2 { font-size: clamp(24px, 3vw, 36px); margin: 0 0 24px; }
+.resource-paths-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.resource-paths a { color: #b90c42; text-underline-offset: 4px; }
+.resource-paths-grid a { padding: 22px; background: #f0f3e9; border: 1px solid #dce2d5; border-radius: 14px; font-weight: 600; line-height: 1.5; }
+.resource-paths li { margin: 14px 0; line-height: 1.5; }
+@media(max-width:700px) { .resource-paths-grid { grid-template-columns: 1fr; } }

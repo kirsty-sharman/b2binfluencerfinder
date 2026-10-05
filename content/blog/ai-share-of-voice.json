@@ -1,0 +1,520 @@
+{
+  "slug": "ai-share-of-voice",
+  "title": "What Is AI Share of Voice and How Do You Improve It?",
+  "metaTitle": "What Is AI Share of Voice and How Do You Improve It?",
+  "description": "AI share of voice shows how visible your brand is versus competitors in AI answers. Learn how to measure it, interpret it and improve it.",
+  "ogTitle": "AI Share of Voice: What It Is and How to Improve It",
+  "ogDescription": "Being mentioned by AI is useful. Knowing whether your competitors are mentioned more is much more useful. Here’s how AI share of voice works.",
+  "category": "AI visibility",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-05",
+  "updatedAt": "2026-10-05",
+  "hero": "ai-share-of-voice.webp",
+  "heroAlt": "Example of AI share of voice comparing a brand’s visibility with competitors in AI answers",
+  "diagram": "ai-visibility-vs-ai-share-of-voice.webp",
+  "diagramAlt": "Difference between AI visibility and AI share of voice for measuring brand presence in AI answers",
+  "diagramAfter": "AI visibility and AI share of voice are not the same thing",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "If ChatGPT mentions your company once, is that good AI visibility? Maybe. But it doesn't tell you very much on its own.",
+      "sources": [
+        {
+          "label": "Related guide: Why Doesn't ChatGPT Mention My Brand?",
+          "url": "/blog/why-doesnt-chatgpt-mention-my-brand"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The more useful question is what happens when someone asks AI a question about your market. Does it mention you, your competitors, or both? And across hundreds of relevant questions, who keeps showing up most often?",
+      "sources": [
+        {
+          "label": "How Do I Get My Brand Mentioned Alongside Competitors in AI Answers?",
+          "url": "/blog/how-to-get-your-brand-mentioned-alongside-competitors-in-ai-answers"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That's what AI share of voice is trying to measure."
+    },
+    {
+      "type": "p",
+      "text": "In simple terms, AI share of voice tells you how visible your brand is in AI-generated answers compared with the other brands you're competing against."
+    },
+    {
+      "type": "p",
+      "text": "If your company appears in 10% of the relevant brand mentions and your biggest competitor appears in 40%, you have a much clearer picture than you get from knowing that ChatGPT mentioned you three times last week."
+    },
+    {
+      "type": "h2",
+      "text": "What exactly is AI share of voice?"
+    },
+    {
+      "type": "p",
+      "text": "There isn't one universal formula used by every AI visibility platform.",
+      "sources": [
+        {
+          "label": "Related guide: How Do I Increase My Brand's Visibility in LLMs?",
+          "url": "/blog/how-to-increase-brand-visibility-in-llms"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Semrush describes AI share of voice as how visible your brand is compared with competitors. A simple version of its formula is your AI mentions divided by total AI mentions across the brands in your category, multiplied by 100.",
+      "sources": [
+        {
+          "label": "Semrush — How to measure AI share of voice",
+          "url": "https://www.semrush.com/blog/how-to-measure-ai-share-of-voice/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs calculates its AI share of voice using estimated impressions. It describes the metric as a brand's percentage share of impressions compared with other tracked brands. When multiple AI platforms are included, Ahrefs weights the calculation according to impressions.",
+      "sources": [
+        {
+          "label": "Ahrefs — AI Visibility Metrics",
+          "url": "https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Those are slightly different methodologies. That's important."
+    },
+    {
+      "type": "p",
+      "text": "If one tool tells you that your AI share of voice is 18% and another says 25%, it doesn't necessarily mean one is wrong. They may be tracking different prompts, competitors, platforms and weighting systems."
+    },
+    {
+      "type": "p",
+      "text": "So don't obsess over finding one objectively correct number."
+    },
+    {
+      "type": "p",
+      "text": "Use a consistent measurement system and watch whether your competitive visibility is improving over time."
+    },
+    {
+      "type": "h2",
+      "text": "AI visibility and AI share of voice are not the same thing"
+    },
+    {
+      "type": "p",
+      "text": "AI visibility asks: does my brand appear?"
+    },
+    {
+      "type": "p",
+      "text": "AI share of voice asks: how much of the relevant AI conversation belongs to my brand compared with competitors?"
+    },
+    {
+      "type": "p",
+      "text": "Imagine you're tracking 100 prompts about CRM software."
+    },
+    {
+      "type": "p",
+      "text": "Your company appears in 35 of them. That tells you something about your visibility."
+    },
+    {
+      "type": "p",
+      "text": "But if Salesforce appears in 80, HubSpot in 70 and your company in 35, the competitive picture is very different from a market where the other major brands each appear in only 20."
+    },
+    {
+      "type": "p",
+      "text": "Share of voice gives the mention a denominator. That's what makes it useful."
+    },
+    {
+      "type": "h2",
+      "text": "The prompts you measure matter more than the headline percentage"
+    },
+    {
+      "type": "p",
+      "text": "Suppose B2B Influencer Finder tracked 500 prompts about influencer marketing in general. We'd probably perform terribly because most of those prompts could be about Instagram fashion creators, TikTok beauty influencers or celebrity campaigns.",
+      "sources": [
+        {
+          "label": "What Is Creator AEO?",
+          "url": "/blog/what-is-creator-aeo"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That isn't our market."
+    },
+    {
+      "type": "p",
+      "text": "A much more useful prompt set would cover things like finding B2B influencers, finding LinkedIn creators, B2B creator pricing, creator AEO and using specialist creators to reach business audiences."
+    },
+    {
+      "type": "p",
+      "text": "Semrush makes a similar point in its own work on AI visibility. It says broad prompts can tell you very little, while high-intent prompts tied to what someone is actually choosing are much more useful.",
+      "sources": [
+        {
+          "label": "Semrush — How we’re driving AI visibility",
+          "url": "https://www.semrush.com/blog/how-we-are-using-semrush-to-drive-llm-visibility/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Your share of voice is only meaningful relative to the market you define."
+    },
+    {
+      "type": "h2",
+      "text": "Start with a prompt set you actually care about"
+    },
+    {
+      "type": "p",
+      "text": "I'd split them across a few types of buyer question:"
+    },
+    {
+      "type": "p",
+      "text": "Category questions"
+    },
+    {
+      "type": "li",
+      "text": "“What are the best employee referral platforms?”"
+    },
+    {
+      "type": "li",
+      "text": "“Which cybersecurity tools are best for mid-market companies?”"
+    },
+    {
+      "type": "p",
+      "text": "Problem questions"
+    },
+    {
+      "type": "li",
+      "text": "“How do i reduce employee churn?”"
+    },
+    {
+      "type": "li",
+      "text": "“How do SaaS companies automate referral marketing?”"
+    },
+    {
+      "type": "p",
+      "text": "Comparison questions"
+    },
+    {
+      "type": "li",
+      "text": "“What are the best alternatives to [competitor]?”"
+    },
+    {
+      "type": "li",
+      "text": "“[Your brand] vs [competitor]”"
+    },
+    {
+      "type": "p",
+      "text": "Recommendation questions"
+    },
+    {
+      "type": "li",
+      "text": "“What software should a 500-person company use for X?”"
+    },
+    {
+      "type": "li",
+      "text": "“Which tools work best for companies in Europe?”"
+    },
+    {
+      "type": "p",
+      "text": "Then add your actual competitors and run the same set consistently."
+    },
+    {
+      "type": "p",
+      "text": "You can do this manually in the beginning. Once you're tracking enough prompts, dedicated AI visibility tools make the job much less painful."
+    },
+    {
+      "type": "h2",
+      "text": "Don't mix mentions, citations and recommendations into one thing"
+    },
+    {
+      "type": "p",
+      "text": "Your brand can be mentioned without your website being cited. Your website can be cited without the AI answer prominently mentioning your brand. And your company can be mentioned as an option without being recommended as the best option.",
+      "sources": [
+        {
+          "label": "Related guide: How Do I Get My Brand Mentioned by AI?",
+          "url": "/blog/how-to-get-your-brand-mentioned-by-ai"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Those are different outcomes."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs, for example, separates mentions, citations, impressions and AI share of voice in Brand Radar. Semrush also separates share of voice from sentiment, cited pages and other AI visibility metrics.",
+      "sources": [
+        {
+          "label": "Ahrefs — AI Visibility Metrics",
+          "url": "https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics"
+        },
+        {
+          "label": "Semrush — AI Visibility Metrics",
+          "url": "https://www.semrush.com/kb/1594-ai-seo-metrics"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "I'd do the same internally."
+    },
+    {
+      "type": "p",
+      "text": "At minimum, track: brand mentions, competitor mentions, citations to your domain, citations to third-party pages talking about you, recommendations, and how AI describes your company."
+    },
+    {
+      "type": "p",
+      "text": "That last one is easy to overlook."
+    },
+    {
+      "type": "p",
+      "text": "A 30% share of voice isn't necessarily great if AI repeatedly describes your company incorrectly."
+    },
+    {
+      "type": "h2",
+      "text": "AI answers move around, so don't panic over daily changes"
+    },
+    {
+      "type": "p",
+      "text": "Ask the same question repeatedly and you can get different wording, different sources and sometimes different brands."
+    },
+    {
+      "type": "p",
+      "text": "Semrush has written about this directly. In its own AI visibility program, it found enough day-to-day variation that it recommends thinking about share of voice as a range rather than treating every small movement as meaningful.",
+      "sources": [
+        {
+          "label": "Semrush visibility measurement",
+          "url": "https://www.semrush.com/blog/how-we-are-using-semrush-to-drive-llm-visibility/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That's sensible."
+    },
+    {
+      "type": "p",
+      "text": "If your share of voice goes from 22% to 24% tomorrow, i wouldn't throw a party."
+    },
+    {
+      "type": "p",
+      "text": "If it moves from roughly 20% to roughly 35% across a meaningful prompt set and stays there for several weeks, that's more interesting."
+    },
+    {
+      "type": "p",
+      "text": "Look for trends, not tiny fluctuations."
+    },
+    {
+      "type": "h2",
+      "text": "How do you improve AI share of voice?"
+    },
+    {
+      "type": "p",
+      "text": "There is no switch labelled ‘increase AI share of voice’. You improve the underlying signals and evidence that make your brand relevant to the questions you're trying to appear in."
+    },
+    {
+      "type": "h2",
+      "text": "1. Find the prompts where competitors appear and you don’t"
+    },
+    {
+      "type": "p",
+      "text": "If competitors repeatedly appear for an important topic and your brand doesn't, inspect the gap."
+    },
+    {
+      "type": "p",
+      "text": "Do you actually have a relevant product? Is the topic clearly explained on your website? Do you have evidence that connects your brand to it? Are third-party sources discussing your company in that context?"
+    },
+    {
+      "type": "p",
+      "text": "Sometimes the answer will simply be that the competitor has earned a much stronger association with that topic."
+    },
+    {
+      "type": "h2",
+      "text": "2. Make your own positioning painfully clear"
+    },
+    {
+      "type": "p",
+      "text": "That means clear product pages, industry pages where genuinely relevant, useful educational content, customer evidence and consistent terminology."
+    },
+    {
+      "type": "p",
+      "text": "Don't make an AI system reverse-engineer your positioning from a vague homepage about ‘transforming tomorrow’."
+    },
+    {
+      "type": "h2",
+      "text": "3. Build third-party evidence around the topics you want to own"
+    },
+    {
+      "type": "p",
+      "text": "Your website is first-party evidence. You control it."
+    },
+    {
+      "type": "p",
+      "text": "But the wider web also contains creators, customers, publications, newsletters, YouTube videos, podcasts, reviews, communities and comparison pages discussing companies in your market."
+    },
+    {
+      "type": "p",
+      "text": "If you want your brand associated with a topic, it makes sense to build genuine external evidence connecting the two."
+    },
+    {
+      "type": "p",
+      "text": "That doesn't mean buying 500 junk mentions."
+    },
+    {
+      "type": "p",
+      "text": "It means getting credible people who already talk about your subject to have a reason to discuss your company, your data, your customer results or your expertise."
+    },
+    {
+      "type": "p",
+      "text": "This is one of the reasons we built B2B Influencer Finder. Instead of starting with follower counts, we match what a company actually has worth talking about with creators who already cover that subject."
+    },
+    {
+      "type": "p",
+      "text": "The goal isn't ‘get an influencer to say our name’. It's to create a relevant piece of third-party evidence that makes sense for the creator's audience and for the brand."
+    },
+    {
+      "type": "h2",
+      "text": "4. Create information other people want to cite"
+    },
+    {
+      "type": "p",
+      "text": "Research, benchmarks, proprietary data, unusual case studies and genuinely useful frameworks can all give journalists, creators and other websites a reason to reference you."
+    },
+    {
+      "type": "p",
+      "text": "This is also why we're planning to publish our own B2B creator data once B2B Influencer Finder has enough campaign volume. An article called ‘What does a B2B influencer cost?’ is useful. A study based on 1,000 actual creator conversations is much harder to replicate."
+    },
+    {
+      "type": "h2",
+      "text": "5. Pay attention to how you're described, not only whether you're mentioned"
+    },
+    {
+      "type": "p",
+      "text": "For example, imagine you sell enterprise customer referral software but AI repeatedly groups you with affiliate tracking tools for solo creators."
+    },
+    {
+      "type": "p",
+      "text": "Technically you have visibility."
+    },
+    {
+      "type": "p",
+      "text": "Commercially it may be fairly useless."
+    },
+    {
+      "type": "p",
+      "text": "Track the language around your brand. Which categories does AI put you in? Which use cases does it associate with you? Which competitors appear beside you? What strengths or weaknesses does it repeat?",
+      "sources": [
+        {
+          "label": "Related guide: How Do I Get AI to Associate My Brand With a Specific Topic?",
+          "url": "/blog/how-to-get-ai-to-associate-your-brand-with-a-topic"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Share of voice tells you how much of the conversation you own. Narrative tells you what that conversation actually says."
+    },
+    {
+      "type": "h2",
+      "text": "What is a good AI share of voice?"
+    },
+    {
+      "type": "p",
+      "text": "A 20% share of voice could be excellent in a market with ten credible competitors. It could be weak in a category effectively dominated by three companies."
+    },
+    {
+      "type": "p",
+      "text": "It also depends entirely on the prompt set."
+    },
+    {
+      "type": "p",
+      "text": "Rather than asking whether 25% is ‘good’, i'd ask three questions:"
+    },
+    {
+      "type": "li",
+      "text": "Are we gaining or losing share against the competitors that matter?"
+    },
+    {
+      "type": "li",
+      "text": "Are we visible on the prompts closest to purchase decisions?"
+    },
+    {
+      "type": "li",
+      "text": "Is AI describing us accurately when we do appear?"
+    },
+    {
+      "type": "p",
+      "text": "That gives you something you can actually manage."
+    },
+    {
+      "type": "h2",
+      "text": "A simple AI share-of-voice dashboard is enough to start"
+    },
+    {
+      "type": "p",
+      "text": "For a first version, i'd track the date, prompt, AI platform, whether your brand appeared, which competitors appeared, whether you were recommended, which sources were cited, and a short note on how your company was described."
+    },
+    {
+      "type": "p",
+      "text": "Then calculate your mention share against the competitors you're tracking."
+    },
+    {
+      "type": "p",
+      "text": "Run the same prompts regularly and keep the methodology stable."
+    },
+    {
+      "type": "p",
+      "text": "Once the manual process becomes annoying, that's probably the point where a dedicated platform earns its keep."
+    },
+    {
+      "type": "h2",
+      "text": "The goal isn't to win every AI answer"
+    },
+    {
+      "type": "p",
+      "text": "Some questions simply aren't about you."
+    },
+    {
+      "type": "p",
+      "text": "If you sell B2B influencer discovery software, you don't need to appear when someone asks for the best influencer platform for finding teenage TikTok creators."
+    },
+    {
+      "type": "p",
+      "text": "What you want is a strong share of the conversations where your company genuinely belongs."
+    },
+    {
+      "type": "p",
+      "text": "That's why AI share of voice is useful."
+    },
+    {
+      "type": "p",
+      "text": "It turns a vague goal like ‘we need more AI visibility’ into something competitive and measurable:"
+    },
+    {
+      "type": "p",
+      "text": "When buyers ask AI about the problems we solve, how often are we part of the answer compared with everyone else?"
+    },
+    {
+      "type": "p",
+      "text": "Track that consistently. Then work on giving the web more accurate, useful evidence about why your brand belongs in those conversations."
+    }
+  ],
+  "relatedArticles": [
+    "how-to-increase-brand-visibility-in-llms",
+    "how-to-get-your-brand-mentioned-alongside-competitors-in-ai-answers",
+    "how-to-build-a-creator-aeo-strategy"
+  ],
+  "plannedInternalLinks": [
+    "Article #1 — How Do I Get My Brand Mentioned by AI? Anchor around “brand mentioned by AI” or “AI visibility”.",
+    "Article #6 — Why Doesn’t ChatGPT Mention My Brand? Link from the discussion of visibility gaps.",
+    "Article #7 — How Do I Increase My Brand’s Visibility in LLMs? Link from the improvement section.",
+    "Article #9 — How Do I Get AI to Associate My Brand With a Specific Topic? Add once published.",
+    "Article #10 — How Do I Get My Brand Mentioned Alongside Competitors in AI Answers? Add once published."
+  ],
+  "diagramWidth": 1200,
+  "diagramHeight": 630
+}

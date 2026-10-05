@@ -1,0 +1,618 @@
+{
+  "slug": "how-to-get-chatgpt-to-mention-your-brand",
+  "title": "How Do I Get ChatGPT to Mention My Brand?",
+  "description": "ChatGPT mentions your competitors but not you? Learn what brand mentions, citations and third-party sources mean, plus practical ways to improve visibility.",
+  "ogTitle": "Why Does ChatGPT Mention Your Competitors But Not You?",
+  "ogDescription": "A practical look at what influences ChatGPT brand visibility, what you can actually control, and why being talked about beyond your own website matters.",
+  "category": "AI visibility",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-05",
+  "updatedAt": "2026-10-05",
+  "hero": "get-chatgpt-to-mention-your-brand-color.webp",
+  "heroAlt": "How brands can build visibility and earn mentions in ChatGPT",
+  "diagram": "chatgpt-brand-visibility-gap-color.webp",
+  "diagramAlt": "Chatgpt brand visibility gap",
+  "diagramAfter": "Look at who ChatGPT is already citing",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "You've probably already tried it."
+    },
+    {
+      "type": "p",
+      "text": "You open ChatGPT and ask something like:"
+    },
+    {
+      "type": "p",
+      "text": "“What are the best tools for running a B2B referral program?”"
+    },
+    {
+      "type": "p",
+      "text": "Three competitors appear. Your company does not."
+    },
+    {
+      "type": "p",
+      "text": "So you try again with slightly different wording. Same thing. Then you ask ChatGPT directly about your company and it knows exactly who you are."
+    },
+    {
+      "type": "p",
+      "text": "Which makes the whole thing more confusing. If ChatGPT knows your brand exists, why doesn't it recommend you?"
+    },
+    {
+      "type": "p",
+      "text": "The answer is that knowing a company exists and deciding that company belongs in an answer are two very different things."
+    },
+    {
+      "type": "p",
+      "text": "There isn't a button you can press to make ChatGPT recommend your brand. There isn't an official checklist that guarantees inclusion either. But there are practical things you can do to make your company easier to understand, easier to verify and more present in the places AI systems use when answering questions."
+    },
+    {
+      "type": "p",
+      "text": "And increasingly, that means thinking beyond your own website."
+    },
+    {
+      "type": "h2",
+      "text": "ChatGPT knowing your brand isn't the same as recommending it"
+    },
+    {
+      "type": "p",
+      "text": "This distinction matters because marketers tend to test AI visibility in a slightly strange way."
+    },
+    {
+      "type": "p",
+      "text": "They ask:"
+    },
+    {
+      "type": "p",
+      "text": "“What do you know about Acme?”"
+    },
+    {
+      "type": "p",
+      "text": "ChatGPT produces a perfectly decent description and everyone relaxes."
+    },
+    {
+      "type": "p",
+      "text": "But that's not necessarily the buying journey you care about."
+    },
+    {
+      "type": "p",
+      "text": "A prospective customer is much more likely to ask:"
+    },
+    {
+      "type": "p",
+      "text": "“What are the best expense management platforms for European startups?”"
+    },
+    {
+      "type": "p",
+      "text": "or:"
+    },
+    {
+      "type": "p",
+      "text": "“Which referral software works well for banks?”"
+    },
+    {
+      "type": "p",
+      "text": "Those are non-branded questions. ChatGPT has to decide which companies are relevant enough to include."
+    },
+    {
+      "type": "p",
+      "text": "That's the visibility problem."
+    },
+    {
+      "type": "p",
+      "text": "Semrush now separates AI visibility into things like mentions, citations, topics and source opportunities for exactly this reason. A brand can be known to an AI system without consistently appearing in the category prompts that matter commercially.",
+      "sources": [
+        {
+          "label": "Semrush — AI Visibility Metrics\n",
+          "url": "https://www.semrush.com/kb/1594-ai-seo-metrics"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Start by checking whether you actually have a problem"
+    },
+    {
+      "type": "p",
+      "text": "Before changing your entire marketing strategy, establish a baseline."
+    },
+    {
+      "type": "p",
+      "text": "Pick 15 to 30 questions that a real potential customer might ask ChatGPT before buying something in your category. Don't make all of them suspiciously favourable to your company."
+    },
+    {
+      "type": "p",
+      "text": "Include things like:"
+    },
+    {
+      "type": "li",
+      "text": "Best tools in your category"
+    },
+    {
+      "type": "li",
+      "text": "Alternatives to your largest competitors"
+    },
+    {
+      "type": "li",
+      "text": "Software for a specific industry or use case"
+    },
+    {
+      "type": "li",
+      "text": "Comparisons between different approaches"
+    },
+    {
+      "type": "li",
+      "text": "Questions about the problem your product solves"
+    },
+    {
+      "type": "p",
+      "text": "Then record who gets mentioned."
+    },
+    {
+      "type": "p",
+      "text": "You don't need expensive software to start. A spreadsheet is fine. Track your brand, the competitors that appear, how they're described and which sources are cited when citations are shown.",
+      "sources": [
+        {
+          "label": "What Is AI Share of Voice and How Do You Improve It?",
+          "url": "/blog/ai-share-of-voice"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The important thing is to stop testing with one prompt. AI answers vary with wording, context, model and time."
+    },
+    {
+      "type": "p",
+      "text": "Semrush's AI Visibility tools use the same broad idea at much larger scale: monitor brand mentions across prompts, compare them with competitors, then look for topics and sources where competitors appear but you don't.",
+      "sources": [
+        {
+          "label": "Semrush — How to Track Your ChatGPT Brand Visibility\n",
+          "url": "https://www.semrush.com/blog/how-to-track-your-chatgpt-visibility/"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Look at who ChatGPT is already citing"
+    },
+    {
+      "type": "p",
+      "text": "This is one of the first things i'd investigate."
+    },
+    {
+      "type": "p",
+      "text": "If ChatGPT repeatedly recommends competitors for a topic, look at the sources appearing alongside those answers."
+    },
+    {
+      "type": "p",
+      "text": "Maybe it keeps citing a particular industry publication."
+    },
+    {
+      "type": "p",
+      "text": "Maybe comparison sites dominate."
+    },
+    {
+      "type": "p",
+      "text": "Maybe Reddit discussions appear constantly."
+    },
+    {
+      "type": "p",
+      "text": "Maybe the category is heavily influenced by YouTube, review sites or specialist blogs."
+    },
+    {
+      "type": "p",
+      "text": "Those sources tell you something about the information environment around the question."
+    },
+    {
+      "type": "p",
+      "text": "Semrush explicitly calls these source opportunities: external sources that appear in AI answers around your competitors but not your brand. Their recommendation is fairly sensible. Understand which sources are shaping the conversation, then work out whether you have a legitimate reason to be included there too.",
+      "sources": [
+        {
+          "label": "Semrush — AI Visibility Metrics\n",
+          "url": "https://www.semrush.com/kb/1594-ai-seo-metrics"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That does not mean emailing every website saying 'ChatGPT cites you, please add us.'"
+    },
+    {
+      "type": "p",
+      "text": "It means understanding where your category is actually being discussed."
+    },
+    {
+      "type": "h2",
+      "text": "Make your own website painfully clear"
+    },
+    {
+      "type": "p",
+      "text": "Third-party mentions matter, but don't use that as an excuse to ignore your own site."
+    },
+    {
+      "type": "p",
+      "text": "If someone lands on your homepage and needs four minutes to understand what you sell, you're not exactly making the machine's job easier either."
+    },
+    {
+      "type": "p",
+      "text": "Your website should make the basics obvious:"
+    },
+    {
+      "type": "li",
+      "text": "What are you?"
+    },
+    {
+      "type": "li",
+      "text": "Who is the product for?"
+    },
+    {
+      "type": "li",
+      "text": "What problems do you solve?"
+    },
+    {
+      "type": "li",
+      "text": "Which industries or use cases are you particularly good at?"
+    },
+    {
+      "type": "li",
+      "text": "How are you different from alternatives?"
+    },
+    {
+      "type": "li",
+      "text": "What evidence supports those claims?"
+    },
+    {
+      "type": "p",
+      "text": "Then build useful content around the subjects you genuinely want the brand associated with."
+    },
+    {
+      "type": "p",
+      "text": "If you want ChatGPT to think of you when someone asks about fraud prevention for fintech companies, your entire content footprint can't be generic articles about 'digital transformation'."
+    },
+    {
+      "type": "p",
+      "text": "Be specific."
+    },
+    {
+      "type": "h2",
+      "text": "Give ChatGPT more than your own claims to work with"
+    },
+    {
+      "type": "p",
+      "text": "Here's where the strategy gets more interesting."
+    },
+    {
+      "type": "p",
+      "text": "Your homepage is always going to say nice things about your company. That's its job."
+    },
+    {
+      "type": "p",
+      "text": "An independent fintech creator discussing your research is different.",
+      "sources": [
+        {
+          "label": "What Is Creator AEO?",
+          "url": "/blog/what-is-creator-aeo"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A customer explaining how they use your product is different."
+    },
+    {
+      "type": "p",
+      "text": "A specialist newsletter including you in a category analysis is different."
+    },
+    {
+      "type": "p",
+      "text": "A YouTube expert comparing you with two competitors is different again."
+    },
+    {
+      "type": "p",
+      "text": "These aren't automatically 'trusted by ChatGPT' just because somebody else published them. We shouldn't pretend AI systems apply a simple first-party-bad, third-party-good rule."
+    },
+    {
+      "type": "p",
+      "text": "But they create something your own website cannot create alone: independent information about your brand in context."
+    },
+    {
+      "type": "p",
+      "text": "And there is growing evidence that off-site brand presence matters. Semrush's current guidance for improving ChatGPT visibility includes earning off-site mentions, answering audience questions and publishing distinctive perspectives. Its visibility tooling also specifically identifies external sources that cite competitors but not you.",
+      "sources": [
+        {
+          "label": "Semrush — Tracking ChatGPT traffic and visibility\n",
+          "url": "https://www.semrush.com/blog/track-chatgpt-traffic-and-competitors/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So rather than asking only:"
+    },
+    {
+      "type": "p",
+      "text": "“How do we optimise our website for ChatGPT?”"
+    },
+    {
+      "type": "p",
+      "text": "I'd also ask:"
+    },
+    {
+      "type": "p",
+      "text": "“Where should credible people be talking about us that currently aren’t?”"
+    },
+    {
+      "type": "h2",
+      "text": "The context of the mention matters"
+    },
+    {
+      "type": "p",
+      "text": "I wouldn't chase mentions for the sake of a counter going up."
+    },
+    {
+      "type": "p",
+      "text": "Imagine you're a cybersecurity company selling to banks."
+    },
+    {
+      "type": "p",
+      "text": "A lifestyle creator mentioning your company because they attended your Christmas party technically creates a brand mention."
+    },
+    {
+      "type": "p",
+      "text": "A banking-security expert writing about authentication systems and discussing your product as one approach creates something much more useful."
+    },
+    {
+      "type": "p",
+      "text": "The second piece helps establish what your company is relevant to."
+    },
+    {
+      "type": "p",
+      "text": "That's why i think creator discovery for AI visibility needs to be much more specific than traditional influencer discovery."
+    },
+    {
+      "type": "p",
+      "text": "You're not asking:"
+    },
+    {
+      "type": "p",
+      "text": "“Who has the most followers?”"
+    },
+    {
+      "type": "p",
+      "text": "You're asking:"
+    },
+    {
+      "type": "p",
+      "text": "“Who already talks about the subjects we need to be associated with?”"
+    },
+    {
+      "type": "p",
+      "text": "That's a completely different search."
+    },
+    {
+      "type": "h2",
+      "text": "Give creators a reason to mention you"
+    },
+    {
+      "type": "p",
+      "text": "This is another place where brands make life unnecessarily difficult."
+    },
+    {
+      "type": "p",
+      "text": "They find someone relevant and immediately ask them to promote the product."
+    },
+    {
+      "type": "p",
+      "text": "But maybe your company has something much better than a product pitch."
+    },
+    {
+      "type": "p",
+      "text": "You might have original research. A customer case study. Interesting usage data. A benchmark report. A strong opinion. A new way of solving an old problem."
+    },
+    {
+      "type": "p",
+      "text": "Match that with what the creator already cares about."
+    },
+    {
+      "type": "p",
+      "text": "If a B2B finance creator has spent the last month talking about rising customer acquisition costs and you have data showing referral customers have a lower acquisition cost in your industry, there's an obvious conversation there."
+    },
+    {
+      "type": "p",
+      "text": "They can add their own perspective. They can disagree with parts of it. They can compare it with what they're seeing elsewhere."
+    },
+    {
+      "type": "p",
+      "text": "That's much more credible than paying somebody to copy three bullets from your homepage into a LinkedIn post."
+    },
+    {
+      "type": "h2",
+      "text": "This is the problem B2B Influencer Finder is built around"
+    },
+    {
+      "type": "p",
+      "text": "There are plenty of ways to find people with large audiences."
+    },
+    {
+      "type": "p",
+      "text": "We're interested in a narrower question:"
+    },
+    {
+      "type": "p",
+      "text": "Who is already credible in the niche you want to reach, and what does your company have that would actually be relevant to them?"
+    },
+    {
+      "type": "p",
+      "text": "B2B Influencer Finder looks at the content and expertise your company already has, then searches for B2B creators whose published work overlaps with it."
+    },
+    {
+      "type": "p",
+      "text": "So instead of giving you:"
+    },
+    {
+      "type": "p",
+      "text": "“John has 18,000 LinkedIn followers.”"
+    },
+    {
+      "type": "p",
+      "text": "The useful output is closer to:"
+    },
+    {
+      "type": "p",
+      "text": "“John regularly writes about SaaS retention. Your company has a benchmark report on retention after customer referrals. Here is the content overlap, the evidence behind the match and a possible collaboration angle.”"
+    },
+    {
+      "type": "p",
+      "text": "You decide whether to approach him."
+    },
+    {
+      "type": "p",
+      "text": "The point isn't to automate fake advocacy. It's to make finding genuinely relevant third-party voices less painful."
+    },
+    {
+      "type": "h2",
+      "text": "Don't confuse mentions with citations"
+    },
+    {
+      "type": "p",
+      "text": "This is worth understanding because the terminology gets messy quickly."
+    },
+    {
+      "type": "p",
+      "text": "A mention means ChatGPT names your brand in an answer."
+    },
+    {
+      "type": "p",
+      "text": "A citation means it references a source, often with a link."
+    },
+    {
+      "type": "p",
+      "text": "You want to monitor both, but they're not interchangeable."
+    },
+    {
+      "type": "p",
+      "text": "Semrush's 2026 AI Visibility Index explicitly tracks brand mentions and cited sources separately. It notes that a brand can be mentioned frequently without its own website being cited as often, or have its domain cited without being mentioned as prominently.",
+      "sources": [
+        {
+          "label": "Semrush — AI Visibility Index 2026\n",
+          "url": "https://ai-visibility-index.semrush.com/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "For most brands, the commercially interesting outcome isn't simply collecting citations."
+    },
+    {
+      "type": "p",
+      "text": "It's being present when a buyer asks the questions that lead to a shortlist."
+    },
+    {
+      "type": "h2",
+      "text": "Don't obsess over one AI platform either"
+    },
+    {
+      "type": "p",
+      "text": "This article is about ChatGPT because that's what people are searching for right now."
+    },
+    {
+      "type": "p",
+      "text": "But your actual strategy shouldn't depend entirely on one company."
+    },
+    {
+      "type": "p",
+      "text": "People are using ChatGPT, Gemini, Google AI Mode, AI Overviews, Perplexity and whatever comes next."
+    },
+    {
+      "type": "p",
+      "text": "Semrush's 2026 visibility research tracks brands across multiple AI platforms and shows that the brands and sources surfaced aren't identical everywhere."
+    },
+    {
+      "type": "p",
+      "text": "So build the underlying evidence and category presence rather than trying to exploit one temporary ChatGPT quirk."
+    },
+    {
+      "type": "p",
+      "text": "That's a much safer bet."
+    },
+    {
+      "type": "h2",
+      "text": "A simple plan if ChatGPT never mentions you"
+    },
+    {
+      "type": "p",
+      "text": "If i were starting from zero, i'd do this:"
+    },
+    {
+      "type": "p",
+      "text": "1. Build 20 to 30 buyer prompts and record your current visibility."
+    },
+    {
+      "type": "p",
+      "text": "2. Identify which competitors ChatGPT mentions instead."
+    },
+    {
+      "type": "p",
+      "text": "3. Look at the sources and topics appearing around those competitors."
+    },
+    {
+      "type": "p",
+      "text": "4. Fix your own website if your positioning and category relevance are unclear."
+    },
+    {
+      "type": "p",
+      "text": "5. Publish genuinely useful content around the subjects you want to own."
+    },
+    {
+      "type": "p",
+      "text": "6. Find credible external voices already discussing those subjects."
+    },
+    {
+      "type": "p",
+      "text": "7. Give them useful research, expertise, data or stories worth discussing."
+    },
+    {
+      "type": "p",
+      "text": "8. Encourage real customers to share their experience where appropriate."
+    },
+    {
+      "type": "p",
+      "text": "9. Track the same prompts over time instead of relying on one-off tests."
+    },
+    {
+      "type": "p",
+      "text": "None of that guarantees ChatGPT will suddenly put you at number one."
+    },
+    {
+      "type": "p",
+      "text": "But notice something else about the list."
+    },
+    {
+      "type": "p",
+      "text": "Even if ChatGPT disappeared next year, almost everything on it would still be good marketing."
+    },
+    {
+      "type": "p",
+      "text": "Your positioning would be clearer. Your content would be better. More industry experts would know you. Customers would be talking about you. Your brand would appear in more relevant places around the web."
+    },
+    {
+      "type": "p",
+      "text": "That's probably the standard i'd use when deciding whether an AEO tactic is worth doing."
+    },
+    {
+      "type": "p",
+      "text": "Don't try to make ChatGPT believe you're important."
+    },
+    {
+      "type": "p",
+      "text": "Give the market enough evidence that it becomes reasonable for ChatGPT to think you are."
+    }
+  ],
+  "relatedArticles": [
+    "why-doesnt-chatgpt-mention-my-brand",
+    "how-to-get-your-brand-mentioned-by-ai",
+    "how-to-build-a-creator-aeo-strategy"
+  ]
+}

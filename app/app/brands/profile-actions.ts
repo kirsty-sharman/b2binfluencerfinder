@@ -2,7 +2,7 @@
 
 import { revalidatePath } from "next/cache";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
-import { lineValuesFromForm, listValuesFromForm, targetIndustriesFromForm } from "@/lib/target-industries";
+import { listValuesFromForm, targetIndustriesFromForm } from "@/lib/target-industries";
 import { B2B_INDUSTRY_TAXONOMY_VERSION } from "@/lib/b2b-industries";
 
 export type BrandProfileState = { error?: string; success?: string };
@@ -16,7 +16,6 @@ export async function updateBrandProfile(
   const summary = String(formData.get("summary") || "").trim();
   const targetSegments = listValuesFromForm(formData, "targetSegments");
   const industryTopics = listValuesFromForm(formData, "industryTopics");
-  const targetQuestions = lineValuesFromForm(formData, "targetQuestions");
   const { industries, error: industryError } = targetIndustriesFromForm(formData);
 
   if (!brandId || !brandSlug) return { error: "The brand could not be identified." };
@@ -56,26 +55,8 @@ export async function updateBrandProfile(
   );
   if (insertError) return { error: insertError.message };
 
-  const { error: deleteQuestionsError } = await supabase
-    .from("target_questions")
-    .delete()
-    .eq("brand_id", brand.id);
-  if (deleteQuestionsError) return { error: deleteQuestionsError.message };
-
-  if (targetQuestions.length) {
-    const { error: questionsError } = await supabase.from("target_questions").insert(
-      targetQuestions.map((question) => ({
-        workspace_id: brand.workspace_id,
-        brand_id: brand.id,
-        question,
-        active: true,
-      })),
-    );
-    if (questionsError) return { error: questionsError.message };
-  }
-
   revalidatePath("/app", "layout");
   revalidatePath(`/app/brands/${brandSlug}`);
   revalidatePath(`/app/brands/${brandSlug}/profile`);
-  return { success: "Brand intelligence saved. Discovery will use these industries, topics, segments, and target questions." };
+  return { success: "Brand intelligence saved. Discovery will use these industries, topics, segments, and brand expertise." };
 }

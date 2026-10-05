@@ -74,3 +74,9 @@ npm run spike -- --stage=search --industries=Education
 ```
 
 See `provider-spike/README.md` and `provider-spike/RESULTS.md` for details.
+
+### Internal-link checks
+
+Run `npm run check:links` while the local site is running (or pass a preview origin after `--`). The check crawls every XML-sitemap page, verifies internal destinations and section anchors, checks reachability from the homepage, and requires every published article to have an editorial inbound link. Run this after adding, removing or renaming pages/articles.
+
+The footer's `/site-map` directory regenerates from public routes and published articles on deployment. For each new article, add relevant `relatedArticles` slugs and update at least one existing article to link back. Contextual links can be added to paragraph `sources` with a descriptive label and `/blog/<slug>` URL. Use destinations that genuinely expand the paragraph's subject; the check catches stale destinations but editorial relevance still needs review.

@@ -1,0 +1,742 @@
+{
+  "slug": "how-to-get-your-brand-mentioned-by-ai",
+  "title": "How Do I Get My Brand Mentioned by AI?",
+  "description": "Want ChatGPT and other AI tools to know your brand? Learn what influences AI brand mentions and how to build visibility beyond your own website.",
+  "ogTitle": "How Do You Get AI to Mention Your Brand?",
+  "ogDescription": "Your website is only part of the story. Here’s what we’re learning about how brands become visible in ChatGPT and other AI systems.",
+  "category": "AI visibility",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-05",
+  "updatedAt": "2026-10-05",
+  "hero": "how-to-get-brand-mentioned-by-ai-color.webp",
+  "heroAlt": "How third-party brand mentions can contribute to visibility in AI search",
+  "diagram": "first-party-vs-third-party-brand-evidence-color.webp",
+  "diagramAlt": "First party vs third party brand evidence",
+  "diagramAfter": "Your website can't be the only place explaining who you are",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "If you ask ChatGPT to recommend companies in your category and it names three of your competitors but not you, that's annoying."
+    },
+    {
+      "type": "p",
+      "text": "Especially when you know your product is good. Your website explains exactly what you do. You have customers. You publish content. Maybe you even rank pretty well on Google."
+    },
+    {
+      "type": "p",
+      "text": "So why does AI seem to have no idea you exist?"
+    },
+    {
+      "type": "p",
+      "text": "The short answer is that getting mentioned by AI isn't just about what you say on your own website."
+    },
+    {
+      "type": "p",
+      "text": "AI systems can use information from across the web when forming answers. That includes your website, but it can also include articles, reviews, discussions, videos and other sources talking about companies in your category."
+    },
+    {
+      "type": "p",
+      "text": "This changes the job slightly."
+    },
+    {
+      "type": "p",
+      "text": "You don't only need to explain who you are."
+    },
+    {
+      "type": "p",
+      "text": "You need other people to understand who you are too."
+    },
+    {
+      "type": "p",
+      "text": "And ideally, talk about you in the right context."
+    },
+    {
+      "type": "h2",
+      "text": "First, what does \"being mentioned by AI\" actually mean?"
+    },
+    {
+      "type": "p",
+      "text": "There are a few different things marketers tend to lump together."
+    },
+    {
+      "type": "p",
+      "text": "If someone asks:"
+    },
+    {
+      "type": "quote",
+      "text": "What are the best referral marketing platforms for SaaS companies?"
+    },
+    {
+      "type": "p",
+      "text": "An AI answer could:"
+    },
+    {
+      "type": "p",
+      "text": "Mention your brand\nYour company appears in the answer."
+    },
+    {
+      "type": "p",
+      "text": "Recommend your brand\nYour company appears as one of the options the AI actively suggests."
+    },
+    {
+      "type": "p",
+      "text": "Cite your website\nThe AI uses a page on your website as a source."
+    },
+    {
+      "type": "p",
+      "text": "Cite someone else talking about you\nAn article, video, review or other third-party source discussing your company is used as supporting material."
+    },
+    {
+      "type": "p",
+      "text": "These aren't the same thing."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs demonstrated this quite nicely by analysing more than 31,000 mentions of its own brand across six AI platforms. It found that AI systems frequently mentioned Ahrefs without linking to Ahrefs. Across the platforms they studied, only around 28% of those mentions contained a link on average.",
+      "sources": [
+        {
+          "label": "Read the research",
+          "url": "https://ahrefs.com/blog/ai-citations-vs-impressions-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Semrush has found the reverse problem too. In one study, 61.7% of citations were what it called \"ghost citations\": an AI system cited the company's page as a source but didn't actually mention the brand in its answer.",
+      "sources": [
+        {
+          "label": "Read the research",
+          "url": "https://www.semrush.com/blog/the-ghost-citations-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So if you're measuring AI visibility, don't only ask:",
+      "sources": [
+        {
+          "label": "What Is AI Share of Voice and How Do You Improve It?",
+          "url": "/blog/ai-share-of-voice"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Is ChatGPT linking to my website?"
+    },
+    {
+      "type": "p",
+      "text": "Also ask:"
+    },
+    {
+      "type": "p",
+      "text": "Is ChatGPT actually talking about my brand?"
+    },
+    {
+      "type": "h2",
+      "text": "So how do you get AI to mention your brand?"
+    },
+    {
+      "type": "p",
+      "text": "There isn't a magic piece of schema you can add to your website that suddenly makes ChatGPT recommend you."
+    },
+    {
+      "type": "p",
+      "text": "And anyone promising that they can guarantee AI recommendations should probably be treated with some suspicion."
+    },
+    {
+      "type": "p",
+      "text": "AI companies don't publish a formula telling marketers exactly how brands are selected for every answer. Different AI products work differently too. ChatGPT, Google AI Overviews, Gemini, Perplexity and Claude aren't one giant search engine with one ranking algorithm."
+    },
+    {
+      "type": "p",
+      "text": "What we can do is look at the evidence we have and work from there."
+    },
+    {
+      "type": "p",
+      "text": "One of the more interesting studies comes from Ahrefs. They analysed 75,000 brands to see which factors correlated with brands appearing in Google's AI Overviews."
+    },
+    {
+      "type": "p",
+      "text": "The strongest correlation they found wasn't backlinks."
+    },
+    {
+      "type": "p",
+      "text": "It was brand mentions across the web."
+    },
+    {
+      "type": "p",
+      "text": "Branded web mentions had a correlation of 0.664 with AI Overview visibility, compared with 0.218 for backlinks. Brands in the highest quartile for web mentions received up to 10 times more AI Overview mentions than the next closest quartile.",
+      "sources": [
+        {
+          "label": "Read the research",
+          "url": "https://ahrefs.com/blog/ai-overview-brand-correlation/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That's correlation, not proof that getting ten bloggers to write your company name will magically improve your AI rankings."
+    },
+    {
+      "type": "p",
+      "text": "But it's a pretty interesting signal."
+    },
+    {
+      "type": "p",
+      "text": "And a later Ahrefs study found the relationship wasn't limited to Google's AI Overviews. Brands with more web mentions were more likely to appear across every AI platform they studied.",
+      "sources": [
+        {
+          "label": "Read the research",
+          "url": "https://ahrefs.com/blog/ai-brand-visibility-correlations/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "This is where things start getting interesting for marketers."
+    },
+    {
+      "type": "h2",
+      "text": "Your website can't be the only place explaining who you are"
+    },
+    {
+      "type": "p",
+      "text": "Imagine you've launched accounting software specifically for restaurants."
+    },
+    {
+      "type": "p",
+      "text": "Your website says:"
+    },
+    {
+      "type": "quote",
+      "text": "Restaurant accounting software built for multi-location hospitality businesses."
+    },
+    {
+      "type": "p",
+      "text": "Great."
+    },
+    {
+      "type": "p",
+      "text": "You've told the internet what you want to be known for."
+    },
+    {
+      "type": "p",
+      "text": "But now imagine the rest of the web says almost nothing about you."
+    },
+    {
+      "type": "p",
+      "text": "Nobody writing about restaurant technology mentions you."
+    },
+    {
+      "type": "p",
+      "text": "There are no YouTube videos discussing your software."
+    },
+    {
+      "type": "p",
+      "text": "Restaurant consultants don't talk about you."
+    },
+    {
+      "type": "p",
+      "text": "You've never appeared on a hospitality podcast."
+    },
+    {
+      "type": "p",
+      "text": "Nobody compares you with other restaurant accounting platforms."
+    },
+    {
+      "type": "p",
+      "text": "There are no customer discussions or independent reviews."
+    },
+    {
+      "type": "p",
+      "text": "Then compare that with a competitor."
+    },
+    {
+      "type": "p",
+      "text": "Their own website makes roughly the same claims, but they're also mentioned in restaurant-industry newsletters, YouTube videos, software comparisons, LinkedIn discussions and podcasts about hospitality technology."
+    },
+    {
+      "type": "p",
+      "text": "There is simply more external evidence connecting that company with the topic."
+    },
+    {
+      "type": "p",
+      "text": "I think this distinction is going to become increasingly important."
+    },
+    {
+      "type": "p",
+      "text": "Your own content tells the web:"
+    },
+    {
+      "type": "p",
+      "text": "“This is what we say we are.”"
+    },
+    {
+      "type": "p",
+      "text": "Third-party content tells the web:"
+    },
+    {
+      "type": "p",
+      "text": "“This is what other people say they are.”"
+    },
+    {
+      "type": "p",
+      "text": "You probably want both."
+    },
+    {
+      "type": "h2",
+      "text": "This doesn't mean you should stop doing SEO"
+    },
+    {
+      "type": "p",
+      "text": "Quite the opposite."
+    },
+    {
+      "type": "p",
+      "text": "Your own website still needs to be exceptionally clear."
+    },
+    {
+      "type": "p",
+      "text": "AI systems can't understand your positioning particularly well if you can't explain it."
+    },
+    {
+      "type": "p",
+      "text": "Make sure your website clearly communicates what your product does, who it's for, which problems it solves, which industries you serve, how you're different, what customers have achieved and what expertise or data you have."
+    },
+    {
+      "type": "p",
+      "text": "You also want useful pages answering the actual questions people ask about your category."
+    },
+    {
+      "type": "p",
+      "text": "If you're an expense-management platform, don't publish 50 generic articles about \"business growth.\""
+    },
+    {
+      "type": "p",
+      "text": "Talk about expense management. Corporate cards. Expense policies. International reimbursements. Finance operations."
+    },
+    {
+      "type": "p",
+      "text": "The subjects you want your company associated with should be unmistakable."
+    },
+    {
+      "type": "p",
+      "text": "Good SEO fundamentals still matter too. Ahrefs' overview of LLM visibility makes the same point: much of what currently helps with AI visibility is built on established SEO and brand-building fundamentals rather than some entirely separate discipline.",
+      "sources": [
+        {
+          "label": "Read the research",
+          "url": "https://ahrefs.com/blog/llm-visibility/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The change is that your own website is no longer the entire playing field."
+    },
+    {
+      "type": "h2",
+      "text": "You need to be talked about in the right context"
+    },
+    {
+      "type": "p",
+      "text": "This is the bit I find more interesting than simply accumulating brand mentions."
+    },
+    {
+      "type": "p",
+      "text": "Let's go back to our restaurant accounting company."
+    },
+    {
+      "type": "p",
+      "text": "A mention in an article about “10 coolest startup logos” contains your brand name."
+    },
+    {
+      "type": "p",
+      "text": "But an article written by a restaurant finance consultant about “How multi-location restaurant groups manage accounting across 30 locations” where your company is discussed as an example is very different."
+    },
+    {
+      "type": "p",
+      "text": "The second mention connects your brand + restaurant accounting + multi-location businesses + finance."
+    },
+    {
+      "type": "p",
+      "text": "That's exactly the context you want associated with your company."
+    },
+    {
+      "type": "p",
+      "text": "So I wouldn't make the goal:"
+    },
+    {
+      "type": "quote",
+      "text": "Get the internet to mention us 1,000 times."
+    },
+    {
+      "type": "p",
+      "text": "I'd make it:"
+    },
+    {
+      "type": "quote",
+      "text": "Get credible people in our industry talking about us in the context we want to be known for."
+    },
+    {
+      "type": "p",
+      "text": "That's a much harder problem."
+    },
+    {
+      "type": "p",
+      "text": "But also a much more useful one."
+    },
+    {
+      "type": "h2",
+      "text": "Where can those mentions come from?"
+    },
+    {
+      "type": "p",
+      "text": "This is where traditional PR, creator marketing, customer marketing and AEO start crashing into each other.",
+      "sources": [
+        {
+          "label": "What Is Creator AEO?",
+          "url": "/blog/what-is-creator-aeo"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Potential sources include industry publications, journalists, bloggers, newsletters, YouTube creators, podcasters, LinkedIn creators, analysts, customers, review sites, communities and other companies in your ecosystem."
+    },
+    {
+      "type": "p",
+      "text": "You don't necessarily need the person with the biggest audience."
+    },
+    {
+      "type": "p",
+      "text": "For a B2B company selling cybersecurity software, someone with 12,000 followers who spends their life talking about enterprise security may be far more relevant than a general technology influencer with 500,000."
+    },
+    {
+      "type": "p",
+      "text": "The audience matters."
+    },
+    {
+      "type": "p",
+      "text": "The expertise matters."
+    },
+    {
+      "type": "p",
+      "text": "And increasingly, the context of what they're publishing matters."
+    },
+    {
+      "type": "h2",
+      "text": "Give people something worth talking about"
+    },
+    {
+      "type": "p",
+      "text": "This is probably the part brands get wrong most often."
+    },
+    {
+      "type": "p",
+      "text": "They find an influencer and send:"
+    },
+    {
+      "type": "quote",
+      "text": "Hi! We love your content. Would you be interested in collaborating with our brand?"
+    },
+    {
+      "type": "p",
+      "text": "Collaborating on what?"
+    },
+    {
+      "type": "p",
+      "text": "Your company probably already has material that could make the conversation much more interesting."
+    },
+    {
+      "type": "p",
+      "text": "Maybe you have original research, customer data, a brilliant case study, an unusual result, a strong opinion, industry benchmarks, an interesting customer story or a genuinely useful guide."
+    },
+    {
+      "type": "p",
+      "text": "Instead of asking a creator to \"promote our product\", you can match something your company knows with something their audience already cares about."
+    },
+    {
+      "type": "p",
+      "text": "Imagine you sell HR software and have anonymised data showing that employees referred by existing staff stay 40% longer."
+    },
+    {
+      "type": "p",
+      "text": "You find a LinkedIn creator who regularly writes about employee retention."
+    },
+    {
+      "type": "p",
+      "text": "Now you have an actual reason to talk."
+    },
+    {
+      "type": "p",
+      "text": "The pitch isn't:"
+    },
+    {
+      "type": "quote",
+      "text": "Please post about our HR software."
+    },
+    {
+      "type": "p",
+      "text": "It's:"
+    },
+    {
+      "type": "quote",
+      "text": "We have some interesting data on referred employees and retention. You've written quite a bit about retention recently and thought you might find this interesting."
+    },
+    {
+      "type": "p",
+      "text": "Maybe they write about it."
+    },
+    {
+      "type": "p",
+      "text": "Maybe they challenge the findings."
+    },
+    {
+      "type": "p",
+      "text": "Maybe it becomes a newsletter."
+    },
+    {
+      "type": "p",
+      "text": "Maybe you discuss it on their podcast."
+    },
+    {
+      "type": "p",
+      "text": "The creator gets something useful for their audience."
+    },
+    {
+      "type": "p",
+      "text": "You get your expertise discussed by somebody other than yourself."
+    },
+    {
+      "type": "p",
+      "text": "That's a much healthier way to think about creator marketing."
+    },
+    {
+      "type": "h2",
+      "text": "This is also why we built B2B Influencer Finder"
+    },
+    {
+      "type": "p",
+      "text": "Finding a list of people with \"HR\" in their LinkedIn bio isn't particularly difficult."
+    },
+    {
+      "type": "p",
+      "text": "Finding the right person + the right piece of your content + the right reason to approach them is much harder."
+    },
+    {
+      "type": "p",
+      "text": "That's what we're trying to solve with B2B Influencer Finder."
+    },
+    {
+      "type": "p",
+      "text": "The tool looks at what your company actually has worth talking about, then finds niche creators and industry experts whose existing content suggests there could be a genuine match."
+    },
+    {
+      "type": "p",
+      "text": "So rather than:"
+    },
+    {
+      "type": "p",
+      "text": "Sarah has 22,000 followers."
+    },
+    {
+      "type": "p",
+      "text": "You get:"
+    },
+    {
+      "type": "p",
+      "text": "Sarah regularly writes about employee retention. You have original employee-retention data. Here are the articles she's already written on the subject and here's a potential angle for a collaboration."
+    },
+    {
+      "type": "p",
+      "text": "You still decide whether she's right."
+    },
+    {
+      "type": "p",
+      "text": "We just make finding that match much faster."
+    },
+    {
+      "type": "h2",
+      "text": "Don't forget about customers"
+    },
+    {
+      "type": "p",
+      "text": "Creators aren't the only people who can create third-party evidence."
+    },
+    {
+      "type": "p",
+      "text": "Your customers can be even more credible."
+    },
+    {
+      "type": "p",
+      "text": "A customer explaining:"
+    },
+    {
+      "type": "quote",
+      "text": "We switched to X because we needed Y, and six months later Z happened."
+    },
+    {
+      "type": "p",
+      "text": "contains information that your homepage can't replicate."
+    },
+    {
+      "type": "p",
+      "text": "Case studies on your own website are useful, but think beyond that too."
+    },
+    {
+      "type": "p",
+      "text": "Customers can discuss their experience on LinkedIn, write reviews, participate in podcasts, contribute to industry articles or talk about how they solved a particular problem."
+    },
+    {
+      "type": "p",
+      "text": "The goal isn't to manufacture fake enthusiasm."
+    },
+    {
+      "type": "p",
+      "text": "It's to make it easier for people with genuine experience of your company to talk about that experience."
+    },
+    {
+      "type": "h2",
+      "text": "Measure the prompts that actually matter to your business"
+    },
+    {
+      "type": "p",
+      "text": "Eventually you need to know whether any of this is working."
+    },
+    {
+      "type": "p",
+      "text": "Don't just open ChatGPT once a month and ask:"
+    },
+    {
+      "type": "quote",
+      "text": "Have you heard of Acme?"
+    },
+    {
+      "type": "p",
+      "text": "Build a list of prompts your actual buyers might use."
+    },
+    {
+      "type": "p",
+      "text": "If you're our fictional restaurant accounting company, that could include:"
+    },
+    {
+      "type": "quote",
+      "text": "What's the best accounting software for restaurant groups?"
+    },
+    {
+      "type": "quote",
+      "text": "What accounting tools work for multi-location restaurants?"
+    },
+    {
+      "type": "quote",
+      "text": "What are the alternatives to [competitor] for hospitality businesses?"
+    },
+    {
+      "type": "quote",
+      "text": "How should a 20-location restaurant group manage its accounting?"
+    },
+    {
+      "type": "quote",
+      "text": "Which restaurant accounting platforms integrate with X?"
+    },
+    {
+      "type": "p",
+      "text": "Then track whether you're mentioned, how you're described, which competitors appear and which sources are being cited."
+    },
+    {
+      "type": "p",
+      "text": "Tools are increasingly being built specifically for this. Ahrefs, for example, now tracks mentions, citations, estimated impressions and AI share of voice separately.",
+      "sources": [
+        {
+          "label": "Read the research",
+          "url": "https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "OpenAI also lists integrations such as Conductor specifically for analysing brand visibility, sentiment, mentions and citations across AI platforms.",
+      "sources": [
+        {
+          "label": "Read the research",
+          "url": "https://openai.com/business/plugins/conductor/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "You don't necessarily need software on day one."
+    },
+    {
+      "type": "p",
+      "text": "A spreadsheet and 20 important prompts is enough to establish a baseline."
+    },
+    {
+      "type": "h2",
+      "text": "Don't chase AI. Build evidence."
+    },
+    {
+      "type": "p",
+      "text": "There's going to be an enormous amount of nonsense sold under AEO, GEO and LLM optimisation over the next few years."
+    },
+    {
+      "type": "p",
+      "text": "Some of it will work."
+    },
+    {
+      "type": "p",
+      "text": "Some of it will probably disappear as quickly as it arrived."
+    },
+    {
+      "type": "p",
+      "text": "I think the safer approach is to ask:"
+    },
+    {
+      "type": "p",
+      "text": "If AI disappeared tomorrow, would this still be good marketing?"
+    },
+    {
+      "type": "p",
+      "text": "Making your website clearer? Yes."
+    },
+    {
+      "type": "p",
+      "text": "Publishing genuinely useful research? Yes."
+    },
+    {
+      "type": "p",
+      "text": "Getting respected people in your industry talking about your company? Yes."
+    },
+    {
+      "type": "p",
+      "text": "Having customers publicly describe their experience? Yes."
+    },
+    {
+      "type": "p",
+      "text": "Getting included in useful comparisons and industry resources? Yes."
+    },
+    {
+      "type": "p",
+      "text": "Building a brand people actually search for? Definitely."
+    },
+    {
+      "type": "p",
+      "text": "And right now, the available research suggests those same things are also associated with greater visibility in AI search."
+    },
+    {
+      "type": "p",
+      "text": "So if ChatGPT doesn't mention your company today, don't start by trying to trick ChatGPT."
+    },
+    {
+      "type": "p",
+      "text": "Start by giving the rest of the internet more reasons to talk about you."
+    }
+  ],
+  "relatedArticles": [
+    "how-to-get-chatgpt-to-mention-your-brand",
+    "how-to-get-your-company-to-show-up-in-ai-search",
+    "how-to-build-a-creator-aeo-strategy"
+  ]
+}

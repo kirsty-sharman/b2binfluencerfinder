@@ -1,12 +1,12 @@
 "use client";
 
 import { useActionState, useEffect, useRef, useState } from "react";
-import { ActionHelp, WorkspacePanel } from "@/components/workspace-ui";
-import { ExternalLink, X } from "lucide-react";
+import { ActionHelp } from "@/components/workspace-ui";
+import { ExternalLink, Plus, X } from "lucide-react";
 import { addContentAsset, scanContentAssets, updateContentAsset, curateContentAssets, type ResearchActionState } from "@/app/app/brands/research-actions";
 import type { ContentAssetRecord } from "@/lib/research";
 import { loadContentLibraryPage } from "@/app/app/brands/content-library-actions";
-import { contentStatus as status } from "@/lib/content-library-view";
+import { contentStatus as status, type LibraryOptions } from "@/lib/content-library-view";
 const initialState: ResearchActionState = {};
 export function ContentAssetLibrary({brandSlug,assets,total,migrationRequired}:{brandSlug:string;assets:ContentAssetRecord[];total:number;migrationRequired:boolean}) {
   const [curateState,curate,curating]=useActionState(curateContentAssets,initialState);
@@ -15,6 +15,17 @@ export function ContentAssetLibrary({brandSlug,assets,total,migrationRequired}:{
   const [selectionState,select,selecting]=useActionState(updateContentAsset,initialState);
   const [noticeMode,setNoticeMode]=useState<"curate"|"scan"|"url"|"selection">("curate");
   const [browse,setBrowse]=useState(false);
+  const [adding,setAdding]=useState(false);
+  const addDialog=useRef<HTMLDialogElement>(null);
+  useEffect(()=>{
+    if(!adding || !addDialog.current)return;
+    const dialog=addDialog.current; const focus=document.activeElement as HTMLElement|null; const overflow=document.body.style.overflow;
+    dialog.showModal();document.body.style.overflow="hidden";
+    return ()=>{dialog.close();document.body.style.overflow=overflow;focus?.focus();};
+  },[adding]);
+  const [options,setOptions]=useState<LibraryOptions>({});
+  function option(key:keyof LibraryOptions,value:string){setOptions(previous=>({...previous,[key]:value}));setPage(1);}
+  function resetFilters(){setQuery("");setFilter("all");setOptions({});setPage(1);}
   const libraryDialog=useRef<HTMLDialogElement>(null);
   useEffect(()=>{
     if(!browse)return;
@@ -39,13 +50,13 @@ export function ContentAssetLibrary({brandSlug,assets,total,migrationRequired}:{
     let cancelled=false;
     const timer=setTimeout(()=>{
       setLoading(true);setLoadError("");
-      loadContentLibraryPage(brandSlug,query,filter,page).then(value=>{if(!cancelled)setResult(value);}).catch(()=>{if(!cancelled)setLoadError("Unable to load the library. Close and reopen to retry.");}).finally(()=>{if(!cancelled)setLoading(false);});
+      loadContentLibraryPage(brandSlug,query,filter,page,options).then(value=>{if(!cancelled)setResult(value);}).catch(()=>{if(!cancelled)setLoadError("Unable to load the library. Close and reopen to retry.");}).finally(()=>{if(!cancelled)setLoading(false);});
     },200);
     return ()=>{cancelled=true;clearTimeout(timer);};
-  },[browse,brandSlug,query,filter,page,assets]);
+  },[browse,brandSlug,query,filter,page,options,assets]);
   const candidates=result?.assets || [];
   const count=result?.count || 0;
-  function openLibrary(){setQuery("");setFilter("all");setPage(1);setBrowse(true);}
+  function openLibrary(){resetFilters();setBrowse(true);}
   const pages=result?.pages || 1;
   const current=result?.current || 1;
   const busy=curating || scanning || scanningUrl || selecting;
@@ -59,7 +70,7 @@ export function ContentAssetLibrary({brandSlug,assets,total,migrationRequired}:{
   }
   if(migrationRequired) return <main className="page"><h1>Content assets</h1><p>Content storage is unavailable.</p></main>;
   return <main className="page content-page">
-    <header className="page-header"><div className="page-header-copy"><div className="eyebrow">Quality before quantity</div><h1>Content assets</h1><p>Choose up to 20 strong pieces for creator matching.</p></div><span className="status-pill success">{active.length} / 20 active</span></header>
+    <header className="page-header"><div className="page-header-copy"><div className="eyebrow">Quality before quantity</div><h1>Content assets</h1><p>Choose up to 20 strong pieces for creator matching.</p></div><div className="content-library-actions"><span className="status-pill success">{active.length} / 20 active</span><button className="primary-button" aria-haspopup="dialog" onClick={()=>setAdding(true)}><Plus size={18}/> Add content</button></div></header>
     <section className="surface surface-pad content-command"><div className="section-heading"><h2>Manage your library</h2><ActionHelp label="How content selection works">AI checks target-industry relevance before scoring research, case studies and original insights. Only active assets enter creator matching. Reselecting replaces your active selection; manually removed pages stay excluded. Scanning and assessment use provider and AI requests.</ActionHelp></div><div className="content-library-actions"><form action={curate} onSubmit={()=>setNoticeMode("curate")}><input type="hidden" name="brandSlug" value={brandSlug}/><button className="primary-button" disabled={busy || !total}>{curating ? "Assessing content and selecting…" : active.length ? "Reselect with AI" : "Let AI select up to 20"}</button></form><form action={scan} onSubmit={()=>{setBrowse(true);setNoticeMode("scan");}}><input type="hidden" name="brandSlug" value={brandSlug}/><button className="secondary-button" disabled={busy}>{scanning ? "Scanning and assessing…" : "Scan website & help guides"}</button></form><button className="secondary-button" aria-haspopup="dialog" aria-controls="content-library-drawer" onClick={openLibrary}>{`Browse library (${total})`}</button></div>{curating || scanning ? <p role="status">Reading and assessing page content. A large library can take several minutes; completed assessments are saved as they finish.</p> : null}</section>
     {notices.map((state,index)=><div key={index}>{state.error ? <p className="auth-error" role="alert">{state.error}</p> : null}{state.success ? <p className="save-success" role="status">{state.success}</p> : null}</div>)}
     <div className="section-heading"><h2>Active assets</h2><span>{active.length} / 20</span></div>
@@ -68,9 +79,13 @@ export function ContentAssetLibrary({brandSlug,assets,total,migrationRequired}:{
     <dialog ref={libraryDialog} id="content-library-drawer" className="content-library-drawer" aria-labelledby="content-library-title" onCancel={()=>setBrowse(false)} onClose={()=>setBrowse(false)} onClick={event=>{if(event.target===event.currentTarget){const rect=event.currentTarget.getBoundingClientRect();if(event.clientX<rect.left||event.clientX>rect.right||event.clientY<rect.top||event.clientY>rect.bottom)setBrowse(false);}}}>
       <header className="content-library-drawer-header"><div><h2 id="content-library-title">Content library</h2><p>{total} saved pages · {active.length} / 20 active assets</p></div><button type="button" className="secondary-button" aria-label="Close library" onClick={()=>setBrowse(false)}><X size={18}/> Close</button></header>
       <div className="library-toolbar">
-        <label className="field">Search library<input className="text-input" value={query} onChange={e=>{setQuery(e.target.value);setPage(1);}} placeholder="Search titles or industries"/></label>
+        <label className="field">Search library<input className="text-input" value={query} onChange={e=>{setQuery(e.target.value);setPage(1);}} placeholder="Search titles, URLs, topics or industries"/></label>
         <label className="field">Status<select className="text-input" value={filter} onChange={e=>{setFilter(e.target.value);setPage(1);}}><option value="all">All pages ({total})</option>{Object.entries(labels).map(([key,label])=><option key={key} value={key}>{label} ({result?.counts[key as keyof typeof result.counts] ?? "…"})</option>)}</select></label>
-        <p>Only pages meeting industry fit and creator quality checks can be added.</p>
+        <label className="field">Sort by<select className="text-input" value={options.sort || "score"} onChange={e=>option("sort",e.target.value)}><option value="score">Highest creator fit</option><option value="title">Title A–Z</option><option value="title-desc">Title Z–A</option></select></label>
+        {([['type','Content type','types'],['industry','Matched industry','industries'],['source','Source website','sources']] as const).map(([key,label,facet])=><label className="field" key={key}>{label}<select className="text-input" value={options[key] || ""} onChange={e=>option(key,e.target.value)}><option value="">All</option>{result?.facets[facet].map(value=><option key={value} value={value}>{value}</option>)}</select></label>)}
+        <label className="field">Minimum creator fit<select className="text-input" value={options.minScore || ""} onChange={e=>option("minScore",e.target.value)}><option value="">Any score</option><option value="70">70+ · Good</option><option value="80">80+ · Strong</option><option value="90">90+ · Exceptional</option></select></label>
+        <div className="library-quick-filters"><span>Quick views</span>{[['ready','Ready to add'],['review','Needs assessment'],['active','Active assets']].map(([value,label])=><button type="button" className="secondary-button" aria-pressed={filter===value} key={value} onClick={()=>{resetFilters();setFilter(value);}}>{label}</button>)}<button type="button" className="secondary-button" onClick={resetFilters}>Clear filters</button></div>
+        <p>Filters combine to narrow your library. Industry and score filters use assessed evidence; unassessed pages appear under Needs assessment.</p>
       </div>
       <section className="content-library-drawer-body">
         {scanning||scanningUrl?<p role="status">Scanning and assessing content. Results will appear here when ready.</p>:null}
@@ -87,10 +102,13 @@ export function ContentAssetLibrary({brandSlug,assets,total,migrationRequired}:{
             <details><summary>View assessment</summary><p>{audit?.industryReason || "Industry fit has not been assessed."}</p>{audit?.reason ? <p>{audit.reason}</p>:null}{audit?.angle ? <p><strong>Creator angle:</strong> {audit.angle}</p>:null}{audit?.evidence ? <blockquote>{audit.evidence}</blockquote>:null}</details>
           </article>;
         })}</div>
-        {!loading && result && !loadError && !candidates.length ? <div className="library-empty"><h3>No pages match this filter</h3><p>{filter==="ready" ? "There are no additional pages ready to add. You can still browse all saved pages and their assessments." : "Try another search or show all saved pages."}</p><button className="secondary-button" onClick={()=>{setQuery("");setFilter("all");setPage(1);}}>Show all pages</button></div>:null}
+        {!loading && result && !loadError && !candidates.length ? <div className="library-empty"><h3>No pages match this filter</h3><p>{filter==="ready" ? "There are no additional pages ready to add. You can still browse all saved pages and their assessments." : "Try another search or show all saved pages."}</p><button className="secondary-button" onClick={resetFilters}>Show all pages</button></div>:null}
       </section>
       <footer className="library-footer"><span role="status">{candidates.length ? `${(current-1)*10+1}–${Math.min(current*10,count)} of ${count} pages` : "0 pages"}</span>{pages>1 ? <nav aria-label="Content library pages"><button className="secondary-button" disabled={loading || current===1} onClick={()=>{setPage(current-1);libraryDialog.current?.querySelector(".content-library-drawer-body")?.scrollTo(0,0);}}>Previous</button><span>{current} / {pages}</span><button className="secondary-button" disabled={loading || current===pages} onClick={()=>{setPage(current+1);libraryDialog.current?.querySelector(".content-library-drawer-body")?.scrollTo(0,0);}}>Next</button></nav>:null}</footer>
     </dialog>
-    <WorkspacePanel title="Add a content URL" description="Save and assess an article, case study or report"><p>Paste a public article, case study or report page. We’ll extract its content, assess it and put it in your library for selection.</p><form action={scanUrl} className="inline-create-form" onSubmit={()=>{setNoticeMode("url");setBrowse(true);setQuery("");setPage(1);}}><input type="hidden" name="brandSlug" value={brandSlug}/><label className="field">Content URL<input className="text-input" name="url" type="url" placeholder="https://example.com/case-study" required/></label><button className="secondary-button" disabled={busy}>{scanningUrl ? "Scanning URL…" : "Scan URL"}</button></form></WorkspacePanel>
+    <dialog ref={addDialog} className="content-library-drawer content-add-drawer" aria-labelledby="add-content-title" onCancel={()=>setAdding(false)} onClose={()=>setAdding(false)}>
+      <header className="content-library-drawer-header"><div><h2 id="add-content-title">Add content</h2><p>Bring your strongest work into the library.</p></div><button type="button" className="secondary-button" onClick={()=>setAdding(false)}><X size={18}/> Close</button></header>
+      <section className="content-library-drawer-body"><p>Paste a public article, case study or report URL. We’ll read the page and assess its industry relevance and creator potential before you choose whether to activate it.</p><form action={scanUrl} className="add-content-form" onSubmit={()=>setNoticeMode("url")}><input type="hidden" name="brandSlug" value={brandSlug}/><label className="field">Content URL<input className="text-input" name="url" type="url" placeholder="https://example.com/case-study" required/></label><button className="primary-button" disabled={busy}>{scanningUrl ? "Reading and assessing…" : "Save & assess content"}</button></form>{scanningUrl ? <p role="status">This can take a minute. Your page will be saved in the library.</p> : null}{urlState.error ? <p role="alert" className="auth-error">{urlState.error}</p>:null}{urlState.success ? <><p role="status" className="save-success">{urlState.success}</p><button className="secondary-button" onClick={()=>{setAdding(false);openLibrary();}}>Browse library</button></>:null}</section>
+    </dialog>
   </main>;
 }

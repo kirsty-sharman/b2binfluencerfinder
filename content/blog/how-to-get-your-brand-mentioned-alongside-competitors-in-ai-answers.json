@@ -1,0 +1,345 @@
+{
+  "slug": "how-to-get-your-brand-mentioned-alongside-competitors-in-ai-answers",
+  "title": "How Do I Get My Brand Mentioned Alongside Competitors in AI Answers?",
+  "metaTitle": "How to Get Mentioned Alongside Competitors in AI Answers",
+  "description": "Competitors showing up in ChatGPT while you are missing? Learn how to identify the gap and build the evidence that can put your brand into the same AI consideration set.",
+  "ogTitle": "How to Get Your Brand Into the AI Consideration Set",
+  "ogDescription": "If AI recommends your competitors but ignores you, study where they win, what evidence supports them and which topic gaps you can realistically close.",
+  "category": "AI visibility",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-05",
+  "updatedAt": "2026-10-05",
+  "hero": "brand-mentioned-alongside-competitors-ai.webp",
+  "heroAlt": "Brand entering an AI consideration set alongside competitors through relevant category evidence",
+  "diagram": "ai-competitor-evidence-gap.webp",
+  "diagramAlt": "Framework for identifying prompts where competitors appear in AI answers and the evidence gaps to investigate",
+  "diagramAfter": "Look at why the competitor belongs in the answer",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "If ChatGPT keeps recommending your competitors and leaving you out, the useful question isn’t ‘how do I make ChatGPT like my brand?’ It’s ‘what evidence exists for those companies that doesn’t exist for us yet?’"
+    },
+    {
+      "type": "p",
+      "text": "AI answers don’t have a permanent shortlist. They vary by prompt, platform, location, freshness and even repeated runs of the same question. Ahrefs notes that ChatGPT responses are probabilistic rather than fixed rankings. So the objective isn’t to steal somebody’s number-three position. It’s to become a credible candidate across the category questions where buyers compare options.",
+      "sources": [
+        {
+          "label": "Ahrefs — How to Rank on ChatGPT: What Actually Works (2026)",
+          "url": "https://ahrefs.com/blog/how-to-rank-on-chatgpt/"
+        },
+        {
+          "label": "Related guide: How Do I Get My Brand Recommended by AI?",
+          "url": "/blog/how-to-get-your-brand-recommended-by-ai"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That usually means understanding the competitive evidence gap, then closing it in places AI systems can discover.",
+      "sources": [
+        {
+          "label": "Related guide: How Do I Get AI to Associate My Brand With a Specific Topic?",
+          "url": "/blog/how-to-get-ai-to-associate-your-brand-with-a-topic"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "First, find the prompts where competitors appear and you don’t"
+    },
+    {
+      "type": "p",
+      "text": "Don’t start by publishing more content. Start with the gap."
+    },
+    {
+      "type": "p",
+      "text": "Build a set of real buyer questions around your category: best tools, alternatives, comparisons, use cases, pricing, industry-specific recommendations and problem-solving questions. Run them across the AI platforms that matter to you and record which brands appear.",
+      "sources": [
+        {
+          "label": "Related guide: What Is AI Share of Voice and How Do You Improve It?",
+          "url": "/blog/ai-share-of-voice"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "This is effectively competitive share of voice for AI. Ahrefs defines AI share of voice as your share of brand impressions compared with competitors. Semrush’s competitor tools similarly focus on prompts and topics where rivals are mentioned and you are missing.",
+      "sources": [
+        {
+          "label": "Ahrefs Help — AI Visibility Metrics",
+          "url": "https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics"
+        },
+        {
+          "label": "Semrush competitor research",
+          "url": "https://www.semrush.com/kb/1598-competitor-research-report"
+        },
+        {
+          "label": "Related guide: How Do I Get My Brand Mentioned by AI?",
+          "url": "/blog/how-to-get-your-brand-mentioned-by-ai"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The important part is the prompt-level detail. ‘Competitor X has more AI visibility’ is interesting. ‘Competitor X appears in 14 of our 20 enterprise-buying prompts and we appear in four’ is actionable."
+    },
+    {
+      "type": "h2",
+      "text": "Look at why the competitor belongs in the answer"
+    },
+    {
+      "type": "p",
+      "text": "For every important prompt where a competitor appears without you, inspect the answer and its sources."
+    },
+    {
+      "type": "p",
+      "text": "What is the competitor being praised for? Is it price, integrations, enterprise capability, ease of use, a specific industry, customer support or simply category recognition? Which pages are cited? Are those pages owned by the competitor, review sites, comparison articles, Reddit threads, YouTube videos or industry publications?"
+    },
+    {
+      "type": "p",
+      "text": "You’re trying to understand the evidence behind the association. Ahrefs’ guidance on monitoring ChatGPT mentions recommends examining the prompts and responses where competitors appear but your brand does not. Semrush now exposes the same kind of topic and prompt gaps in its competitor research.",
+      "sources": [
+        {
+          "label": "Ahrefs — How to Monitor Brand Mentions in ChatGPT (2026)",
+          "url": "https://ahrefs.com/blog/monitor-brand-mentions-chatgpt/"
+        },
+        {
+          "label": "Semrush — AI SEO Competitor Research Report",
+          "url": "https://www.semrush.com/kb/1598-competitor-research-report"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "This is much more useful than copying a competitor’s blog calendar."
+    },
+    {
+      "type": "h2",
+      "text": "Separate an evidence problem from a product problem"
+    },
+    {
+      "type": "p",
+      "text": "Sometimes AI is missing you because the web doesn’t understand your product well enough. Sometimes the competitor is simply a better fit for the question."
+    },
+    {
+      "type": "p",
+      "text": "If the prompt asks for software with a Salesforce integration and you don’t have one, no amount of Creator AEO should manufacture that feature. If it asks for an enterprise platform and your site gives no evidence of enterprise customers, security, implementation or support, you may have an evidence gap. If you genuinely do those things but nobody can find proof, that is a distribution problem.",
+      "sources": [
+        {
+          "label": "What Is Creator AEO?",
+          "url": "/blog/what-is-creator-aeo"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Be strict about this distinction. The goal is not to create enough noise that AI puts you into recommendations where you don’t belong. The goal is to make legitimate competitive strengths visible."
+    },
+    {
+      "type": "h2",
+      "text": "Build comparison-worthy pages on your own site"
+    },
+    {
+      "type": "p",
+      "text": "Your own website should make it easy to understand where you fit relative to alternatives."
+    },
+    {
+      "type": "p",
+      "text": "That can include competitor alternative pages, honest comparison pages, use-case pages, integration pages, pricing explanations and industry-specific customer stories. The useful versions of these pages don’t say ‘we are better at everything’. They explain who each option is for and where the differences actually are."
+    },
+    {
+      "type": "p",
+      "text": "This also gives third parties something concrete to reference. A creator writing about referral software for banks can do far more with a bank case study, integration documentation and clear enterprise proposition than with a homepage full of adjectives."
+    },
+    {
+      "type": "h2",
+      "text": "You also need to exist in the sources that define the category"
+    },
+    {
+      "type": "p",
+      "text": "This is where competitive AI visibility starts to look less like classic on-site SEO and more like brand distribution."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs says fixing missing inline ChatGPT mentions is largely about expanding a brand’s footprint in authoritative third-party content, including industry roundups, comparison pieces and publications. Its monitoring guidance also argues that brands represented across diverse sources are more reliably surfaced than brands repeatedly talking about themselves on their own site.",
+      "sources": [
+        {
+          "label": "Ahrefs — How to Monitor Brand Mentions in ChatGPT (2026)",
+          "url": "https://ahrefs.com/blog/monitor-brand-mentions-chatgpt/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Treat that as directional evidence, not a guarantee. Nobody outside the model providers can give you a formula that says five articles plus three YouTube mentions equals a ChatGPT recommendation."
+    },
+    {
+      "type": "p",
+      "text": "But if every credible article about your category discusses three competitors and never mentions you, that is an obvious gap worth fixing regardless of the exact model mechanics."
+    },
+    {
+      "type": "h2",
+      "text": "Find the people already shaping the conversation"
+    },
+    {
+      "type": "p",
+      "text": "A useful shortcut is to look at who already creates content around the prompts where competitors win."
+    },
+    {
+      "type": "p",
+      "text": "Which YouTubers review the category? Which LinkedIn creators explain the problem? Which newsletter writers cover the industry? Which podcast hosts interview companies like yours? Which independent bloggers publish comparisons?"
+    },
+    {
+      "type": "p",
+      "text": "Then don’t pitch them with ‘please mention our brand’. Give them a reason to care."
+    },
+    {
+      "type": "p",
+      "text": "Maybe you have original data that challenges a common assumption. Maybe you have a case study from an unusual industry. Maybe your product takes a genuinely different approach. Maybe you can give them access to a founder or customer with useful experience."
+    },
+    {
+      "type": "p",
+      "text": "The objective is credible third-party discussion, not inserting your name into as many pages as possible."
+    },
+    {
+      "type": "h2",
+      "text": "This is where B2B Influencer Finder fits"
+    },
+    {
+      "type": "p",
+      "text": "B2B Influencer Finder was built around this exact matching problem."
+    },
+    {
+      "type": "p",
+      "text": "Instead of only searching for creators by follower count, it looks at the useful assets and expertise a B2B brand already has, then searches for creators whose existing work overlaps with those subjects."
+    },
+    {
+      "type": "p",
+      "text": "If a competitor is constantly discussed in fintech acquisition content and you have a strong bank referral case study, the interesting question becomes: who already talks about fintech acquisition and might genuinely find that case study useful?"
+    },
+    {
+      "type": "p",
+      "text": "That gives you a collaboration angle grounded in the creator’s actual interests, rather than a generic sponsorship pitch. The creator keeps editorial control. You get a more credible opportunity to become part of the category conversation."
+    },
+    {
+      "type": "h2",
+      "text": "Don’t obsess over being named in the exact same sentence"
+    },
+    {
+      "type": "p",
+      "text": "Being mentioned literally beside a competitor can be useful, especially in comparison and recommendation prompts. But don’t make that the only metric."
+    },
+    {
+      "type": "p",
+      "text": "Semrush’s 2026 topic-level research found that AI visibility shifts across related prompts. A brand can show up for one question and disappear for the next. That means the broader objective is to become consistently associated with the category, not engineer one screenshot where your logo sits beside a rival.",
+      "sources": [
+        {
+          "label": "Semrush topic authority study",
+          "url": "https://www.semrush.com/blog/chatgpt-topic-authority-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Track a cluster: how often are you mentioned, how often are competitors mentioned, what topics trigger each brand, how are you described and what sources are shaping the answers?",
+      "sources": [
+        {
+          "label": "What Is AI Share of Voice and How Do You Improve It?",
+          "url": "/blog/ai-share-of-voice"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That gives you a competitive position you can actually work on."
+    },
+    {
+      "type": "h2",
+      "text": "Citations and mentions are not the same thing"
+    },
+    {
+      "type": "p",
+      "text": "This distinction matters when you analyse competitors."
+    },
+    {
+      "type": "p",
+      "text": "An AI answer can cite your website while recommending somebody else. Semrush has publicly described this exact problem in its own AI visibility work: its content was being cited while competitors were still being recommended. It shifted attention from citations alone toward competitive mentions and share of voice.",
+      "sources": [
+        {
+          "label": "Semrush — How We’re Driving AI Visibility (2026)",
+          "url": "https://www.semrush.com/blog/how-we-are-using-semrush-to-drive-llm-visibility/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs has also found that brand mentions frequently happen without a link. In one study of its own brand across AI assistants, only 26.9% of ChatGPT brand mentions linked to the Ahrefs website.",
+      "sources": [
+        {
+          "label": "Ahrefs — AI citations vs impressions study",
+          "url": "https://ahrefs.com/blog/ai-citations-vs-impressions-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So don’t celebrate because your blog appears in the sources panel if the actual answer tells the buyer to purchase from three competitors."
+    },
+    {
+      "type": "h2",
+      "text": "Measure the consideration set over time"
+    },
+    {
+      "type": "p",
+      "text": "Choose a stable group of commercially important prompts and establish a baseline."
+    },
+    {
+      "type": "p",
+      "text": "For each prompt record your brand, the main competitors, the order and context of mentions, citations, and the topic or attribute attached to each company. Repeat the measurement consistently rather than changing the prompt set every week."
+    },
+    {
+      "type": "p",
+      "text": "AI answers are variable, so individual movements will be noisy. Look for patterns across the cluster and over time."
+    },
+    {
+      "type": "p",
+      "text": "When you publish a comparison, earn an industry article, get discussed by a creator or release a strong piece of original research, note the date. Then watch whether your competitive visibility changes over the following weeks and months. You still won’t have perfect causal attribution, but you’ll learn far more than you will from random ChatGPT spot checks."
+    },
+    {
+      "type": "h2",
+      "text": "The real target is consideration"
+    },
+    {
+      "type": "p",
+      "text": "If a buyer asks AI for five companies that solve your problem, you want to have earned a reasonable chance of being considered."
+    },
+    {
+      "type": "p",
+      "text": "That comes from more than optimizing a page. Your positioning needs to be clear. Your product needs to fit the question. Your own site needs evidence. Independent sources need reasons to discuss you. And the wider category conversation needs to know you exist."
+    },
+    {
+      "type": "p",
+      "text": "Your competitors appearing in AI answers is therefore useful intelligence. They’re showing you the associations, sources and conversations that currently define the market."
+    },
+    {
+      "type": "p",
+      "text": "Study those gaps. Then build better evidence of your own."
+    }
+  ],
+  "relatedArticles": [
+    "ai-share-of-voice",
+    "how-to-get-ai-to-associate-your-brand-with-a-topic",
+    "how-to-build-a-creator-aeo-strategy"
+  ],
+  "plannedInternalLinks": [
+    "Article 01 — How Do I Get My Brand Mentioned by AI?",
+    "Article 03 — How Do I Get My Brand Recommended by AI?",
+    "Article 08 — What Is AI Share of Voice and How Do You Improve It?",
+    "Article 09 — How Do I Get AI to Associate My Brand With a Specific Topic?",
+    "Article 18 — Creator AEO vs Digital PR: What’s the Difference?",
+    "Article 31 — How Do I Find B2B Influencers in My Industry?"
+  ],
+  "diagramWidth": 1200,
+  "diagramHeight": 780
+}

@@ -1,0 +1,545 @@
+{
+  "slug": "how-to-get-your-brand-cited-by-chatgpt",
+  "title": "How Do I Get My Brand Cited by ChatGPT?",
+  "metaTitle": "How Do I Get My Brand Cited by ChatGPT?",
+  "description": "Learn what makes a page eligible for ChatGPT citations, what research says about cited sources, and how to create content worth using as evidence.",
+  "ogTitle": "How to Get Your Brand Cited by ChatGPT",
+  "ogDescription": "Being found by ChatGPT is not the same as being cited. Here is what we know about making your content eligible, relevant and worth citing.",
+  "category": "AI visibility",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-05",
+  "updatedAt": "2026-10-05",
+  "hero": "how-to-get-cited-by-chatgpt.webp",
+  "heroAlt": "How a web page moves from discovery to citation in ChatGPT",
+  "diagram": "chatgpt-citation-funnel.webp",
+  "diagramAlt": "ChatGPT citation funnel from crawlability and retrieval to source citation",
+  "diagramAfter": "Then understand the citation funnel",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "If you want ChatGPT to cite your website, there are really two hurdles."
+    },
+    {
+      "type": "p",
+      "text": "First, ChatGPT needs to be able to find your page. Then it needs to decide that your page is useful enough to support the answer it is giving."
+    },
+    {
+      "type": "p",
+      "text": "Those sound like the same thing. They aren't."
+    },
+    {
+      "type": "p",
+      "text": "A page can be discovered or retrieved and still never appear as a citation. Ahrefs tracks this distinction as pages that are 'found' versus pages that are actually cited. Its 2026 research into 1.4 million ChatGPT prompts also found that ChatGPT retrieved roughly twice as many URLs as it ultimately cited.",
+      "sources": [
+        {
+          "label": "Ahrefs — Why ChatGPT Cites One Page Over Another",
+          "url": "https://ahrefs.com/blog/why-chatgpt-cites-pages/"
+        },
+        {
+          "label": "What Is AI Share of Voice and How Do You Improve It?",
+          "url": "/blog/ai-share-of-voice"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So the goal isn't simply to make sure ChatGPT can crawl your site. The harder job is creating the kind of page that deserves to be selected as evidence for a specific question."
+    },
+    {
+      "type": "h2",
+      "text": "First, a citation is not the same as a brand mention"
+    },
+    {
+      "type": "p",
+      "text": "This distinction matters because marketers tend to use 'AI visibility' to mean several different things."
+    },
+    {
+      "type": "p",
+      "text": "ChatGPT can mention your company without linking to you. It can cite your website without naming your company in the answer. Or, ideally, it can do both.",
+      "sources": [
+        {
+          "label": "Related guide: How Do I Get ChatGPT to Mention My Brand?",
+          "url": "/blog/how-to-get-chatgpt-to-mention-your-brand"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Semrush studied 3,981 domain appearances across ChatGPT and other AI search experiences in 2026. It found that 61.7% of citations were what it called ghost citations: the source was linked, but the brand wasn't named in the answer.",
+      "sources": [
+        {
+          "label": "Semrush — Why 62% of AI citations don’t lead to brand mentions",
+          "url": "https://www.semrush.com/blog/the-ghost-citations-study/"
+        },
+        {
+          "label": "Related guide: How Do I Get My Brand Mentioned by AI?",
+          "url": "/blog/how-to-get-your-brand-mentioned-by-ai"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "In that dataset, ChatGPT had a high citation rate but a much lower brand-mention rate. So getting your website used as evidence does not automatically mean the reader will remember your brand."
+    },
+    {
+      "type": "p",
+      "text": "That doesn't make citations unimportant. It just means you should measure citations and brand mentions separately."
+    },
+    {
+      "type": "p",
+      "text": "If your objective is authority and referral traffic, citations matter. If your objective is becoming one of the companies ChatGPT recommends in your category, citations are only part of the job."
+    },
+    {
+      "type": "h2",
+      "text": "Make sure ChatGPT is actually allowed to find you"
+    },
+    {
+      "type": "p",
+      "text": "Before doing anything clever, check the boring technical stuff."
+    },
+    {
+      "type": "p",
+      "text": "OpenAI says public websites can appear in ChatGPT search. To make your content eligible to be included in summaries, snippets and citations, your site should not block OAI-SearchBot. OpenAI also recommends checking that your hosting provider or CDN allows traffic from its published searchbot IP addresses.",
+      "sources": [
+        {
+          "label": "OpenAI Help Center — Publishers and Developers FAQ",
+          "url": "https://help.openai.com/en/articles/12627856-publishers-and-developers-faq"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That means checking robots.txt, firewall rules, CDN bot settings and any security layer that might be blocking the crawler without you realising it."
+    },
+    {
+      "type": "p",
+      "text": "This is an eligibility step, not a ranking trick."
+    },
+    {
+      "type": "p",
+      "text": "Allowing OAI-SearchBot doesn't guarantee a citation. OpenAI explicitly says placement isn't guaranteed. But blocking the crawler is a fairly efficient way to make the rest of your optimisation irrelevant.",
+      "sources": [
+        {
+          "label": "OpenAI Help Center — Searching the web with ChatGPT",
+          "url": "https://help.openai.com/en/articles/9237897-chatgpt-search"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Then understand the citation funnel"
+    },
+    {
+      "type": "p",
+      "text": "I find it useful to think of ChatGPT citations as a funnel rather than a ranking position."
+    },
+    {
+      "type": "p",
+      "text": "Your page needs to be crawlable."
+    },
+    {
+      "type": "p",
+      "text": "It needs to be discoverable for a relevant search or sub-query."
+    },
+    {
+      "type": "p",
+      "text": "Its title, URL and search snippet need to make it look relevant enough to investigate."
+    },
+    {
+      "type": "p",
+      "text": "The content itself needs to contain information that actually helps answer the question."
+    },
+    {
+      "type": "p",
+      "text": "And finally, ChatGPT needs to choose that page as one of the sources worth showing to the user."
+    },
+    {
+      "type": "p",
+      "text": "You can make it through the first four stages and still lose at the last one."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs' 2026 study is particularly useful here. It analysed 1.4 million ChatGPT prompts and found that pages returned through general web search dominated the citations. The researchers also found that title relevance and other retrieval information matter before ChatGPT even opens a page.",
+      "sources": [
+        {
+          "label": "Ahrefs — Why ChatGPT Cites One Page Over Another",
+          "url": "https://ahrefs.com/blog/why-chatgpt-cites-pages/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "In other words, the old SEO job of making a page obviously relevant to a search hasn't disappeared. There is now another selection layer on top of it."
+    },
+    {
+      "type": "h2",
+      "text": "Write pages for specific questions, not vague topics"
+    },
+    {
+      "type": "p",
+      "text": "Suppose your company sells payroll software for restaurants."
+    },
+    {
+      "type": "p",
+      "text": "A generic article called 'The Future of Payroll' could be beautifully written and still be a weak source for somebody asking:"
+    },
+    {
+      "type": "p",
+      "text": "What payroll software works for restaurant groups with employees across multiple states?"
+    },
+    {
+      "type": "p",
+      "text": "A page specifically explaining multi-state restaurant payroll has a much clearer relationship to that question."
+    },
+    {
+      "type": "p",
+      "text": "This doesn't mean creating thousands of thin pages for every imaginable prompt. That would be a terrible strategy for humans and probably for search too."
+    },
+    {
+      "type": "p",
+      "text": "It means understanding the real questions buyers ask and publishing pages with enough specificity to answer them properly."
+    },
+    {
+      "type": "p",
+      "text": "The title should make the subject obvious. The introduction should answer the core question quickly. The rest of the page should supply the detail, evidence and nuance needed to support that answer."
+    },
+    {
+      "type": "h2",
+      "text": "Make your useful information easy to extract"
+    },
+    {
+      "type": "p",
+      "text": "There is a difference between having the answer somewhere on the page and making the answer easy to find."
+    },
+    {
+      "type": "p",
+      "text": "If the important statistic is buried after 1,800 words of company history, the page is less useful than it could be."
+    },
+    {
+      "type": "p",
+      "text": "Use descriptive headings. Keep paragraphs reasonably focused. Put definitions near the thing being defined. Use tables when the information genuinely belongs in a table. State numbers with enough context that somebody can understand what they measure."
+    },
+    {
+      "type": "p",
+      "text": "Semrush's 2026 research into content qualities associated with AI citations found positive associations with clarity and summarisation, E-E-A-T signals, question-and-answer formatting, section structure and structured data elements.",
+      "sources": [
+        {
+          "label": "Semrush — How We Built a Content Optimization Tool for AI Search",
+          "url": "https://www.semrush.com/blog/content-optimization-ai-search-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That's correlation rather than a recipe. I wouldn't turn every article into 20 robotic FAQ blocks because of it."
+    },
+    {
+      "type": "p",
+      "text": "The more useful lesson is simpler: make information clear enough that a human, search engine or AI system can work out what the page says without digging through fluff.",
+      "sources": [
+        {
+          "label": "Related guide: How Do I Get My Company to Show Up in AI Search?",
+          "url": "/blog/how-to-get-your-company-to-show-up-in-ai-search"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Original information gives people a reason to cite you"
+    },
+    {
+      "type": "p",
+      "text": "This is where the strategy becomes more interesting than technical optimisation."
+    },
+    {
+      "type": "p",
+      "text": "If your article simply rewrites the same ten tips already published by 500 other websites, why should ChatGPT cite you rather than one of them?"
+    },
+    {
+      "type": "p",
+      "text": "Original research gives you something unique to contribute."
+    },
+    {
+      "type": "p",
+      "text": "So do proprietary data, benchmark reports, first-hand experiments, expert analysis, detailed case studies, original frameworks and genuinely useful documentation."
+    },
+    {
+      "type": "p",
+      "text": "Imagine two articles about B2B influencer pricing."
+    },
+    {
+      "type": "p",
+      "text": "One says creators charge different amounts depending on their audience and platform.",
+      "sources": [
+        {
+          "label": "What Is Creator AEO?",
+          "url": "/blog/what-is-creator-aeo"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The other analyses 1,000 real creator quotes and shows the median price by platform, follower band and industry."
+    },
+    {
+      "type": "p",
+      "text": "The second page contains evidence the first one doesn't have."
+    },
+    {
+      "type": "p",
+      "text": "This is one reason we're planning to build original research into B2B Influencer Finder as the product generates more data. I don't want us to publish another generic article saying micro-influencers are 'authentic'. I'd much rather eventually be able to say what 2,000 B2B creators actually quoted, who replied to outreach and which collaborations got published."
+    },
+    {
+      "type": "p",
+      "text": "That creates information other people can reference too, not just AI systems."
+    },
+    {
+      "type": "h2",
+      "text": "Being useful in search still matters"
+    },
+    {
+      "type": "p",
+      "text": "There is a temptation to treat AI citations as a completely new discipline and throw away everything we learned from SEO."
+    },
+    {
+      "type": "p",
+      "text": "The evidence doesn't really support that."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs' 1.4 million prompt study found that the general search channel supplied the overwhelming majority of ChatGPT's cited URLs in its dataset. Its researchers concluded that if you want to be cited, being competitive in search still matters.",
+      "sources": [
+        {
+          "label": "Ahrefs — Why ChatGPT Cites One Page Over Another",
+          "url": "https://ahrefs.com/blog/why-chatgpt-cites-pages/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Another Ahrefs study found only limited overlap between AI citations and Google's top ten results for the original user prompt. That sounds contradictory until you remember that AI systems can break a question into other searches and retrieve information for those sub-questions.",
+      "sources": [
+        {
+          "label": "Ahrefs — Only 12% of AI Cited URLs Rank in Google’s Top 10",
+          "url": "https://ahrefs.com/blog/ai-search-overlap/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So I wouldn't interpret this as 'rank number one on Google and ChatGPT will cite you.'"
+    },
+    {
+      "type": "p",
+      "text": "I'd interpret it as: technical SEO, discoverability and topical relevance still matter, but the query ChatGPT uses to find your page may not be identical to the prompt the user typed."
+    },
+    {
+      "type": "h2",
+      "text": "Freshness matters when freshness actually matters"
+    },
+    {
+      "type": "p",
+      "text": "You don't need to update every article every Tuesday just to change the date."
+    },
+    {
+      "type": "p",
+      "text": "But stale information is a problem when the question depends on current facts."
+    },
+    {
+      "type": "p",
+      "text": "Pricing pages, product comparisons, legislation, platform features, statistics and market data can all become outdated."
+    },
+    {
+      "type": "p",
+      "text": "Ahrefs found that ChatGPT tends to cite fresher URLs than traditional Google results across its broader citation research. But its 2026 retrieval study added an important nuance: within a given search set, relevance still did much of the work, and older established pages could continue to win citations.",
+      "sources": [
+        {
+          "label": "Ahrefs — Why ChatGPT Cites One Page Over Another",
+          "url": "https://ahrefs.com/blog/why-chatgpt-cites-pages/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So don't manufacture freshness. Maintain accuracy."
+    },
+    {
+      "type": "p",
+      "text": "If an article says 'updated October 2026', it should actually contain October 2026 information."
+    },
+    {
+      "type": "h2",
+      "text": "Build topical depth, not one lonely masterpiece"
+    },
+    {
+      "type": "p",
+      "text": "One great page can earn citations. But if you want your company to become a recurring source around a subject, i'd build depth around the subject."
+    },
+    {
+      "type": "p",
+      "text": "Semrush analysed more than 50,000 brands in ChatGPT and found AI visibility behaved like a topic-level game. Its later research suggested citations can travel into related categories more easily than brand mentions, while stronger topical relevance increases the chance of being both cited and named.",
+      "sources": [
+        {
+          "label": "Semrush — How topical authority spreads in ChatGPT",
+          "url": "https://www.semrush.com/blog/chatgpt-topical-focus-study/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That fits how i'd approach a content strategy anyway."
+    },
+    {
+      "type": "p",
+      "text": "If you want to be known for B2B creator marketing, don't publish one article about influencers and then 40 unrelated pieces about startup culture."
+    },
+    {
+      "type": "p",
+      "text": "Build useful coverage around finding creators, pricing, outreach, campaign formats, measurement, AI visibility, creator AEO and the questions your customers actually ask."
+    },
+    {
+      "type": "p",
+      "text": "Then link those pages together naturally so both readers and crawlers can understand the relationships."
+    },
+    {
+      "type": "h2",
+      "text": "Third-party citations matter too"
+    },
+    {
+      "type": "p",
+      "text": "There's another angle here that brands sometimes miss."
+    },
+    {
+      "type": "p",
+      "text": "The citation doesn't always need to point to your own website for the answer to help your brand."
+    },
+    {
+      "type": "p",
+      "text": "Imagine ChatGPT answers a question about the best tools in your category and cites an independent industry article that discusses your company accurately."
+    },
+    {
+      "type": "p",
+      "text": "You didn't win the source link. But you may have won something more commercially useful: independent evidence supporting your brand in the answer."
+    },
+    {
+      "type": "p",
+      "text": "That's why I think owned content and third-party evidence belong in the same AI visibility strategy."
+    },
+    {
+      "type": "p",
+      "text": "Your own site can become the source for expertise, data and product facts. Creators, customers, publications, newsletters, podcasts and other independent voices can provide context about what your company is actually like and where it fits in the market."
+    },
+    {
+      "type": "p",
+      "text": "You want both layers to exist."
+    },
+    {
+      "type": "h2",
+      "text": "This is where creator content can become useful"
+    },
+    {
+      "type": "p",
+      "text": "Not because influencers have some secret ChatGPT switch."
+    },
+    {
+      "type": "p",
+      "text": "They don't."
+    },
+    {
+      "type": "p",
+      "text": "But relevant creators can publish useful third-party material about subjects your buyers care about."
+    },
+    {
+      "type": "p",
+      "text": "A cybersecurity creator analysing your original breach data is very different from paying a lifestyle influencer to paste your company name into a LinkedIn post."
+    },
+    {
+      "type": "p",
+      "text": "The first creates a useful piece of industry content with a genuine reason to reference your research. The second mostly creates an invoice."
+    },
+    {
+      "type": "p",
+      "text": "This is the logic behind B2B Influencer Finder. We match what a company actually has worth talking about with creators already publishing around that subject."
+    },
+    {
+      "type": "p",
+      "text": "The objective isn't 'get an influencer mention'. It's to find credible people who could add something useful to the conversation while creating independent evidence around your expertise."
+    },
+    {
+      "type": "h2",
+      "text": "What I would do if I wanted more ChatGPT citations"
+    },
+    {
+      "type": "p",
+      "text": "I'd start with the technical check: make sure OAI-SearchBot isn't blocked and that important pages are publicly accessible and indexable."
+    },
+    {
+      "type": "p",
+      "text": "Then i'd build a list of the questions where being cited would actually matter to the business."
+    },
+    {
+      "type": "p",
+      "text": "For each question, look at the sources ChatGPT currently cites. Don't just copy them. Work out why they're useful. Are they providing data? A definition? Current pricing? A comparison? First-hand expertise? Documentation?"
+    },
+    {
+      "type": "p",
+      "text": "Next, audit whether you have a page that genuinely deserves to be used for that question. If not, create one. If yes, make sure the useful information is clear, specific and current."
+    },
+    {
+      "type": "p",
+      "text": "Then look for the information only your company can contribute. Your own data is usually a good place to start."
+    },
+    {
+      "type": "p",
+      "text": "Finally, measure citations separately from brand mentions. You want to know when your pages become sources, but also whether your company is actually becoming part of the answer."
+    },
+    {
+      "type": "h2",
+      "text": "Don't optimise for the citation and forget the reader"
+    },
+    {
+      "type": "p",
+      "text": "A citation is useful because it means your information helped support an answer."
+    },
+    {
+      "type": "p",
+      "text": "It isn't the end goal of the business."
+    },
+    {
+      "type": "p",
+      "text": "If someone clicks through, the page still has to be good. If nobody clicks, the information should still represent your brand accurately. And if ChatGPT changes how citations work next month, the page should still deserve to exist."
+    },
+    {
+      "type": "p",
+      "text": "That's the standard i'd use for all of this."
+    },
+    {
+      "type": "p",
+      "text": "Make the site technically available. Answer specific questions clearly. Publish information other people don't have. Build real topical expertise. Keep important facts current. And create enough independent evidence that your company doesn't only exist in its own marketing copy."
+    },
+    {
+      "type": "p",
+      "text": "You can't force ChatGPT to cite you."
+    },
+    {
+      "type": "p",
+      "text": "But you can give it a much better reason to."
+    }
+  ],
+  "relatedArticles": [
+    "how-to-get-your-company-to-show-up-in-ai-search",
+    "how-to-get-your-brand-recommended-by-ai",
+    "how-to-build-a-creator-aeo-strategy"
+  ],
+  "plannedInternalLinks": [
+    "Article 01 — How Do I Get My Brand Mentioned by AI? Link from the section distinguishing citations from brand mentions.",
+    "Article 02 — How Do I Get ChatGPT to Mention My Brand? Link from the same early distinction or the measurement section.",
+    "Article 04 — How Do I Get My Company to Show Up in AI Search? Link from the discussion of discoverability/search eligibility.",
+    "Article 21 — Does Getting Mentioned on Other Websites Help With AI Visibility? Add once live from the third-party citations section.",
+    "Article 27 — Do Brand Mentions Without Backlinks Help With AI Search? Add once live from the third-party evidence section.",
+    "Article 28 — Backlinks vs Brand Mentions: Which Matters More for AI Search? Add once live where traditional SEO/discoverability is discussed."
+  ],
+  "diagramWidth": 1200,
+  "diagramHeight": 900
+}

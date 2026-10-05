@@ -1,0 +1,34 @@
+import sharp from 'sharp';
+import {readFile, readdir} from 'node:fs/promises';
+const ink='#20392c',pink='#e91d55',muted='#687363';
+const esc=s=>s.replaceAll('&','&amp;').replaceAll('<','&lt;');
+const text=(x,y,s,size=22,color=ink)=>`<text x="${x}" y="${y}" fill="${color}" font-family="Arial,sans-serif" font-size="${size}">${esc(s)}</text>`;
+const card=(x,y,w,h,label,dark=false)=>`<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="18" fill="${dark?ink:'#fff'}" stroke="#d8dfcf"/>${text(x+24,y+43,label,22,dark?'#fff':ink)}`;
+const arrow=(x,y,x2,y2)=>`<path d="M${x} ${y} L${x2} ${y2}" stroke="#98a78b" stroke-width="3" fill="none" marker-end="url(#a)"/>`;
+const wrap=(s,background)=>`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630"><defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#98a78b"/></marker></defs><rect width="1200" height="630" rx="28" fill="${background}"/>${s}${text(48,594,'B2B INFLUENCER FINDER',15,muted)}</svg>`;
+const topics=['Who tells AI who you are?','Why them, but not you?','Give AI a reason to include you.','Visibility has more than one shape.'];
+const backgrounds=['#f9dce5','#e6def8','#fae7bc','#d7eaf8'];
+const files=(await readdir('content/blog')).filter(file=>file.endsWith('.json')).sort();
+for(const file of files){const p=JSON.parse(await readFile(`content/blog/${file}`,'utf8'));let i=p.hero.startsWith('how-to-get-brand-mentioned')?0:p.hero.startsWith('get-chatgpt')?1:p.hero.startsWith('how-to-get-brand-recommended')?2:3;
+ let hero=text(48,68,topics[i],38)+text(48,106,'A practical guide to evidence, context and discovery.',20,muted);
+ hero+=card(48,265,245,105,i===1?'YOUR BRAND ?':'YOUR BRAND',true);
+ const labels=i===2?['Clear positioning','Customer proof','Creator expertise','Comparisons']:['Your website','Industry creators','Customer stories','Publications'];
+ labels.forEach((label,j)=>{let y=145+j*88;hero+=arrow(293,317,368,y+33)+card(374,y,300,68,label)+arrow(675,y+33,746,317);});
+ hero+=card(760,218,390,238,i===1?'Illustrative AI answer':'AI discovery',true);
+ const output=i===1?['Company A','Company B','Company C']:i===2?['Your brand','Relevant to this buyer','Supported by evidence']:i===3?['Mentioned','Recommended','Cited']:['Your brand, in context','Among relevant options','With supporting sources'];
+ output.forEach((label,j)=>{hero+=`<circle cx="789" cy="${291+j*48}" r="5" fill="${pink}"/>`+text(809,298+j*48,label,21,'#edf1e5');});
+ hero+=text(760,491,'Illustration, not a guaranteed outcome.',17,muted);
+ await sharp(Buffer.from(wrap(hero,backgrounds[i]))).webp({quality:88}).toFile(`public/blog/${p.hero}`);
+ let diagram='';
+ if(i===0||i===2){diagram+=text(48,67,i===0?'Two kinds of brand evidence':'Mentioned vs recommended',36);
+ const left=i===0?['FIRST-PARTY','What you say about yourself','Website · Blog · Product pages','Research · Case studies']:['MENTIONED','AI knows the brand exists.','Brand name appears in sources','May be cited or named in passing'];
+ const right=i===0?['THIRD-PARTY','What others say about you','Creators · Customers · YouTube','Newsletters · Podcasts · Publications']:['RECOMMENDED','A reason to include this brand.','Relevant use case · Suitable buyer','Customer proof · Clear capabilities'];
+ [left,right].forEach((lines,j)=>{diagram+=card(48+j*558,115,546,280,lines[0],j===1);lines.slice(1).forEach((l,k)=>diagram+=text(72+j*558,219+k*57,l,k===0?25:21,j===1?'#edf1e5':ink));});
+ diagram+=arrow(320,400,490,461)+arrow(880,400,710,461)+card(190,470,820,67,i===0?'Your online evidence → search, AI systems and buyers':'Relevant evidence gives buyers a reason to consider you.',true);
+ }else{diagram+=text(48,67,i===1?'The ChatGPT visibility gap':'The AI search visibility system',36);
+ const columns=i===1?[['BUYER PROMPT','Best category tools','for this use case?'],['SOURCES + EVIDENCE','Creators · Reviews','Your site · Comparisons'],['AI ANSWER','Brands A, B and C','Your brand is missing']]:[['OWNED EVIDENCE','Website · Product pages','Research · Case studies'],['THIRD-PARTY EVIDENCE','Creators · Customers','YouTube · Publications'],['AI DISCOVERY','Mentioned · Recommended','Cited · Accurately described']];
+ columns.forEach((lines,j)=>{diagram+=card(48+j*380,163,344,245,lines[0],j===2);lines.slice(1).forEach((l,k)=>diagram+=text(72+j*380,267+k*50,l,21,j===2?'#edf1e5':ink));if(j<2)diagram+=arrow(395+j*380,285,420+j*380,285);});
+ diagram+=text(48,486,i===1?'Find the gap: missing topics, sources and credible niche voices.':'Track visibility across a portfolio of prompts, not one answer.',25);
+ }
+ await sharp(Buffer.from(wrap(diagram,backgrounds[i]))).webp({quality:90}).toFile(`public/blog/${p.diagram}`);
+}
