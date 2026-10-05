@@ -1,0 +1,7 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { MarketingNavigation } from "@/components/marketing-navigation";
+import { WaitlistForm } from "@/components/waitlist-form";
+import "../marketing.css";
+export const metadata:Metadata={title:"Join the waitlist | B2B Influencer Finder",description:"Request early access to your AI agent for B2B influencer and creator discovery."};
+export default function SignUpPage(){return <div className="marketing"><MarketingNavigation/><main className="marketing-access marketing-wrap"><section><span className="marketing-eyebrow">Get early access</span><h1>Your next creator<br/>partnership<br/><em>starts here.</em></h1><p>Find relevant B2B influencers, match them with your strongest content and build a shortlist your team can act on.</p><ul className="marketing-access-benefits"><li>Discover voices across six channels</li><li>See the evidence behind each match</li><li>Keep your team in control of approvals</li></ul></section><section className="marketing-access-card" aria-labelledby="signup-title"><span className="marketing-eyebrow">Built for B2B marketing teams</span><h2 id="signup-title">Join the waitlist</h2><p>Leave your details and we’ll email you when early access opens. Joining the waitlist doesn’t create an app account.</p><WaitlistForm/><div className="marketing-access-switch">Already have access? <Link href="/sign-in">Sign in →</Link></div></section></main><footer className="marketing-footer marketing-wrap"><Link href="/">← Back to home</Link></footer></div>;}

@@ -1,0 +1,23 @@
+{
+  "brand": "Referral Factory",
+  "domain": "https://referral-factory.com",
+  "locationCode": 2840,
+  "languageCode": "en",
+  "phrases": [
+    "referral marketing",
+    "SaaS referral program",
+    "B2B referral strategy",
+    "customer advocacy",
+    "affiliate program management"
+  ],
+  "queryPatterns": [
+    "site:linkedin.com/posts \"{phrase}\"",
+    "site:linkedin.com/pulse \"{phrase}\""
+  ],
+  "searchDepth": 20,
+  "maxQueries": 10,
+  "maxPostEnrichments": 30,
+  "maxProfileEnrichments": 20,
+  "minFollowers": 1000,
+  "maxFollowers": 100000
+}

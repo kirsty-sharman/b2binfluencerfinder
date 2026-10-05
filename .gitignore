@@ -1,0 +1,8 @@
+.env.local
+provider-spike/runs/
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+.DS_Store
