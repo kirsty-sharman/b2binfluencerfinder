@@ -238,7 +238,8 @@
 .marketing .marketing-why-takeaway .validation-note { font-size: 11px; margin-top: 14px; color: #737e6d; }
 @media(max-width:700px) { .validation-flow { grid-template-columns: 1fr; } .validation-flow li,.validation-flow li:first-child { padding: 20px 0; border-right: 0; border-bottom: 1px solid #d4ddcb; } .validation-flow li:last-child { border-bottom: 0; } .validation-examples { flex-direction: column; gap: 14px; } .validation-examples>span { width: auto; } }
 
-.marketing-hero .marketing-intro { max-width: 650px; margin: 0 auto 28px; text-wrap: pretty; }
+.marketing-hero h1 { text-wrap: balance; }
+.marketing-hero .marketing-intro { max-width: 800px; margin: 0 auto 32px; text-wrap: pretty; }
 
 /* One message, two sources, one product connection. */
 .validation-simple header { max-width: 870px; }
@@ -262,7 +263,6 @@
 .site-footer-grid { display: grid; grid-template-columns: 1.6fr 1fr 1fr; gap: 60px; padding-bottom: 56px; }
 .site-footer .marketing-brand { font-size: 16px; }
 .marketing .site-footer-brand p { color: #c3cebb; font-size: 20px; line-height: 1.5; margin: 24px 0; letter-spacing: -.4px; }
-.site-footer-cta { display: inline-flex; align-items: center; gap: 16px; color: #ff94b0; font-size: 14px; font-weight: 600; }
 .site-footer nav { display: flex; flex-direction: column; align-items: flex-start; gap: 19px; }
 .marketing .site-footer nav h2 { font-size: 15px; letter-spacing: 0; margin: 4px 0 7px; font-weight: 650; }
 .site-footer nav>a,.footer-unavailable { display: inline-flex; align-items: center; gap: 10px; font-size: 14px; color: #d6dfce; }
@@ -354,3 +354,8 @@
 .site-footer .brand-lockup:hover{color:var(--brand-ink)}
 .brand-lockup:focus-visible{outline:2px solid var(--brand-accent);outline-offset:6px;border-radius:4px}
 @media(max-width:640px){.brand-symbol{width:36px;height:36px}.marketing-brand.brand-lockup{gap:7px}.brand-wordmark strong{font-size:16px;letter-spacing:-.5px}}
+
+.site-footer .brand-lockup{gap:12px}
+.site-footer .brand-symbol{width:58px;height:58px}
+.site-footer .brand-wordmark strong{font-size:26px;letter-spacing:-.8px}
+@media(max-width:640px){.site-footer .brand-symbol{width:50px;height:50px}.site-footer .brand-wordmark strong{font-size:22px}}
