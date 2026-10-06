@@ -1,3 +1,4 @@
+import { BLOG_ORIGIN } from "@/lib/blog";
 import { ResourcePaths } from "@/components/resource-paths";
 import Image from "next/image";
 import { MarketingProcessVisual } from "@/components/marketing-process-visual";
@@ -6,7 +7,7 @@ import { MarketingFooter } from "@/components/marketing-footer";
 import { ArrowUpRight, AudioLines, BookOpen, BriefcaseBusiness, Mail, MessageCircle, Play, Sparkles } from "lucide-react";
 import { MarketingNavigation } from "@/components/marketing-navigation";
 import "./marketing.css";
-export const metadata: Metadata = {
+export const metadata: Metadata = { alternates: { canonical: BLOG_ORIGIN },
   title: "B2B Influencer Finder | Your AI creator discovery agent",
   description: "Find relevant B2B influencers and creators across LinkedIn, YouTube, podcasts, newsletters, blogs and X. Match them with your strongest content. Join the waitlist.",
 };
