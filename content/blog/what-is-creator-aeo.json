@@ -20,7 +20,13 @@
   "blocks": [
     {
       "type": "p",
-      "text": "Creator AEO is the practice of using relevant creator content as part of your answer engine optimization strategy, so your brand has more credible third-party evidence around the topics you want to be known for."
+      "text": "Creator AEO is the practice of using relevant creator content as part of your answer engine optimization strategy, so your brand has more credible third-party evidence around the topics you want to be known for.",
+      "sources": [
+        {
+          "label": "B2B Influencers vs B2B Creators: What's the Difference?",
+          "url": "/blog/b2b-influencers-vs-b2b-creators"
+        }
+      ]
     },
     {
       "type": "p",

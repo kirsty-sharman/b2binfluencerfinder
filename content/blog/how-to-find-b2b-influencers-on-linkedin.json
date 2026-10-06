@@ -1,0 +1,502 @@
+{
+  "slug": "how-to-find-b2b-influencers-on-linkedin",
+  "title": "How Do I Find B2B Influencers on LinkedIn?",
+  "metaTitle": "How to Find B2B Influencers on LinkedIn",
+  "description": "Find relevant B2B influencers on LinkedIn using topic searches, posts, people filters and audience-fit checks. A practical creator discovery workflow.",
+  "ogTitle": "How to Find the Right B2B Influencers on LinkedIn",
+  "ogDescription": "A practical LinkedIn creator discovery method based on expertise, buyer relevance and content fit, not follower count alone.",
+  "category": "Finding B2B creators",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-06",
+  "updatedAt": "2026-10-06",
+  "hero": "find-b2b-influencers-linkedin.webp",
+  "heroAlt": "B2B marketer discovering relevant LinkedIn creators by topic, expertise and buyer fit",
+  "diagram": "linkedin-b2b-influencer-discovery-workflow.webp",
+  "diagramAlt": "LinkedIn B2B influencer discovery workflow from buyer topic search to creator shortlist and content match",
+  "diagramAfter": "1. Define the buyer before you open LinkedIn",
+  "diagramWidth": 1200,
+  "diagramHeight": 800,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "The fastest way to find B2B influencers on LinkedIn is to search for the subjects your buyers care about, then work backwards from the people consistently publishing useful content on those subjects."
+    },
+    {
+      "type": "p",
+      "text": "Do not start with “influencers.” Start with expertise."
+    },
+    {
+      "type": "p",
+      "text": "If you sell to RevOps leaders, search the problems RevOps leaders talk about. If you sell to fintech growth teams, search customer acquisition, onboarding, retention, referrals and loyalty. The people repeatedly producing useful content around those problems are your creator candidates."
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn is unusually useful for B2B creator discovery because the content sits next to professional identity. You can see what someone talks about, what job they do, where they have worked and, to a degree, who engages with them."
+    },
+    {
+      "type": "p",
+      "text": "But there is still a lot of noise. Here is how i would narrow it down."
+    },
+    {
+      "type": "h2",
+      "text": "1. Define the buyer before you open LinkedIn"
+    },
+    {
+      "type": "p",
+      "text": "Write down the exact person you want the creator to reach.",
+      "sources": [
+        {
+          "label": "How Do I Find Niche Creators Who Reach My Target Customers?",
+          "url": "/blog/how-to-find-niche-creators-target-customers"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "“SaaS buyers” is too broad. “Heads of demand generation at B2B SaaS companies with 50 to 500 employees” is useful. So is “growth leaders at European fintech companies” or “security leaders evaluating AI governance tools.”"
+    },
+    {
+      "type": "p",
+      "text": "Then list five to ten subjects that person genuinely pays attention to. These become your discovery queries."
+    },
+    {
+      "type": "p",
+      "text": "The creator does not need your buyer’s exact job title. They need to own a conversation your buyer cares about."
+    },
+    {
+      "type": "h2",
+      "text": "2. Search posts before you search people"
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn search lets you search across posts as well as people, companies, groups and other content types. That matters because a profile can claim expertise. Recent content shows it.",
+      "sources": [
+        {
+          "label": "LinkedIn Help, Search on LinkedIn",
+          "url": "https://www.linkedin.com/help/linkedin/answer/a521824"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Run searches for specific buyer problems and switch to the Posts results. Look for names that keep appearing with substantive posts, useful comments and a clear point of view."
+    },
+    {
+      "type": "p",
+      "text": "For example, instead of searching “fintech influencer,” try terms such as fintech retention, bank customer acquisition, digital banking onboarding or referral growth."
+    },
+    {
+      "type": "p",
+      "text": "Open promising profiles in new tabs. You are building a rough candidate set, not making the final decision yet."
+    },
+    {
+      "type": "h2",
+      "text": "3. Use People search to widen the candidate set"
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn also supports People search with filters such as location, current company, industry, profile language and keywords. LinkedIn has also been rolling out natural-language people search, so some users can search with queries closer to “fintech growth experts in Europe” rather than constructing everything from filters.",
+      "sources": [
+        {
+          "label": "LinkedIn Help, Search for people on LinkedIn",
+          "url": "https://www.linkedin.com/help/linkedin/answer/a525054/searching-for-people-on-linkedin"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Use People search after you know the language of the niche. Search job titles, skills, topics and adjacent roles."
+    },
+    {
+      "type": "p",
+      "text": "Do not limit yourself to people with “creator” or “influencer” in their profile. In B2B, many useful creators describe themselves as operators, consultants, founders, analysts, researchers, executives or practitioners."
+    },
+    {
+      "type": "h2",
+      "text": "4. Look for repeated expertise, not one viral post"
+    },
+    {
+      "type": "p",
+      "text": "One popular post does not make someone a good creator partner for your brand."
+    },
+    {
+      "type": "p",
+      "text": "Read the last month or two of their activity. Is the subject part of their actual body of work? Do they return to it from different angles? Can you tell what they know that a generalist would not?"
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn itself defines B2B influencer marketing around experts, thought leaders and influential industry figures with knowledge and credibility in their fields. That is a much better selection lens than “who has the most followers?”"
+    },
+    {
+      "type": "p",
+      "text": "A specialist with 12,000 relevant followers can be a better fit than a broad business creator with 200,000. That is a fit judgment, not a universal performance rule."
+    },
+    {
+      "type": "h2",
+      "text": "5. Inspect who engages with them"
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn does not hand you perfect audience demographics for somebody else’s organic following. So use visible evidence."
+    },
+    {
+      "type": "p",
+      "text": "Open several recent posts and look at the people commenting and reacting. Are they the roles you want? Do they work at the kinds of companies you sell to? Are the comments substantive or mostly generic applause from other creators?"
+    },
+    {
+      "type": "p",
+      "text": "You are looking for patterns, not pretending you have exact audience data."
+    },
+    {
+      "type": "p",
+      "text": "A creator whose comments repeatedly include product leaders, CMOs and growth executives in your market is more interesting than one whose audience is large but obviously unrelated."
+    },
+    {
+      "type": "h2",
+      "text": "6. Read the comments as carefully as the posts"
+    },
+    {
+      "type": "p",
+      "text": "Comments can tell you two things at once."
+    },
+    {
+      "type": "p",
+      "text": "First, whether the creator attracts the right professional community. Second, whether they actually create discussion rather than passive impressions."
+    },
+    {
+      "type": "p",
+      "text": "For B2B, a thread with 20 useful comments from practitioners can be more commercially interesting than a post with hundreds of lightweight reactions. Again, that does not mean comments are a guaranteed predictor of campaign ROI. It means they give you evidence about the community around the creator."
+    },
+    {
+      "type": "h2",
+      "text": "7. Check whether they already talk about your category"
+    },
+    {
+      "type": "p",
+      "text": "The easiest creator collaboration is usually an extension of something the person already cares about."
+    },
+    {
+      "type": "p",
+      "text": "Search their recent posts for your category, competitors, buyer problem and adjacent tools. Look at articles, newsletters, videos and event appearances linked from their profile too."
+    },
+    {
+      "type": "p",
+      "text": "If someone has spent six months writing about customer retention, and your company has original retention data, there is an obvious overlap. If they have never discussed the problem your product solves, a large audience will not magically create that fit."
+    },
+    {
+      "type": "h2",
+      "text": "8. Find creators through creators"
+    },
+    {
+      "type": "p",
+      "text": "Once you find one genuinely relevant person, use them as a map of the niche."
+    },
+    {
+      "type": "p",
+      "text": "Who do they comment on? Who comments thoughtfully on their work? Who do they tag, interview, quote or collaborate with? Which podcasts do they appear on? Which events do they speak at?"
+    },
+    {
+      "type": "p",
+      "text": "Professional creator networks are often clustered. One good discovery can lead to ten more, and those second-order discoveries are frequently better than another broad keyword search."
+    },
+    {
+      "type": "h2",
+      "text": "9. Do not assume LinkedIn search order equals influence"
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn says People search results are personalized using the query and the searcher’s context. Two people can run the same search and see a different order.",
+      "sources": [
+        {
+          "label": "LinkedIn Help, LinkedIn Search relevance for people search",
+          "url": "https://www.linkedin.com/help/linkedin/answer/a522688"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So do not treat the first ten profiles as a definitive ranking of the most influential people in a category. Search several related topics, use both Posts and People results, and build your own evidence-based shortlist."
+    },
+    {
+      "type": "p",
+      "text": "Free LinkedIn accounts can also face search-result and usage limits. That is another reason not to rely on a single query.",
+      "sources": [
+        {
+          "label": "LinkedIn Help, Search results for free and Premium members",
+          "url": "https://www.linkedin.com/help/linkedin/answer/a517989"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "10. Score the creator on fit before reach"
+    },
+    {
+      "type": "p",
+      "text": "I would score a LinkedIn creator on five things before worrying too much about follower count:",
+      "sources": [
+        {
+          "label": "What Makes a Good B2B Influencer for Your Brand?",
+          "url": "/blog/what-makes-a-good-b2b-influencer"
+        }
+      ]
+    },
+    {
+      "type": "li",
+      "text": "Topic fit: do they repeatedly cover the exact subject your buyer cares about?"
+    },
+    {
+      "type": "li",
+      "text": "Buyer fit: do the right roles and companies appear around their content?"
+    },
+    {
+      "type": "li",
+      "text": "Credibility: do they have real experience, expertise or trusted curation in the field?"
+    },
+    {
+      "type": "li",
+      "text": "Content quality: do they explain things well enough that people save, discuss or reference the work?"
+    },
+    {
+      "type": "li",
+      "text": "Collaboration fit: does your company have evidence, data or expertise that could genuinely improve something they would want to publish?"
+    },
+    {
+      "type": "p",
+      "text": "Follower count comes after that. It helps you understand potential reach and, often, price. It should not rescue a weak match."
+    },
+    {
+      "type": "h2",
+      "text": "LinkedIn is already a major B2B creator environment"
+    },
+    {
+      "type": "p",
+      "text": "There is a reason this discovery work is worth doing."
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn research published in 2025 reported that 59% of B2B buyers surveyed consume creator content on LinkedIn, more than on any other platform in that study. The same research said 87% prefer credible content from industry influencers and 79% engage with creator content at least monthly.",
+      "sources": [
+        {
+          "label": "LinkedIn, The Rise of B2B Influence: How Creators Are Influencing Buyers",
+          "url": "https://www.linkedin.com/business/marketing/blog/linkedin-ads/b2b-creator-marketing-linkedin"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "In LinkedIn’s 2026 Global B2B Marketing Outlook, 56% of B2B buyers who use creators said they rely on creator input during the final stage of the buying process to confirm recommendations.",
+      "sources": [
+        {
+          "label": "LinkedIn, How LinkedIn is helping B2B marketers reach audiences at scale with creators and video",
+          "url": "https://news.linkedin.com/2026/how-linkedin-is-helping-b2b-marketers-reach-audiences-at-scale-w"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "These are LinkedIn-sponsored research findings, so keep them in context. They do not prove that every LinkedIn creator campaign works. They do explain why professional creator discovery has become a serious B2B marketing job rather than a side experiment."
+    },
+    {
+      "type": "h2",
+      "text": "A simple LinkedIn discovery workflow"
+    },
+    {
+      "type": "p",
+      "text": "If i were doing this manually for a new brand, the process would look like this:",
+      "sources": [
+        {
+          "label": "How Do I Find B2B Influencers in My Industry?",
+          "url": "/blog/how-to-find-b2b-influencers-in-your-industry"
+        }
+      ]
+    },
+    {
+      "type": "li",
+      "text": "Define one buyer and five to ten buyer problems."
+    },
+    {
+      "type": "li",
+      "text": "Search each problem in LinkedIn Posts."
+    },
+    {
+      "type": "li",
+      "text": "Save people who repeatedly publish useful material."
+    },
+    {
+      "type": "li",
+      "text": "Run People searches using the strongest topic language you discovered."
+    },
+    {
+      "type": "li",
+      "text": "Inspect recent content and visible audience signals."
+    },
+    {
+      "type": "li",
+      "text": "Follow the creator network to find adjacent experts."
+    },
+    {
+      "type": "li",
+      "text": "Score topic fit, buyer fit, credibility, content quality and collaboration fit."
+    },
+    {
+      "type": "li",
+      "text": "Shortlist only the people where you can explain why this creator and why this topic."
+    },
+    {
+      "type": "p",
+      "text": "That last sentence matters. If your reason for choosing someone is “they have 80,000 followers,” you have not finished the research.",
+      "sources": [
+        {
+          "label": "How Do You Reach Out to B2B Influencers for a Collaboration?",
+          "url": "/blog/how-to-reach-out-b2b-influencers"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Where B2B Influencer Finder fits"
+    },
+    {
+      "type": "p",
+      "text": "This manual process works. It is also exactly the kind of work that becomes painful when you need to repeat it across dozens of topics and creators.",
+      "sources": []
+    },
+    {
+      "type": "p",
+      "text": "B2B Influencer Finder starts with your company’s existing content and expertise, searches for creators whose work overlaps with it, and gives you the evidence behind the match. The idea is not to replace judgment. It is to get from an enormous creator universe to a shortlist where the collaboration already makes sense.",
+      "sources": [
+        {
+          "label": "See how creator matching works",
+          "url": "/#how-it-works"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "For LinkedIn, that means finding people who are not merely popular, but already talking about the subject your company has something useful to contribute to."
+    },
+    {
+      "type": "h2",
+      "text": "What not to do"
+    },
+    {
+      "type": "li",
+      "text": "Do not search only for “B2B influencer” or “LinkedIn creator.” Search buyer problems and specialist topics."
+    },
+    {
+      "type": "li",
+      "text": "Do not assume LinkedIn search order is an influence ranking. Results are personalized."
+    },
+    {
+      "type": "li",
+      "text": "Do not shortlist someone from their headline alone. Read recent content."
+    },
+    {
+      "type": "li",
+      "text": "Do not use follower count as proof of audience fit."
+    },
+    {
+      "type": "li",
+      "text": "Do not mistake creator-to-creator engagement for buyer engagement without checking who is actually in the conversation."
+    },
+    {
+      "type": "li",
+      "text": "Do not force a product pitch onto someone who has never covered the problem."
+    },
+    {
+      "type": "li",
+      "text": "Do not scrape or automate LinkedIn in ways that violate LinkedIn’s rules. Use permitted search and compliant tooling."
+    },
+    {
+      "type": "h2",
+      "text": "The short version"
+    },
+    {
+      "type": "p",
+      "text": "To find B2B influencers on LinkedIn, search the problems your buyers care about, use Posts to discover people with repeated expertise, use People search to widen the pool, and then inspect who actually engages with their work."
+    },
+    {
+      "type": "p",
+      "text": "The useful question is not “Who is famous on LinkedIn?”"
+    },
+    {
+      "type": "p",
+      "text": "It is “Who already owns a conversation my buyers care about, and does my company have something genuinely useful to add to that conversation?”"
+    },
+    {
+      "type": "p",
+      "text": "That is usually where the strongest B2B creator partnerships start."
+    },
+    {
+      "type": "h2",
+      "text": "Sources"
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn Help, Search on LinkedIn",
+      "sources": [
+        {
+          "label": "LinkedIn Help, Search on LinkedIn",
+          "url": "https://www.linkedin.com/help/linkedin/answer/a521824"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn Help, Search for people on LinkedIn",
+      "sources": [
+        {
+          "label": "LinkedIn Help, Search for people on LinkedIn",
+          "url": "https://www.linkedin.com/help/linkedin/answer/a525054/searching-for-people-on-linkedin"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn Help, LinkedIn Search relevance for people search",
+      "sources": [
+        {
+          "label": "LinkedIn Help, LinkedIn Search relevance for people search",
+          "url": "https://www.linkedin.com/help/linkedin/answer/a522688"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn Help, Search results for free and Premium members",
+      "sources": [
+        {
+          "label": "LinkedIn Help, Search results for free and Premium members",
+          "url": "https://www.linkedin.com/help/linkedin/answer/a517989"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn, The Rise of B2B Influence: How Creators Are Influencing Buyers",
+      "sources": [
+        {
+          "label": "LinkedIn, The Rise of B2B Influence: How Creators Are Influencing Buyers",
+          "url": "https://www.linkedin.com/business/marketing/blog/linkedin-ads/b2b-creator-marketing-linkedin"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn, How LinkedIn is helping B2B marketers reach audiences at scale with creators and video",
+      "sources": [
+        {
+          "label": "LinkedIn, How LinkedIn is helping B2B marketers reach audiences at scale with creators and video",
+          "url": "https://news.linkedin.com/2026/how-linkedin-is-helping-b2b-marketers-reach-audiences-at-scale-w"
+        }
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "how-to-find-niche-creators-target-customers",
+    "what-makes-a-good-b2b-influencer",
+    "how-to-find-b2b-creators-on-youtube"
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "slug": "how-to-find-b2b-newsletter-substack-creators",
+  "title": "How Do I Find B2B Newsletter and Substack Creators?",
+  "metaTitle": "How to Find B2B Newsletter and Substack Creators",
+  "description": "Find relevant B2B newsletter and Substack creators by searching buyer topics, reviewing recent editions and qualifying audience and collaboration fit.",
+  "ogTitle": "How to Find B2B Newsletter and Substack Creators",
+  "ogDescription": "A practical workflow for finding specialist newsletter writers by topic, audience and content fit, not subscriber count alone.",
+  "category": "Finding B2B creators",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-06",
+  "updatedAt": "2026-10-06",
+  "hero": "find-b2b-newsletter-substack-creators.webp",
+  "heroAlt": "B2B marketer finding niche newsletter and Substack creators by buyer topic and content fit",
+  "diagram": "b2b-newsletter-creator-fit-framework.webp",
+  "diagramAlt": "Framework for evaluating B2B newsletter creators by topic audience activity evidence and collaboration fit",
+  "diagramAfter": "Start with the buyer, not the newsletter directory",
+  "diagramWidth": 1200,
+  "diagramHeight": 800,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "The best way to find B2B newsletter creators is to search for the subjects your buyers actually read about, then inspect the writers who publish repeatedly on those subjects. Substack is one place to look, but it should not be the whole search."
+    },
+    {
+      "type": "p",
+      "text": "A good newsletter creator might publish on Substack, beehiiv, LinkedIn or their own website. The platform matters less than the relationship between the writer, the topic and the audience you need to reach."
+    },
+    {
+      "type": "p",
+      "text": "If you sell fraud software, do not begin with “business newsletters.” Search fraud prevention, payments risk, identity, fintech compliance and the specific problems your buyers deal with. The niche is where the useful creators appear."
+    },
+    {
+      "type": "h2",
+      "text": "Start with the buyer, not the newsletter directory"
+    },
+    {
+      "type": "p",
+      "text": "Before searching anything, define the buyer you want to reach and write down ten to twenty topics they care about. Include problems, job responsibilities, categories, regulations, technologies and recurring questions."
+    },
+    {
+      "type": "p",
+      "text": "For a product sold to SaaS finance leaders, that list might include SaaS metrics, forecasting, revenue recognition, pricing, churn, cash management and finance operations. Each topic gives you another route into the creator ecosystem."
+    },
+    {
+      "type": "p",
+      "text": "This matters because many strong B2B newsletters are not branded around an industry. They are branded around a person, a job, a problem or a point of view."
+    },
+    {
+      "type": "h2",
+      "text": "Search Substack by topic, creator and publication"
+    },
+    {
+      "type": "p",
+      "text": "Substack has an Explore surface and search for creators, publications, posts and topics. Use all of them. A broad category can give you the first layer, but specific topic searches usually produce a more useful niche list.",
+      "sources": [
+        {
+          "label": "Substack Help, How do I find a Substack publication?",
+          "url": "https://support.substack.com/hc/en-us/articles/4406018060692-How-do-I-find-a-Substack-publication"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Do not stop at the publication name. Open recent posts. Check whether the topic appears repeatedly and whether the writer has a real perspective on it. A newsletter that mentioned your category once is not automatically a category creator."
+    },
+    {
+      "type": "p",
+      "text": "Substack also uses categories and leaderboards for discovery. These can surface established and fast-growing publications, but a leaderboard is not a brand-fit ranking. Use it for discovery, then qualify the writer yourself.",
+      "sources": [
+        {
+          "label": "Substack Help, What are Substack leaderboards?",
+          "url": "https://support.substack.com/hc/en-us/articles/5999320475412-What-are-Substack-leaderboards"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Do not limit the search to Substack"
+    },
+    {
+      "type": "p",
+      "text": "A B2B newsletter strategy that searches only Substack will miss a lot of useful people. LinkedIn newsletters are public and discoverable, and LinkedIn says newsletter pages show the author and previous editions. That gives you another strong discovery route for professional niches.",
+      "sources": [
+        {
+          "label": "How Do I Find B2B Influencers in My Industry?",
+          "url": "/blog/how-to-find-b2b-influencers-in-your-industry"
+        },
+        {
+          "label": "LinkedIn Help, Newsletter Page",
+          "url": "https://www.linkedin.com/help/linkedin/answer/a524027"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "beehiiv also has a large newsletter ecosystem. Its recommendations network lets publishers discover publications using filters such as category, language, size and recent posting activity. Some discovery tools are publisher-side rather than a universal public creator directory, so do not assume every platform gives brands the same search interface.",
+      "sources": [
+        {
+          "label": "beehiiv Help, Discovering partners in the recommendations network",
+          "url": "https://www.beehiiv.com/support/article/43027355475095-discovering-partners-in-the-recommendations-network"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Then use normal web search. Search combinations such as “fintech newsletter”, “cybersecurity newsletter”, “RevOps newsletter” and the buyer problem itself. Add site-specific searches when useful. Often the best specialist publication is easier to find through the topic than through a creator marketplace."
+    },
+    {
+      "type": "h2",
+      "text": "Search the writing, not just the bio"
+    },
+    {
+      "type": "p",
+      "text": "A creator bio tells you how they position themselves. Their archive tells you what they actually know."
+    },
+    {
+      "type": "p",
+      "text": "Review at least five to ten recent editions. Look for repeated themes, depth, original thinking and evidence that the writer understands the buyer. Note whether they use data, interview practitioners, explain complex subjects or simply aggregate links."
+    },
+    {
+      "type": "p",
+      "text": "The question is not whether every edition mentions your category. It is whether your category naturally belongs inside the conversation they already have with readers."
+    },
+    {
+      "type": "h2",
+      "text": "Check whether the newsletter is still active"
+    },
+    {
+      "type": "p",
+      "text": "Newsletter lists go stale quickly. Before adding someone to a shortlist, check the date of the most recent edition and the cadence across the last few months."
+    },
+    {
+      "type": "p",
+      "text": "A publication with a huge historical audience but no recent editions may be less useful than a smaller specialist newsletter that publishes every week. Activity is a basic qualification filter."
+    },
+    {
+      "type": "h2",
+      "text": "Do not make subscriber count your first filter"
+    },
+    {
+      "type": "p",
+      "text": "Subscriber numbers are useful context when they are available and credible. They are not a substitute for audience fit.",
+      "sources": [
+        {
+          "label": "How Many Followers Should a B2B Influencer Have?",
+          "url": "/blog/how-many-followers-b2b-influencer"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A newsletter read by 5,000 people who work directly in your market can be more strategically relevant than a general business newsletter with 100,000 subscribers. That does not mean smaller always performs better. It means reach only becomes useful after you know who is being reached."
+    },
+    {
+      "type": "p",
+      "text": "Public subscriber numbers can also be incomplete or unavailable. If a paid collaboration becomes serious, ask the creator for a media kit or first-party figures such as subscriber count, opens, clicks, geography and whatever audience information they can responsibly provide."
+    },
+    {
+      "type": "h2",
+      "text": "Look for evidence of the audience in the content itself"
+    },
+    {
+      "type": "p",
+      "text": "Even before you get first-party analytics, the newsletter gives clues about who it is written for. Look at the language, examples, companies, job roles and problems the writer assumes the reader understands."
+    },
+    {
+      "type": "p",
+      "text": "Also inspect comments, recommendations, author profiles and the creator’s presence on LinkedIn, YouTube, podcasts or other channels. You are building a picture, not pretending public signals are precise audience analytics."
+    },
+    {
+      "type": "h2",
+      "text": "Find the collaboration angle before you contact them"
+    },
+    {
+      "type": "p",
+      "text": "This is the step most creator lists miss."
+    },
+    {
+      "type": "p",
+      "text": "Do not add a newsletter writer because they are “in fintech.” Add them because you can explain the overlap between what they publish and something useful your company can contribute."
+    },
+    {
+      "type": "p",
+      "text": "Maybe they write repeatedly about bank acquisition and you have original referral benchmark data. Maybe they cover B2B pricing and you have a dataset from thousands of pricing experiments. Maybe they interview security leaders and you can introduce a practitioner with a strong case study."
+    },
+    {
+      "type": "p",
+      "text": "That is a collaboration angle. It gives the creator a reason to care that is stronger than “we would love to partner.”"
+    },
+    {
+      "type": "h2",
+      "text": "Newsletter creators are not ad inventory"
+    },
+    {
+      "type": "p",
+      "text": "Some newsletters sell sponsorships. Some accept guest contributions. Some interview experts. Some cite research. Some do none of those things.",
+      "sources": [
+        {
+          "label": "Should B2B Brands Pay Influencers to Talk About Them?",
+          "url": "/blog/should-b2b-brands-pay-influencers"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Do not assume the only collaboration is a paid banner or dedicated sponsored email. For Creator AEO and broader brand evidence, a useful contextual mention inside an article can be more interesting than a generic ad placement because it explains what your company knows and why it is relevant."
+    },
+    {
+      "type": "p",
+      "text": "If a collaboration is sponsored, disclose it properly and let the creator retain a credible editorial voice. Paying for distribution does not make thin promotional copy useful."
+    },
+    {
+      "type": "h2",
+      "text": "Build a shortlist with reasons, not names"
+    },
+    {
+      "type": "p",
+      "text": "For every newsletter creator you keep, record the publication, author, platform, core topics, recent activity, likely audience, relevant editions, available audience data, contact route and one specific collaboration angle.",
+      "sources": [
+        {
+          "label": "What Makes a Good B2B Influencer for Your Brand?",
+          "url": "/blog/what-makes-a-good-b2b-influencer"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The most important field is “why this creator?” If the answer is just “large newsletter,” the shortlist is not finished."
+    },
+    {
+      "type": "h2",
+      "text": "A practical newsletter creator discovery workflow"
+    },
+    {
+      "type": "p",
+      "text": "If i were starting from zero, i would define one buyer, list their problems, search Substack and the open web by topic, repeat the search on LinkedIn and other newsletter ecosystems, review recent editions, qualify activity and audience fit, then match each strong creator to a specific piece of evidence my company can contribute."
+    },
+    {
+      "type": "p",
+      "text": "Only after that would i compare audience size, sponsorship options and price."
+    },
+    {
+      "type": "h2",
+      "text": "Where B2B Influencer Finder fits"
+    },
+    {
+      "type": "p",
+      "text": "You can do all of this manually. The problem is the number of tabs.",
+      "sources": []
+    },
+    {
+      "type": "p",
+      "text": "B2B Influencer Finder searches across newsletters and other creator channels, then compares what creators already publish with the useful content and expertise on your website. Instead of returning a directory of newsletter names, the goal is to show why a creator matches and what the collaboration could actually be about.",
+      "sources": [
+        {
+          "label": "See how creator matching works",
+          "url": "/#how-it-works"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "You still approve the shortlist. The software is there to compress the research, not to replace the judgment."
+    },
+    {
+      "type": "h2",
+      "text": "The short version"
+    },
+    {
+      "type": "p",
+      "text": "To find B2B newsletter and Substack creators, search the topics your buyers care about, inspect the writers publishing repeatedly on those topics, verify that they are active, qualify the likely audience and then find a concrete overlap between their editorial interests and your company’s evidence."
+    },
+    {
+      "type": "p",
+      "text": "Do not ask only “How many subscribers do they have?” Ask “Would the right buyer read this, and do we have something genuinely useful for this writer to talk about?”"
+    },
+    {
+      "type": "h2",
+      "text": "What to put in your shortlist"
+    },
+    {
+      "type": "li",
+      "text": "Creator and publication name"
+    },
+    {
+      "type": "li",
+      "text": "Platform and public URL"
+    },
+    {
+      "type": "li",
+      "text": "Core buyer topics"
+    },
+    {
+      "type": "li",
+      "text": "Last publication date and normal cadence"
+    },
+    {
+      "type": "li",
+      "text": "Three to five relevant editions"
+    },
+    {
+      "type": "li",
+      "text": "Likely audience and supporting evidence"
+    },
+    {
+      "type": "li",
+      "text": "Public or creator-supplied audience metrics"
+    },
+    {
+      "type": "li",
+      "text": "Contact route"
+    },
+    {
+      "type": "li",
+      "text": "Commercial options if published"
+    },
+    {
+      "type": "li",
+      "text": "Specific brand-content overlap"
+    },
+    {
+      "type": "li",
+      "text": "One collaboration angle"
+    },
+    {
+      "type": "li",
+      "text": "Approve, reject or research further"
+    },
+    {
+      "type": "h2",
+      "text": "What not to do"
+    },
+    {
+      "type": "li",
+      "text": "Do not search only for “business newsletters.” Search buyer problems and specialist topics."
+    },
+    {
+      "type": "li",
+      "text": "Do not treat Substack as the entire newsletter ecosystem."
+    },
+    {
+      "type": "li",
+      "text": "Do not shortlist from a bio alone. Read the archive."
+    },
+    {
+      "type": "li",
+      "text": "Do not assume subscriber count proves buyer fit or current engagement."
+    },
+    {
+      "type": "li",
+      "text": "Do not invent audience demographics from public signals. Ask for first-party data when it matters."
+    },
+    {
+      "type": "li",
+      "text": "Do not pitch every creator the same generic sponsorship."
+    },
+    {
+      "type": "li",
+      "text": "Do not force your product into a newsletter whose editorial focus does not naturally overlap."
+    },
+    {
+      "type": "h2",
+      "text": "Sources"
+    },
+    {
+      "type": "p",
+      "text": "Substack Help, How do I find a Substack publication?",
+      "sources": [
+        {
+          "label": "Substack Help, How do I find a Substack publication?",
+          "url": "https://support.substack.com/hc/en-us/articles/4406018060692-How-do-I-find-a-Substack-publication"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Substack Help, What are Substack leaderboards?",
+      "sources": [
+        {
+          "label": "Substack Help, What are Substack leaderboards?",
+          "url": "https://support.substack.com/hc/en-us/articles/5999320475412-What-are-Substack-leaderboards"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn Help, Newsletter Page",
+      "sources": [
+        {
+          "label": "LinkedIn Help, Newsletter Page",
+          "url": "https://www.linkedin.com/help/linkedin/answer/a524027"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "beehiiv Help, Discovering partners in the recommendations network",
+      "sources": [
+        {
+          "label": "beehiiv Help, Discovering partners in the recommendations network",
+          "url": "https://www.beehiiv.com/support/article/43027355475095-discovering-partners-in-the-recommendations-network"
+        }
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "how-many-followers-b2b-influencer",
+    "what-makes-a-good-b2b-influencer",
+    "how-to-find-podcasts-podcast-hosts-industry"
+  ]
+}

@@ -12,6 +12,6 @@ export function ResourcePaths({ compact = false }: { compact?: boolean }) {
       <Link href="/rate-estimator">Estimate your creator budget →</Link>
       <Link href="/contact">Talk to us about managed outreach →</Link>
     </div>
-    {!compact && <p><Link href="/blog">Browse all guides →</Link></p>}
+    {!compact && <p className="resource-paths-browse"><Link href="/blog">Browse all guides →</Link></p>}
   </section>;
 }

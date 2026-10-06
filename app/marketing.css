@@ -340,6 +340,8 @@
 .resource-paths a { color: #b90c42; text-underline-offset: 4px; }
 .resource-paths-grid a { padding: 22px; background: #f0f3e9; border: 1px solid #dce2d5; border-radius: 14px; font-weight: 600; line-height: 1.5; }
 .resource-paths li { margin: 14px 0; line-height: 1.5; }
+.resource-paths .resource-paths-browse { margin: 28px 0 0; }
+.resource-paths-browse a { display: inline-flex; align-items: center; min-height: 44px; font-weight: 600; }
 @media(max-width:700px) { .resource-paths-grid { grid-template-columns: 1fr; } }
 
 /* Custom brand-and-creator identity. */

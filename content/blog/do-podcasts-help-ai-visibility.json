@@ -46,7 +46,13 @@
     },
     {
       "type": "p",
-      "text": "That is third-party evidence. The host owns the audience and the conversation. Your company contributes useful knowledge rather than publishing another claim on its own website."
+      "text": "That is third-party evidence. The host owns the audience and the conversation. Your company contributes useful knowledge rather than publishing another claim on its own website.",
+      "sources": [
+        {
+          "label": "How Do I Find Podcasts and Podcast Hosts in My Industry?",
+          "url": "/blog/how-to-find-podcasts-podcast-hosts-industry"
+        }
+      ]
     },
     {
       "type": "h2",

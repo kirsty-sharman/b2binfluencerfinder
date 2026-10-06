@@ -1,0 +1,463 @@
+{
+  "slug": "how-to-find-b2b-influencers-in-your-industry",
+  "title": "How Do I Find B2B Influencers in My Industry?",
+  "metaTitle": "How to Find B2B Influencers in Your Industry",
+  "description": "Find B2B influencers who actually reach your buyers. A practical method for discovering and evaluating creators across LinkedIn, YouTube, newsletters, podcasts and more.",
+  "ogTitle": "How to Find the Right B2B Influencers in Your Industry",
+  "ogDescription": "Stop starting with follower counts. Use this practical process to find B2B creators with the right subject expertise, audience and content fit.",
+  "category": "Finding B2B creators",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-06",
+  "updatedAt": "2026-10-06",
+  "hero": "find-b2b-influencers-industry.webp",
+  "heroAlt": "B2B influencer discovery process matching a brand topic to relevant specialist creators",
+  "diagram": "b2b-influencer-fit-scorecard.webp",
+  "diagramAlt": "B2B influencer fit scorecard comparing topic relevance, buyer relevance, credibility, content fit and activity",
+  "diagramAfter": "Start with the subject, not the creator",
+  "diagramWidth": 1200,
+  "diagramHeight": 800,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "If i were trying to find B2B influencers for a brand today, i would not start by searching for “influencers.”"
+    },
+    {
+      "type": "p",
+      "text": "I would start with the people my buyers already learn from."
+    },
+    {
+      "type": "p",
+      "text": "That sounds like a small distinction, but it changes the whole search. In B2B, the useful creator might be a RevOps operator with 12,000 LinkedIn followers, a cybersecurity YouTuber, a fintech newsletter writer, a podcast host, an analyst, a consultant, or a customer who has become known for explaining one specific problem extremely well.",
+      "sources": [
+        {
+          "label": "How Do I Find B2B Creators on YouTube?",
+          "url": "/blog/how-to-find-b2b-creators-on-youtube"
+        },
+        {
+          "label": "How Do I Find B2B Newsletter and Substack Creators?",
+          "url": "/blog/how-to-find-b2b-newsletter-substack-creators"
+        },
+        {
+          "label": "How Do I Find Podcasts and Podcast Hosts in My Industry?",
+          "url": "/blog/how-to-find-podcasts-podcast-hosts-industry"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "They do not need to call themselves an influencer. In fact, some of the best ones probably do not."
+    },
+    {
+      "type": "p",
+      "text": "The practical process is: define the topic and buyer, search the places where that audience learns, build a longlist, then score people on relevance and credibility before you care too much about audience size."
+    },
+    {
+      "type": "h2",
+      "text": "Start with the subject, not the creator"
+    },
+    {
+      "type": "p",
+      "text": "The easiest way to make influencer discovery messy is to begin with a vague brief like “find SaaS influencers.” SaaS is not a useful subject. Neither is fintech, marketing or HR."
+    },
+    {
+      "type": "p",
+      "text": "Get much narrower. What do you actually want your company to be known for? What problem does the buyer have? What would a useful creator already be talking about?"
+    },
+    {
+      "type": "p",
+      "text": "A referral software company might care about customer acquisition, referral programs, fintech growth, loyalty, word of mouth, customer marketing or banking growth. A cybersecurity company might care about identity management, cloud security, SOC operations or compliance. Those topics produce much better searches than the company category alone."
+    },
+    {
+      "type": "p",
+      "text": "This matters even more if your goal includes Creator AEO. You are not simply looking for a person who can expose your logo to an audience. You are trying to create credible third-party discussion around the subjects you want associated with your brand.",
+      "sources": [
+        {
+          "label": "What Is Creator AEO?",
+          "url": "/blog/what-is-creator-aeo"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Define the buyer at the same time"
+    },
+    {
+      "type": "p",
+      "text": "A creator can be extremely relevant to your topic and still be wrong for your business.",
+      "sources": [
+        {
+          "label": "How Do I Find Niche Creators Who Reach My Target Customers?",
+          "url": "/blog/how-to-find-niche-creators-target-customers"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Imagine two people who both talk about AI. One is followed mainly by developers. The other is followed by CMOs. If you sell an AI content governance product to enterprise marketing teams, those audiences are not interchangeable."
+    },
+    {
+      "type": "p",
+      "text": "Before searching, write down the buyer role, company type, industry, geography if it matters, and the problem you want the creator to discuss. That gives you a simple filter for every name you find later."
+    },
+    {
+      "type": "h2",
+      "text": "Search across the places B2B expertise actually lives"
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn is an obvious starting point, but it should not be the whole search. B2B expertise is fragmented across platforms.",
+      "sources": [
+        {
+          "label": "How Do I Find B2B Influencers on LinkedIn?",
+          "url": "/blog/how-to-find-b2b-influencers-on-linkedin"
+        }
+      ]
+    },
+    {
+      "type": "li",
+      "text": "LinkedIn: practitioners, founders, consultants, analysts and subject-matter experts publishing professional content."
+    },
+    {
+      "type": "li",
+      "text": "YouTube: educators, reviewers, interviewers and specialist channels that explain complex subjects in depth."
+    },
+    {
+      "type": "li",
+      "text": "Newsletters and Substack: writers with a repeat audience around a narrow professional topic."
+    },
+    {
+      "type": "li",
+      "text": "Podcasts: hosts and recurring guests who already interview people in your market."
+    },
+    {
+      "type": "li",
+      "text": "Blogs and independent publications: writers whose work ranks, gets shared and remains discoverable over time."
+    },
+    {
+      "type": "li",
+      "text": "X and specialist communities: useful for some technical, startup, finance and AI niches, although relevance varies heavily by market."
+    },
+    {
+      "type": "p",
+      "text": "Do not assume the person with the largest presence on one platform is the strongest creator overall. Someone might have 8,000 LinkedIn followers but also run a respected newsletter and host a niche podcast. Look at the person, not just the account."
+    },
+    {
+      "type": "h2",
+      "text": "How to find them manually"
+    },
+    {
+      "type": "p",
+      "text": "You can do the first version of this research without buying software. It is just slow."
+    },
+    {
+      "type": "p",
+      "text": "On LinkedIn, search the topic, then look at people consistently posting about it. Search adjacent job titles and terms rather than only “influencer.” Review who appears repeatedly in comments and who credible people in the niche interact with. Boolean searches can help combine a subject with terms such as newsletter, podcast, author, advisor or analyst."
+    },
+    {
+      "type": "p",
+      "text": "On YouTube, search the buyer questions you care about, not your product category. Look for channels that have covered the same subject repeatedly. Then inspect recent uploads to make sure the channel is still active."
+    },
+    {
+      "type": "p",
+      "text": "For newsletters, search the topic plus newsletter or Substack. Look at authors cited or recommended by other writers in the space. For podcasts, search the topic in podcast directories and Google, then look at both hosts and recurring guests."
+    },
+    {
+      "type": "p",
+      "text": "Another useful route is competitor research. Search the names of companies your buyers already know and see who has reviewed them, interviewed their executives, mentioned them in newsletters or explained their category. You are not looking to copy the competitor campaign. You are mapping the voices already participating in the market conversation."
+    },
+    {
+      "type": "h2",
+      "text": "The better shortcut: start from existing content overlap"
+    },
+    {
+      "type": "p",
+      "text": "This is the part i think most creator databases get backwards."
+    },
+    {
+      "type": "p",
+      "text": "A database normally gives you a person, some audience data and a set of filters. Then the marketer has to figure out why that person would ever want to talk about the company."
+    },
+    {
+      "type": "p",
+      "text": "I would reverse it. Start with something your company genuinely knows or has. Maybe it is a benchmark report, a customer case study, proprietary data, an unusual product insight or a strong article. Then find creators already publishing around that exact subject."
+    },
+    {
+      "type": "p",
+      "text": "Now there is a reason for the match."
+    },
+    {
+      "type": "p",
+      "text": "Instead of “Sarah has 42,000 followers and talks about fintech,” the match becomes “Sarah has published three pieces about customer acquisition in digital banking, and we have original data on referral conversion rates for banks.”"
+    },
+    {
+      "type": "p",
+      "text": "That is much closer to a collaboration idea than a database result."
+    },
+    {
+      "type": "h2",
+      "text": "How should you evaluate a B2B influencer?"
+    },
+    {
+      "type": "p",
+      "text": "Follower count belongs on the scorecard. It just should not be at the top.",
+      "sources": [
+        {
+          "label": "What Makes a Good B2B Influencer for Your Brand?",
+          "url": "/blog/what-makes-a-good-b2b-influencer"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn and Ipsos research published in 2025 found that marketers selecting B2B creators put authenticity and credibility first at 58%, followed by industry relevance at 49%, brand alignment and subject-matter expertise at 47% each, and audience engagement at 45%. That is a much better picture of B2B influence than “who has the biggest audience?”",
+      "sources": [
+        {
+          "label": "LinkedIn + Ipsos, 2025 B2B Marketing Benchmark: Trust Is the New KPI",
+          "url": "https://business.linkedin.com/content/dam/business/marketing-solutions/global/en_US/site/pdf/wp/2025/2025-b2b-marketing-benchmark-trust-is-the-new-kpi.pdf"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "I would score five things:"
+    },
+    {
+      "type": "li",
+      "text": "Topic relevance: how consistently do they cover the exact subject you care about?"
+    },
+    {
+      "type": "li",
+      "text": "Buyer relevance: is there evidence that the right kinds of people follow, watch or engage with them?"
+    },
+    {
+      "type": "li",
+      "text": "Credibility: do they have real experience, expertise or trust in the market?"
+    },
+    {
+      "type": "li",
+      "text": "Content fit: is there an obvious piece of your evidence or expertise that could make their content better?"
+    },
+    {
+      "type": "li",
+      "text": "Activity: are they still publishing consistently enough for a collaboration to make sense?"
+    },
+    {
+      "type": "p",
+      "text": "Reach comes after those. A specialist creator with 15,000 relevant followers can be far more useful than someone with 300,000 people who mostly do not care about your category."
+    },
+    {
+      "type": "h2",
+      "text": "Do not confuse engagement with buyer fit"
+    },
+    {
+      "type": "p",
+      "text": "Engagement is useful, but it can also mislead you."
+    },
+    {
+      "type": "p",
+      "text": "A creator who posts broad career advice may get hundreds of reactions from a huge professional audience. Another creator might get 35 reactions on a detailed post about payment infrastructure, with comments from exactly the operators, founders and product leaders you want to reach."
+    },
+    {
+      "type": "p",
+      "text": "For a B2B campaign, the second person may be the much stronger match."
+    },
+    {
+      "type": "p",
+      "text": "Look at who is engaging, what they say, whether the creator attracts practitioners, and whether the conversation is actually about the subject you care about."
+    },
+    {
+      "type": "h2",
+      "text": "Small B2B creators are not a compromise"
+    },
+    {
+      "type": "p",
+      "text": "B2B marketers are already treating credibility and relevance as core selection criteria. LinkedIn research found 55% of companies surveyed were using influencers in 2025, with another 29% planning to adopt influencer marketing in the following year. The same research found thought leaders and industry analysts were the most commonly ranked number-one influencer type, ahead of customers, independent creators, partners and employees.",
+      "sources": [
+        {
+          "label": "How Do I Find Micro-Influencers for a B2B Brand?",
+          "url": "/blog/how-to-find-b2b-micro-influencers"
+        },
+        {
+          "label": "LinkedIn + Ipsos, 2025 B2B Marketing Benchmark: Trust Is the New KPI",
+          "url": "https://business.linkedin.com/content/dam/business/marketing-solutions/global/en_US/site/pdf/wp/2025/2025-b2b-marketing-benchmark-trust-is-the-new-kpi.pdf"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That is useful because it widens the definition of who you are searching for. You do not need a mini celebrity. You need someone whose opinion carries weight with the right group of people."
+    },
+    {
+      "type": "p",
+      "text": "TopRank has also reported that consistently finding the right influencers remains one of the major challenges for B2B teams. That makes sense. B2B discovery is not hard because there are no creators. It is hard because the relevant audience and expertise signals are scattered.",
+      "sources": [
+        {
+          "label": "Lee Odden, 2026 trends/challenges referencing TopRank 2025 research",
+          "url": "https://www.linkedin.com/posts/leeodden_our-2025-b2b-influencer-marketing-research-activity-7471175603585650688-mbJn"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Build a longlist before you build a shortlist"
+    },
+    {
+      "type": "p",
+      "text": "Do not fall in love with the first five names you find."
+    },
+    {
+      "type": "p",
+      "text": "For a new niche, i would rather collect 30 to 50 plausible people first. Then score them. You will quickly notice patterns: some people look relevant until you read their recent content, some have stopped publishing, some talk to the wrong audience, and some are unexpectedly perfect despite having a smaller following."
+    },
+    {
+      "type": "p",
+      "text": "A shortlist of 10 strong matches is more useful than a spreadsheet of 500 “influencers.”"
+    },
+    {
+      "type": "h2",
+      "text": "Look for evidence of a collaboration, not just evidence of influence"
+    },
+    {
+      "type": "p",
+      "text": "This is the filter i would use before outreach: can i explain in one sentence why this person and this company should make something together?",
+      "sources": [
+        {
+          "label": "How Do You Reach Out to B2B Influencers for a Collaboration?",
+          "url": "/blog/how-to-reach-out-b2b-influencers"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "For example: “You have been writing about why fintech acquisition costs are rising. We have referral-program data from banks that could add a useful angle to that discussion.”"
+    },
+    {
+      "type": "p",
+      "text": "That is a collaboration premise."
+    },
+    {
+      "type": "p",
+      "text": "“You have 80,000 followers and our company sells to marketers” is not."
+    },
+    {
+      "type": "h2",
+      "text": "Where B2B Influencer Finder fits"
+    },
+    {
+      "type": "p",
+      "text": "This manual process is basically why we built B2B Influencer Finder.",
+      "sources": [
+        {
+          "label": "See how creator matching works",
+          "url": "/#how-it-works"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The agent scans a company website for useful assets such as research, case studies, original insights and industry content. It then searches across LinkedIn, YouTube, newsletters, podcasts, blogs and X for creators whose existing work overlaps with those subjects."
+    },
+    {
+      "type": "p",
+      "text": "The output is not supposed to be a generic list of people with follower counts. It is a set of matches with evidence: what the creator talks about, which company asset fits, and what a sensible collaboration angle could be."
+    },
+    {
+      "type": "p",
+      "text": "You still decide who is worth approaching. The point is to remove a lot of the research work between “we should work with creators” and “these are the people we actually have a reason to contact.”"
+    },
+    {
+      "type": "h2",
+      "text": "A simple B2B influencer discovery workflow"
+    },
+    {
+      "type": "p",
+      "text": "If you want to do it manually, this is the process i would use:"
+    },
+    {
+      "type": "li",
+      "text": "Choose 3 to 5 topics you want the market to associate with your brand."
+    },
+    {
+      "type": "li",
+      "text": "Define the buyer for each topic."
+    },
+    {
+      "type": "li",
+      "text": "List the strongest evidence your company can contribute: data, case studies, expertise, research, product experience or customer insight."
+    },
+    {
+      "type": "li",
+      "text": "Search LinkedIn, YouTube, newsletters, podcasts, blogs and relevant communities for people already covering those subjects."
+    },
+    {
+      "type": "li",
+      "text": "Build a longlist of 30 to 50 names."
+    },
+    {
+      "type": "li",
+      "text": "Score topic relevance, buyer relevance, credibility, content fit and activity."
+    },
+    {
+      "type": "li",
+      "text": "Review reach and engagement after relevance."
+    },
+    {
+      "type": "li",
+      "text": "Shortlist the strongest 10 to 15 matches."
+    },
+    {
+      "type": "li",
+      "text": "Write a specific collaboration premise for each person before you contact them."
+    },
+    {
+      "type": "p",
+      "text": "The final test is simple. If you cannot explain why a creator should care about your company without mentioning their follower count, the match probably is not strong enough yet."
+    },
+    {
+      "type": "h2",
+      "text": "The best B2B influencers are usually hiding in plain sight"
+    },
+    {
+      "type": "p",
+      "text": "Finding B2B influencers is less about discovering famous people and more about mapping who already owns attention and trust around a specific professional problem."
+    },
+    {
+      "type": "p",
+      "text": "Start with the topic. Follow the evidence. Look for people whose existing work overlaps with what your company genuinely knows. Then use audience size to choose between good matches, not to manufacture relevance where none exists."
+    },
+    {
+      "type": "p",
+      "text": "That is how you end up with creators who can make something useful, rather than a list of names you now have to invent a campaign for."
+    },
+    {
+      "type": "h2",
+      "text": "Sources"
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn + Ipsos, 2025 B2B Marketing Benchmark: Trust Is the New KPI",
+      "sources": [
+        {
+          "label": "LinkedIn + Ipsos, 2025 B2B Marketing Benchmark: Trust Is the New KPI",
+          "url": "https://business.linkedin.com/content/dam/business/marketing-solutions/global/en_US/site/pdf/wp/2025/2025-b2b-marketing-benchmark-trust-is-the-new-kpi.pdf"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Lee Odden, 2026 trends/challenges referencing TopRank 2025 research",
+      "sources": [
+        {
+          "label": "Lee Odden, 2026 trends/challenges referencing TopRank 2025 research",
+          "url": "https://www.linkedin.com/posts/leeodden_our-2025-b2b-influencer-marketing-research-activity-7471175603585650688-mbJn"
+        }
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "how-to-find-niche-creators-target-customers",
+    "how-to-find-b2b-influencers-on-linkedin",
+    "what-makes-a-good-b2b-influencer"
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "slug": "how-to-find-podcasts-podcast-hosts-industry",
+  "title": "How Do I Find Podcasts and Podcast Hosts in My Industry?",
+  "metaTitle": "How to Find Podcasts and Podcast Hosts in Your Industry",
+  "description": "Find relevant industry podcasts and hosts by searching buyer topics, recent episodes, guest patterns and audience fit. A practical B2B workflow.",
+  "ogTitle": "How to Find Podcasts and Podcast Hosts in Your Industry",
+  "ogDescription": "A practical workflow for finding niche B2B podcasts by topic, episode history, audience and collaboration fit.",
+  "category": "Finding B2B creators",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-06",
+  "updatedAt": "2026-10-06",
+  "hero": "find-b2b-podcasts-podcast-hosts.webp",
+  "heroAlt": "B2B marketer finding niche podcasts and podcast hosts by buyer topic and episode relevance",
+  "diagram": "b2b-podcast-fit-framework.webp",
+  "diagramAlt": "Framework for evaluating B2B podcasts by topic audience activity guest fit and collaboration angle",
+  "diagramAfter": "Start with buyer topics, not podcast categories",
+  "diagramWidth": 1200,
+  "diagramHeight": 800,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "The fastest way to find podcasts in your industry is to search for the problems, topics and people your buyers already care about, then work backwards from relevant episodes to the shows and hosts behind them."
+    },
+    {
+      "type": "p",
+      "text": "Do not start with a list of the biggest business podcasts. A smaller show that repeatedly discusses your exact market can be far more relevant than a famous show whose audience is mostly outside it."
+    },
+    {
+      "type": "p",
+      "text": "For B2B, the useful question is not “Which podcasts are popular?” It is “Which hosts are already having the conversation my company can genuinely contribute to?”"
+    },
+    {
+      "type": "h2",
+      "text": "Start with buyer topics, not podcast categories"
+    },
+    {
+      "type": "p",
+      "text": "Before opening a podcast directory, write down the subjects your ideal customer spends time thinking about. Include the category you sell into, but go narrower."
+    },
+    {
+      "type": "p",
+      "text": "If you sell to fintech teams, that could mean payments fraud, onboarding, KYC, lending, embedded finance, card issuing, treasury and customer acquisition. If you sell to RevOps teams, it might be forecasting, pipeline quality, attribution, CRM hygiene, pricing and sales compensation."
+    },
+    {
+      "type": "p",
+      "text": "These terms become your discovery map. Podcast names are often broad. Episode titles are usually much more specific."
+    },
+    {
+      "type": "h2",
+      "text": "Search episodes, not only show names"
+    },
+    {
+      "type": "p",
+      "text": "This is probably the most useful change you can make to podcast research."
+    },
+    {
+      "type": "p",
+      "text": "Apple Podcasts search covers shows, channels and episodes, and Apple says search relevance uses metadata including show names and episode titles. Dedicated podcast search engines can go further by letting you search topics, people, show notes and, in some cases, transcripts.",
+      "sources": [
+        {
+          "label": "Apple Podcasts for Creators, How Search works on Apple Podcasts",
+          "url": "https://podcasters.apple.com/support/3686-search-on-apple-podcasts"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That means you can search the actual subject you care about and discover a podcast because it covered that subject, even when the show name tells you almost nothing."
+    },
+    {
+      "type": "p",
+      "text": "A show called “The Operators” might be perfect for your market or completely irrelevant. Three recent episodes on your buyer problem tell you more than the title ever will."
+    },
+    {
+      "type": "h2",
+      "text": "Use Apple Podcasts for broad discovery"
+    },
+    {
+      "type": "p",
+      "text": "Apple Podcasts is a useful free starting point. Search your topic, then inspect both show and episode results. Browse the relevant categories too, but treat categories as a discovery layer, not a final shortlist."
+    },
+    {
+      "type": "p",
+      "text": "Apple says its catalog is public, searchable and shareable across more than 170 countries and regions. It also has more than 100 categories and subcategories, which can help when you are still mapping a market.",
+      "sources": [
+        {
+          "label": "Apple Podcasts for Creators, Apple Podcasts categories",
+          "url": "https://podcasters.apple.com/support/1691-apple-podcasts-categories"
+        },
+        {
+          "label": "Apple Podcasts for Creators, Distribute your shows to listeners",
+          "url": "https://podcasters.apple.com/support/5108-how-apple-podcasts-distributes-your-shows-to-listeners"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Do not use the charts as a list of the “best” shows for your campaign. Apple explicitly says its charts reflect current popularity and are not a measure of the largest podcasts by all-time listenership. Popularity and fit are different questions.",
+      "sources": [
+        {
+          "label": "Apple Podcasts for Creators, Apple Podcasts Charts",
+          "url": "https://podcasters.apple.com/support/3146-apple-podcasts-charts"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Use a podcast search engine when the niche gets specific"
+    },
+    {
+      "type": "p",
+      "text": "Once your search becomes narrow, a dedicated podcast search engine can save a lot of time."
+    },
+    {
+      "type": "p",
+      "text": "Listen Notes lets you search podcasts and episodes by people, places and topics, then explore similar shows. That is useful when you have one relevant podcast and want to expand sideways into the same conversation.",
+      "sources": [
+        {
+          "label": "Listen Notes, Podcast Discovery",
+          "url": "https://www.listennotes.com/podcast-discovery/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Professional databases such as Rephonic add campaign-oriented data. Rephonic says its search supports topics, titles, publishers and episodes, with filters for factors such as activity, guests, listener numbers and audience characteristics. It also provides contact information and related-show discovery.",
+      "sources": [
+        {
+          "label": "Rephonic, Podcast Search Tool",
+          "url": "https://rephonic.com/blog/podcast-search-tool/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The tool is not the strategy. A database can surface candidates. You still need to decide whether the host, audience and editorial pattern actually fit your brand."
+    },
+    {
+      "type": "h2",
+      "text": "Find one good show, then map its neighborhood"
+    },
+    {
+      "type": "p",
+      "text": "You do not need to invent every search from scratch. Once you find one genuinely relevant show, inspect its guests, related podcasts and the other shows those guests appear on."
+    },
+    {
+      "type": "p",
+      "text": "This creates a network map. Specialist B2B experts often move through a cluster of podcasts serving overlapping audiences. One good host can lead you to ten more useful shows."
+    },
+    {
+      "type": "p",
+      "text": "Search the names of relevant guests too. If a practitioner your buyers respect has appeared on several podcasts, those appearances are clues about where your market is already listening."
+    },
+    {
+      "type": "h2",
+      "text": "Read the last ten to twenty episode titles"
+    },
+    {
+      "type": "p",
+      "text": "Do not qualify a podcast from its homepage description."
+    },
+    {
+      "type": "p",
+      "text": "Open the recent episode list and look for repeated themes. Is your topic part of the show’s editorial identity, or did one guest happen to mention it six months ago?"
+    },
+    {
+      "type": "p",
+      "text": "Then open the most relevant episodes. Read the show notes. If a transcript is available, search it. You are trying to understand the depth of the conversation, the host’s point of view and the type of expertise they value."
+    },
+    {
+      "type": "p",
+      "text": "Repeated coverage is much stronger evidence of fit than one keyword match."
+    },
+    {
+      "type": "h2",
+      "text": "Check whether the show is active"
+    },
+    {
+      "type": "p",
+      "text": "Podcast databases contain abandoned shows. Before shortlisting anything, check the most recent publication date and the normal cadence."
+    },
+    {
+      "type": "p",
+      "text": "There is no universal rule for how recent a show must be. A monthly podcast and a daily show behave differently. What matters is that the show is still publishing on a pattern that makes sense for it."
+    },
+    {
+      "type": "h2",
+      "text": "Find the host, producer and actual contact route"
+    },
+    {
+      "type": "p",
+      "text": "The person on the artwork is not always the person who books guests or partnerships."
+    },
+    {
+      "type": "p",
+      "text": "For smaller shows, the host may handle everything. Larger shows can have producers, booking teams, networks or separate sponsorship contacts. Check the show website, episode notes, host profiles and public contact pages before deciding whom to approach."
+    },
+    {
+      "type": "p",
+      "text": "If you use a podcast database, treat contact information as a starting point and verify it against the show’s current public presence where practical."
+    },
+    {
+      "type": "h2",
+      "text": "Work out whether the show actually takes guests"
+    },
+    {
+      "type": "p",
+      "text": "Some podcasts are interview shows. Some are solo. Some use recurring co-hosts. Some accept experts only occasionally."
+    },
+    {
+      "type": "p",
+      "text": "Look at the recent episode pattern. If nearly every episode has an external guest, that is obvious evidence. If the show has not featured an outside guest in a year, pitching yourself as one is probably the wrong collaboration."
+    },
+    {
+      "type": "p",
+      "text": "This is why guest history matters more than a generic “pitch podcasts” list."
+    },
+    {
+      "type": "h2",
+      "text": "Audience fit comes before audience size"
+    },
+    {
+      "type": "p",
+      "text": "Podcast download and listener data are often private, estimated or available only through specialist tools and media kits. Do not invent precision you do not have.",
+      "sources": [
+        {
+          "label": "How Do I Find Niche Creators Who Reach My Target Customers?",
+          "url": "/blog/how-to-find-niche-creators-target-customers"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Start with what you can verify: subject matter, guest history, language, geography where obvious, companies and job roles discussed, the host’s positioning and the problems covered repeatedly."
+    },
+    {
+      "type": "p",
+      "text": "If the opportunity becomes serious, ask for a media kit or first-party audience information. A smaller podcast listened to by the exact operators you sell to can be strategically useful even if it never appears on a top chart."
+    },
+    {
+      "type": "h2",
+      "text": "Find the collaboration angle before you pitch"
+    },
+    {
+      "type": "p",
+      "text": "A good podcast pitch is not “Can i come on your show and talk about my company?”"
+    },
+    {
+      "type": "p",
+      "text": "Look at what the host has covered and what you can add. Maybe they have discussed referral programs but never published benchmark data. Maybe they cover fintech growth and you have a strong bank case study. Maybe they interview operators and you can offer someone who has actually solved the problem their audience cares about."
+    },
+    {
+      "type": "p",
+      "text": "The overlap between the show’s existing conversation and your evidence is the pitch."
+    },
+    {
+      "type": "p",
+      "text": "Rephonic makes a similar point in its guesting guidance: relevance matters and useful pitches propose specific talking points that fit the show and its audience. That is much closer to how B2B creator matching should work than blasting the same founder bio to 500 hosts."
+    },
+    {
+      "type": "h2",
+      "text": "Podcast collaborations are bigger than guest interviews"
+    },
+    {
+      "type": "p",
+      "text": "Being a guest is one route. It is not the only one."
+    },
+    {
+      "type": "p",
+      "text": "A brand can sponsor an episode, provide original data for a discussion, introduce a customer or practitioner, contribute research, support a recurring segment, or collaborate on a video version if the show publishes on YouTube.",
+      "sources": [
+        {
+          "label": "Should B2B Brands Pay Influencers to Talk About Them?",
+          "url": "/blog/should-b2b-brands-pay-influencers"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The right format depends on the show. Do not force a guest pitch when the host’s model is sponsorship, and do not buy a generic ad when the real opportunity is a useful expert conversation."
+    },
+    {
+      "type": "h2",
+      "text": "For AI visibility, look at the public evidence around the episode too"
+    },
+    {
+      "type": "p",
+      "text": "If Creator AEO is part of the objective, pay attention to what exists outside the audio player."
+    },
+    {
+      "type": "p",
+      "text": "A public episode page, detailed show notes, transcript, summary or YouTube version creates more text and context around the conversation. That does not guarantee an AI system will cite the episode. It simply gives the conversation more public, retrievable surfaces than an audio file sitting behind a closed player."
+    },
+    {
+      "type": "p",
+      "text": "This is why podcast selection for Creator AEO can include an extra question: what public evidence does this show create when an episode goes live?"
+    },
+    {
+      "type": "h2",
+      "text": "Build a shortlist with evidence, not logos"
+    },
+    {
+      "type": "p",
+      "text": "For every podcast you keep, record the show, host, URL, core topics, recent activity, relevant episodes, guest pattern, likely audience, contact route and one specific collaboration angle.",
+      "sources": [
+        {
+          "label": "What Makes a Good B2B Influencer for Your Brand?",
+          "url": "/blog/what-makes-a-good-b2b-influencer"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The “relevant episodes” field matters. It forces you to prove the match instead of adding a famous logo because someone on the team recognizes it."
+    },
+    {
+      "type": "h2",
+      "text": "A practical workflow from zero"
+    },
+    {
+      "type": "p",
+      "text": "If i were starting from zero, i would define the buyer, list ten to twenty problems they care about, search those terms at episode level, save the first genuinely relevant shows, expand through related shows and guest histories, review recent episodes, verify activity, identify the real host or booking contact, then write down one reason the collaboration would be useful to that audience.",
+      "sources": [
+        {
+          "label": "How Do I Find B2B Influencers in My Industry?",
+          "url": "/blog/how-to-find-b2b-influencers-in-your-industry"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Only after that would i compare reach, pricing or prestige."
+    },
+    {
+      "type": "h2",
+      "text": "Where B2B Influencer Finder fits"
+    },
+    {
+      "type": "p",
+      "text": "You can do this manually across podcast directories, search engines, show websites and spreadsheets. It works. It also gets slow very quickly."
+    },
+    {
+      "type": "p",
+      "text": "B2B Influencer Finder is designed to search across podcasts and other creator channels, then compare what those creators already discuss with the strongest content, case studies, research and expertise on your website.",
+      "sources": [
+        {
+          "label": "See how creator matching works",
+          "url": "/#how-it-works"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The useful output is not “here are 100 podcasts.” It is “here is a relevant host, here is the evidence that they cover your topic, and here is something your company could credibly add to that conversation.”"
+    },
+    {
+      "type": "p",
+      "text": "You still decide who belongs on the shortlist."
+    },
+    {
+      "type": "h2",
+      "text": "The short version"
+    },
+    {
+      "type": "p",
+      "text": "To find podcasts and podcast hosts in your industry, search buyer topics at the episode level, not just show names. Use podcast directories for discovery, then qualify the show by recent topics, activity, guest history, audience fit and the host’s actual collaboration format."
+    },
+    {
+      "type": "p",
+      "text": "Then find a specific reason your expertise belongs in that conversation. That is the difference between a podcast list and a usable creator partnership shortlist."
+    },
+    {
+      "type": "h2",
+      "text": "What to put in your shortlist"
+    },
+    {
+      "type": "li",
+      "text": "Podcast name and public URL"
+    },
+    {
+      "type": "li",
+      "text": "Host, co-host and producer/booking contact where relevant"
+    },
+    {
+      "type": "li",
+      "text": "Core buyer topics"
+    },
+    {
+      "type": "li",
+      "text": "Last episode date and normal cadence"
+    },
+    {
+      "type": "li",
+      "text": "Three to five relevant episodes"
+    },
+    {
+      "type": "li",
+      "text": "Guest format and recent guest history"
+    },
+    {
+      "type": "li",
+      "text": "Likely audience and the evidence for that assessment"
+    },
+    {
+      "type": "li",
+      "text": "Public or creator-supplied audience metrics where available"
+    },
+    {
+      "type": "li",
+      "text": "Episode page, transcript and/or YouTube availability"
+    },
+    {
+      "type": "li",
+      "text": "Contact route"
+    },
+    {
+      "type": "li",
+      "text": "Sponsorship or guest options if published"
+    },
+    {
+      "type": "li",
+      "text": "Specific brand-content overlap"
+    },
+    {
+      "type": "li",
+      "text": "One collaboration angle"
+    },
+    {
+      "type": "li",
+      "text": "Approve, reject or research further"
+    },
+    {
+      "type": "h2",
+      "text": "What not to do"
+    },
+    {
+      "type": "li",
+      "text": "Do not start with “top business podcasts” and assume popularity equals fit."
+    },
+    {
+      "type": "li",
+      "text": "Do not judge a show from its title or description alone. Read recent episode titles."
+    },
+    {
+      "type": "li",
+      "text": "Do not assume a podcast accepts guests because it exists. Check the format and guest history."
+    },
+    {
+      "type": "li",
+      "text": "Do not invent listener numbers or demographics when they are not public."
+    },
+    {
+      "type": "li",
+      "text": "Do not send the same founder bio and generic pitch to every host."
+    },
+    {
+      "type": "li",
+      "text": "Do not treat podcast charts as a ranking of the best shows for your brand."
+    },
+    {
+      "type": "li",
+      "text": "Do not ignore the producer or booking contact when they clearly manage the show."
+    },
+    {
+      "type": "li",
+      "text": "Do not claim a podcast appearance guarantees AI visibility, leads or sales."
+    },
+    {
+      "type": "h2",
+      "text": "Sources"
+    },
+    {
+      "type": "p",
+      "text": "Apple Podcasts for Creators, How Search works on Apple Podcasts",
+      "sources": [
+        {
+          "label": "Apple Podcasts for Creators, How Search works on Apple Podcasts",
+          "url": "https://podcasters.apple.com/support/3686-search-on-apple-podcasts"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Apple Podcasts for Creators, Apple Podcasts categories",
+      "sources": [
+        {
+          "label": "Apple Podcasts for Creators, Apple Podcasts categories",
+          "url": "https://podcasters.apple.com/support/1691-apple-podcasts-categories"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Apple Podcasts for Creators, Distribute your shows to listeners",
+      "sources": [
+        {
+          "label": "Apple Podcasts for Creators, Distribute your shows to listeners",
+          "url": "https://podcasters.apple.com/support/5108-how-apple-podcasts-distributes-your-shows-to-listeners"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Apple Podcasts for Creators, Apple Podcasts Charts",
+      "sources": [
+        {
+          "label": "Apple Podcasts for Creators, Apple Podcasts Charts",
+          "url": "https://podcasters.apple.com/support/3146-apple-podcasts-charts"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Listen Notes, Podcast Discovery",
+      "sources": [
+        {
+          "label": "Listen Notes, Podcast Discovery",
+          "url": "https://www.listennotes.com/podcast-discovery/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Rephonic, Podcast Search Tool",
+      "sources": [
+        {
+          "label": "Rephonic, Podcast Search Tool",
+          "url": "https://rephonic.com/blog/podcast-search-tool/"
+        }
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "how-to-find-niche-creators-target-customers",
+    "what-makes-a-good-b2b-influencer",
+    "how-to-find-b2b-influencers-in-your-industry"
+  ]
+}

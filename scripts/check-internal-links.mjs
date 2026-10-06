@@ -11,6 +11,12 @@ for (const post of posts) {
 const sitemap = await fetch(`${origin}/sitemap.xml`).then(r=>r.text());
 const routes = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>new URL(m[1]).pathname);
 assert(routes.length >= posts.length + 4, 'Sitemap is missing public pages');
+assert.equal(new Set(routes).size, routes.length, 'Sitemap contains duplicate URLs');
+const expectedBlogRoutes = new Set(posts.map(post => `/blog/${post.slug}`));
+for (const route of expectedBlogRoutes) assert(routes.includes(route), `Published article missing from sitemap: ${route}`);
+for (const route of routes.filter(route => route.startsWith('/blog/'))) {
+  assert(expectedBlogRoutes.has(route), `Sitemap contains an unpublished or removed article: ${route}`);
+}
 const pages = new Map();
 for (const route of routes) {
  const response = await fetch(new URL(route,origin));

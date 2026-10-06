@@ -30,7 +30,13 @@
     },
     {
       "type": "p",
-      "text": "The useful way to think about Substack is as a publishing surface. If a relevant writer publishes a specific, useful article that mentions your company in the right context, the web now has another independent source explaining where your brand fits."
+      "text": "The useful way to think about Substack is as a publishing surface. If a relevant writer publishes a specific, useful article that mentions your company in the right context, the web now has another independent source explaining where your brand fits.",
+      "sources": [
+        {
+          "label": "How Do I Find B2B Newsletter and Substack Creators?",
+          "url": "/blog/how-to-find-b2b-newsletter-substack-creators"
+        }
+      ]
     },
     {
       "type": "h2",

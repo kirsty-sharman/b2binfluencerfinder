@@ -1,0 +1,491 @@
+{
+  "slug": "how-to-find-b2b-micro-influencers",
+  "title": "How Do I Find Micro-Influencers for a B2B Brand?",
+  "metaTitle": "How to Find Micro-Influencers for a B2B Brand",
+  "description": "Find B2B micro-influencers who actually reach your niche. Learn how to discover and evaluate specialist creators without relying on follower count alone.",
+  "ogTitle": "How to Find B2B Micro-Influencers That Actually Fit Your Brand",
+  "ogDescription": "A practical method for finding smaller B2B creators with the right expertise, audience and content fit.",
+  "category": "Finding B2B creators",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-06",
+  "updatedAt": "2026-10-06",
+  "hero": "find-b2b-micro-influencers.webp",
+  "heroAlt": "B2B brand matching with several specialist micro-influencers based on topic and audience fit",
+  "diagram": "b2b-micro-influencer-fit-framework.webp",
+  "diagramAlt": "B2B micro-influencer evaluation framework showing topic fit, buyer fit, credibility, activity and collaboration fit",
+  "diagramAfter": "First, what counts as a B2B micro-influencer?",
+  "diagramWidth": 1200,
+  "diagramHeight": 800,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "The easiest way to find B2B micro-influencers is to stop treating “micro” as a follower-count filter."
+    },
+    {
+      "type": "p",
+      "text": "Start with a narrow subject your buyers care about. Find the people who publish about it repeatedly. Then check whether the right kinds of buyers actually pay attention to them."
+    },
+    {
+      "type": "p",
+      "text": "In B2B, a creator with 7,000 relevant followers can be far more useful than someone with 200,000 broad ones. The smaller creator might be a practitioner, consultant, analyst, newsletter writer, YouTuber or podcast host whose audience is concentrated around exactly the problem you solve."
+    },
+    {
+      "type": "p",
+      "text": "That is the real appeal of micro-influencers in B2B. You are trading mass reach for density of relevance."
+    },
+    {
+      "type": "h2",
+      "text": "First, what counts as a B2B micro-influencer?"
+    },
+    {
+      "type": "p",
+      "text": "There is no universally useful follower threshold.",
+      "sources": [
+        {
+          "label": "How Many Followers Should a B2B Influencer Have?",
+          "url": "/blog/how-many-followers-b2b-influencer"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "You will see definitions that put micro-influencers anywhere from a few thousand followers to 100,000. That range is so wide that it is not particularly helpful for B2B planning."
+    },
+    {
+      "type": "p",
+      "text": "I would use a more practical definition: a micro-influencer is a creator with a relatively small audience, but meaningful influence inside a specific professional niche."
+    },
+    {
+      "type": "p",
+      "text": "That might be a RevOps consultant with 9,000 LinkedIn followers. A fintech writer with a 6,000-person newsletter. A cybersecurity YouTuber with 18,000 subscribers. Or a procurement expert whose posts get thoughtful comments from exactly the people you sell to."
+    },
+    {
+      "type": "p",
+      "text": "The number matters less than the concentration of expertise and audience."
+    },
+    {
+      "type": "h2",
+      "text": "Why smaller can work particularly well in B2B"
+    },
+    {
+      "type": "p",
+      "text": "B2B markets are already niche. Your total addressable audience may be a few thousand relevant companies, and the actual buying committee might consist of a handful of job titles inside them."
+    },
+    {
+      "type": "p",
+      "text": "So a huge general audience is not automatically an advantage."
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn and Ipsos research published in 2025 found that B2B marketers ranked authenticity and credibility as the most common creator-selection criterion at 58%, followed by industry relevance at 49%, brand alignment and subject-matter expertise at 47% each, and audience engagement at 45%. That is a useful reality check: follower count is not at the top of the list.",
+      "sources": [
+        {
+          "label": "LinkedIn + Ipsos, 2025 B2B Marketing Benchmark: Trust Is the New KPI",
+          "url": "https://business.linkedin.com/content/dam/business/marketing-solutions/global/en_US/site/pdf/wp/2025/2025-b2b-marketing-benchmark-trust-is-the-new-kpi.pdf"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The same research found thought leaders and industry analysts were the influencer type most often ranked number one for effectiveness, followed by customers and independent creators. In other words, B2B influence often looks more like expertise than celebrity.",
+      "sources": [
+        {
+          "label": "LinkedIn + Ipsos, 2025 B2B Marketing Benchmark: Trust Is the New KPI",
+          "url": "https://business.linkedin.com/content/dam/business/marketing-solutions/global/en_US/site/pdf/wp/2025/2025-b2b-marketing-benchmark-trust-is-the-new-kpi.pdf"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Start with a very narrow topic"
+    },
+    {
+      "type": "p",
+      "text": "Do not search for “marketing micro-influencers” or “SaaS creators” and expect a good shortlist."
+    },
+    {
+      "type": "p",
+      "text": "Search for the problem."
+    },
+    {
+      "type": "p",
+      "text": "If you sell referral software to fintech companies, your useful topics might include banking growth, customer acquisition, referral programs, loyalty, neobank retention or word of mouth. If you sell an AI governance product, the topics might be enterprise AI policy, model risk, compliance or responsible AI."
+    },
+    {
+      "type": "p",
+      "text": "The narrower the topic, the easier it becomes to spot the people who genuinely live in that conversation."
+    },
+    {
+      "type": "h2",
+      "text": "Then define the buyer"
+    },
+    {
+      "type": "p",
+      "text": "Topic fit without buyer fit is one of the easiest ways to waste money.",
+      "sources": [
+        {
+          "label": "How Do I Find Niche Creators Who Reach My Target Customers?",
+          "url": "/blog/how-to-find-niche-creators-target-customers"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Two creators can publish about the same subject and reach completely different people. An AI creator followed by engineers is not interchangeable with an AI creator followed by enterprise CMOs."
+    },
+    {
+      "type": "p",
+      "text": "Write down the job titles, company types, industries and geographies you actually want to reach. You will use that as the second filter after subject relevance."
+    },
+    {
+      "type": "h2",
+      "text": "Where to find B2B micro-influencers"
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn is usually the obvious place to begin because so many B2B practitioners publish there, but do not stop there."
+    },
+    {
+      "type": "li",
+      "text": "LinkedIn: search topics, posts, newsletters and relevant job titles. Look at who publishes consistently and who gets comments from credible people in the niche."
+    },
+    {
+      "type": "li",
+      "text": "YouTube: search the questions your buyer would ask. Smaller specialist channels often reveal far more subject depth than a generic creator search."
+    },
+    {
+      "type": "li",
+      "text": "Newsletters and Substack: look for writers repeatedly covering a narrow industry or role. Subscriber count is useful, but topic concentration matters more."
+    },
+    {
+      "type": "li",
+      "text": "Podcasts: search for hosts and recurring guests in the category. A small podcast can still reach a very concentrated professional audience."
+    },
+    {
+      "type": "li",
+      "text": "Blogs and independent publications: identify authors who repeatedly write about the problem, not just the broad industry."
+    },
+    {
+      "type": "li",
+      "text": "Your own customers and community: some of the most credible small creators may already use, understand or talk about your category."
+    },
+    {
+      "type": "p",
+      "text": "Our guide to finding B2B influencers in your industry covers the broader discovery process across these channels. For micro-influencers, the difference is that you deliberately keep looking after the obvious big names have appeared.",
+      "sources": [
+        {
+          "label": "How Do I Find B2B Influencers in My Industry?",
+          "url": "/blog/how-to-find-b2b-influencers-in-your-industry"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Use the people around the big creators"
+    },
+    {
+      "type": "p",
+      "text": "One of my favourite manual discovery tricks is to use larger creators as maps, not necessarily as targets."
+    },
+    {
+      "type": "p",
+      "text": "Look at who they interview. Who appears repeatedly in their comments? Who do they quote, recommend or invite onto podcasts? Which newsletter writers do they share? Who are the practitioners adding genuinely useful replies?"
+    },
+    {
+      "type": "p",
+      "text": "Niche expertise tends to form networks. Once you find two or three credible people, you can often follow the network outward and find twenty more."
+    },
+    {
+      "type": "p",
+      "text": "This is also a good way to find people who are influential before they become expensive."
+    },
+    {
+      "type": "h2",
+      "text": "Do not filter by follower count first"
+    },
+    {
+      "type": "p",
+      "text": "This is where a lot of influencer databases can send you in the wrong direction."
+    },
+    {
+      "type": "p",
+      "text": "If your first filter is “5,000 to 25,000 followers,” you get a list of people who satisfy a number. You still do not know whether any of them make sense for your company."
+    },
+    {
+      "type": "p",
+      "text": "A better order is:"
+    },
+    {
+      "type": "li",
+      "text": "Topic relevance: does this person repeatedly publish about the subject?"
+    },
+    {
+      "type": "li",
+      "text": "Buyer relevance: are the people engaging likely to include your market?"
+    },
+    {
+      "type": "li",
+      "text": "Credibility: does the creator appear to know what they are talking about?"
+    },
+    {
+      "type": "li",
+      "text": "Activity: are they still publishing consistently?"
+    },
+    {
+      "type": "li",
+      "text": "Content fit: could your evidence genuinely improve something they already create?"
+    },
+    {
+      "type": "li",
+      "text": "Audience size: only now use reach to help compare otherwise good matches."
+    },
+    {
+      "type": "p",
+      "text": "Follower count belongs in the scorecard. It should not be the search strategy."
+    },
+    {
+      "type": "h2",
+      "text": "Read the comments, not just the engagement rate"
+    },
+    {
+      "type": "p",
+      "text": "A 4% engagement rate tells you very little about whether the engagement is commercially useful."
+    },
+    {
+      "type": "p",
+      "text": "Open the comments. Are they from practitioners, buyers, founders, analysts and operators in the market? Are people adding their own experiences? Does the creator respond intelligently? Or is the engagement mostly generic applause from other creators?"
+    },
+    {
+      "type": "p",
+      "text": "For B2B, ten comments from the right people can tell you more than 1,000 likes from an audience you cannot identify."
+    },
+    {
+      "type": "p",
+      "text": "You are trying to understand who trusts this person, not simply whether the algorithm distributed the post."
+    },
+    {
+      "type": "h2",
+      "text": "Look for repeated expertise"
+    },
+    {
+      "type": "p",
+      "text": "One good post does not make someone a useful creator partner."
+    },
+    {
+      "type": "p",
+      "text": "Review at least a few months of recent content where possible. You want to see whether the subject is genuinely part of their body of work."
+    },
+    {
+      "type": "p",
+      "text": "Repeated expertise matters for two reasons. First, it makes the collaboration more believable to their audience. Second, if you care about Creator AEO, a creator who repeatedly discusses a topic creates a much clearer context around why your brand belongs in that conversation."
+    },
+    {
+      "type": "p",
+      "text": "This does not mean they need to mention your category every week. It means the collaboration should feel like a natural extension of what they already talk about."
+    },
+    {
+      "type": "h2",
+      "text": "Match the creator to something your company actually has"
+    },
+    {
+      "type": "p",
+      "text": "Finding the person is only half the job."
+    },
+    {
+      "type": "p",
+      "text": "Before outreach, ask what you could give this creator that would make their content better. Original research? A customer case study? Benchmark data? Access to an expert? A product they can genuinely test? An interesting pattern you have observed across customers?"
+    },
+    {
+      "type": "p",
+      "text": "This is the logic behind B2B Influencer Finder. Instead of starting with a database and asking who has the right follower count, the product analyses the useful content and expertise a company already has, then looks for creators whose existing work overlaps with it."
+    },
+    {
+      "type": "p",
+      "text": "The match should be specific enough that you can explain it in one sentence."
+    },
+    {
+      "type": "p",
+      "text": "For example: “You have been writing about retention in neobanks, and we have data from referral programs showing which incentive structures actually produce repeat referrals.”"
+    },
+    {
+      "type": "p",
+      "text": "That is a collaboration angle. “You have 14,000 followers” is not."
+    },
+    {
+      "type": "h2",
+      "text": "A simple B2B micro-influencer scorecard"
+    },
+    {
+      "type": "p",
+      "text": "Once you have a longlist, score each creator from 1 to 5 on five things:",
+      "sources": [
+        {
+          "label": "What Makes a Good B2B Influencer for Your Brand?",
+          "url": "/blog/what-makes-a-good-b2b-influencer"
+        }
+      ]
+    },
+    {
+      "type": "li",
+      "text": "Topic fit: how closely does their existing content overlap with the subject you want to own?"
+    },
+    {
+      "type": "li",
+      "text": "Buyer fit: how likely is their audience to contain the people you want to reach?"
+    },
+    {
+      "type": "li",
+      "text": "Credibility: do they demonstrate genuine expertise, experience or trusted curation?"
+    },
+    {
+      "type": "li",
+      "text": "Activity: are they publishing enough for a collaboration to make sense now?"
+    },
+    {
+      "type": "li",
+      "text": "Collaboration fit: can you see a natural article, video, newsletter, podcast or post that your evidence could contribute to?"
+    },
+    {
+      "type": "p",
+      "text": "Then add audience size, platform, geography and estimated cost as practical fields rather than letting them dominate the score."
+    },
+    {
+      "type": "p",
+      "text": "A creator scoring 23 out of 25 with 8,000 followers is usually more interesting to me than someone scoring 13 out of 25 with 150,000."
+    },
+    {
+      "type": "h2",
+      "text": "How many should you find?"
+    },
+    {
+      "type": "p",
+      "text": "For a first campaign, i would rather build a shortlist of 15 to 30 genuinely relevant people than export 500 names from a database."
+    },
+    {
+      "type": "p",
+      "text": "You will reject some during deeper research. Some will not reply. Some will be too expensive. Some will simply not be interested."
+    },
+    {
+      "type": "p",
+      "text": "That is fine. The goal is not to create the largest spreadsheet. It is to create enough good options that you can learn what kind of creator responds and performs for your brand."
+    },
+    {
+      "type": "p",
+      "text": "Once you have real campaign data, you can widen the search using the characteristics of the creators who worked."
+    },
+    {
+      "type": "h2",
+      "text": "Micro does not automatically mean cheap"
+    },
+    {
+      "type": "p",
+      "text": "A smaller audience does not guarantee a small fee.",
+      "sources": [
+        {
+          "label": "How Much Should You Pay a B2B Influencer?",
+          "url": "/blog/how-much-to-pay-b2b-influencer"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A creator with a highly valuable audience, deep expertise or a strong newsletter may charge more than someone with a much larger but less commercially useful following. Some practitioners also have consulting businesses and value their time accordingly."
+    },
+    {
+      "type": "p",
+      "text": "Treat follower count as a weak proxy for price. The real price depends on the creator, format, work required, usage rights, exclusivity, audience value and relationship."
+    },
+    {
+      "type": "p",
+      "text": "We cover pricing in more detail in the B2B influencer cost articles later in this series."
+    },
+    {
+      "type": "h2",
+      "text": "Micro-influencers are especially useful for testing"
+    },
+    {
+      "type": "p",
+      "text": "There is another reason i like starting smaller: you can learn faster."
+    },
+    {
+      "type": "p",
+      "text": "Instead of putting most of the budget behind one famous name, you can test several specialist creators across different topics and formats. One might be strong on LinkedIn. Another might produce an excellent YouTube explainer. Another might have a newsletter that sends surprisingly qualified traffic."
+    },
+    {
+      "type": "p",
+      "text": "The first campaign should teach you which kind of creator actually works for your market."
+    },
+    {
+      "type": "p",
+      "text": "Then build longer relationships with the good ones. B2B influence is rarely improved by treating creators as disposable media placements."
+    },
+    {
+      "type": "h2",
+      "text": "What not to do"
+    },
+    {
+      "type": "li",
+      "text": "Do not assume micro means 10,000 followers. The useful range changes by platform and niche."
+    },
+    {
+      "type": "li",
+      "text": "Do not buy a giant list before defining the topic and buyer."
+    },
+    {
+      "type": "li",
+      "text": "Do not judge engagement by likes alone. Read who is engaging and what they are saying."
+    },
+    {
+      "type": "li",
+      "text": "Do not force a creator into a subject they rarely cover."
+    },
+    {
+      "type": "li",
+      "text": "Do not send the same generic pitch to 100 people. The reason you chose each creator should be visible in the outreach."
+    },
+    {
+      "type": "li",
+      "text": "Do not script a fake positive opinion. Give creators evidence and a useful angle, then let them keep a credible voice."
+    },
+    {
+      "type": "h2",
+      "text": "The short version"
+    },
+    {
+      "type": "p",
+      "text": "To find B2B micro-influencers, define a narrow buyer problem, search the places where people already discuss it, follow the network around credible experts, and evaluate creators on relevance before reach."
+    },
+    {
+      "type": "p",
+      "text": "The best small creator is not the person who just sneaks under an arbitrary follower threshold."
+    },
+    {
+      "type": "p",
+      "text": "It is the person with enough credibility in a specific niche that the right buyers pay attention when they speak."
+    },
+    {
+      "type": "p",
+      "text": "That is what you are trying to find."
+    },
+    {
+      "type": "h2",
+      "text": "Sources"
+    },
+    {
+      "type": "p",
+      "text": "LinkedIn + Ipsos, 2025 B2B Marketing Benchmark: Trust Is the New KPI",
+      "sources": [
+        {
+          "label": "LinkedIn + Ipsos, 2025 B2B Marketing Benchmark: Trust Is the New KPI",
+          "url": "https://business.linkedin.com/content/dam/business/marketing-solutions/global/en_US/site/pdf/wp/2025/2025-b2b-marketing-benchmark-trust-is-the-new-kpi.pdf"
+        }
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "how-many-followers-b2b-influencer",
+    "how-to-find-niche-creators-target-customers",
+    "what-makes-a-good-b2b-influencer"
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "slug": "how-to-find-b2b-creators-on-youtube",
+  "title": "How Do I Find B2B Creators on YouTube?",
+  "metaTitle": "How to Find B2B Creators on YouTube",
+  "description": "Find relevant B2B creators on YouTube by searching buyer problems, evaluating recent videos and checking topic, audience and collaboration fit.",
+  "ogTitle": "How to Find the Right B2B Creators on YouTube",
+  "ogDescription": "A practical YouTube creator discovery workflow based on topic expertise, audience relevance and content fit, not subscriber count alone.",
+  "category": "Finding B2B creators",
+  "status": "published",
+  "author": "B2B Influencer Finder",
+  "publishedAt": "2026-10-06",
+  "updatedAt": "2026-10-06",
+  "hero": "find-b2b-creators-youtube.webp",
+  "heroAlt": "B2B marketer discovering relevant YouTube creators by buyer topic, video expertise and audience fit",
+  "diagram": "youtube-b2b-creator-discovery-workflow.webp",
+  "diagramAlt": "YouTube B2B creator discovery workflow from buyer-topic search to relevant creator shortlist",
+  "diagramAfter": "1. Define the buyer and the questions they watch",
+  "diagramWidth": 1200,
+  "diagramHeight": 800,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "The easiest way to find B2B creators on YouTube is to search the questions and problems your buyers already watch videos about, then work backwards from the channels repeatedly publishing useful content on those subjects."
+    },
+    {
+      "type": "p",
+      "text": "Do not start by searching for “B2B influencers.” Start with the topic."
+    },
+    {
+      "type": "p",
+      "text": "If you sell security software, search the problems security leaders are trying to solve. If you sell to fintech growth teams, search digital banking acquisition, onboarding, retention, referrals and loyalty. YouTube will show you the videos already competing for attention around those subjects. The creators behind the strongest relevant videos are your candidate pool."
+    },
+    {
+      "type": "p",
+      "text": "That sounds simple. The difficult part is separating a genuinely useful specialist creator from a channel that happens to have one relevant video."
+    },
+    {
+      "type": "h2",
+      "text": "1. Define the buyer and the questions they watch"
+    },
+    {
+      "type": "p",
+      "text": "Before opening YouTube, write down the exact person you want to reach and the questions that person is likely to search, watch or share."
+    },
+    {
+      "type": "p",
+      "text": "“B2B marketing” is too broad. “How to build an enterprise ABM program,” “SaaS churn benchmarks” or “how banks acquire new customers” gives you something you can actually search."
+    },
+    {
+      "type": "p",
+      "text": "Create a list of ten to twenty buyer questions, problems, categories and adjacent subjects. These become your discovery queries."
+    },
+    {
+      "type": "p",
+      "text": "The creator does not need to call themselves an influencer. They need to own a useful part of the conversation your buyer cares about."
+    },
+    {
+      "type": "h2",
+      "text": "2. Search videos first, not channels"
+    },
+    {
+      "type": "p",
+      "text": "YouTube search is built around content. Use that to your advantage."
+    },
+    {
+      "type": "p",
+      "text": "Search a specific buyer problem and inspect the videos that appear. YouTube says its search systems consider relevance, engagement and quality, including how well titles, descriptions and the video content itself match a query.",
+      "sources": [
+        {
+          "label": "YouTube Help, Learn more about how YouTube works for you",
+          "url": "https://support.google.com/youtube/answer/9962575?hl=en"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That means video search is a useful discovery layer. It shows you who has actually made content around the subject, not who has written the right words in a creator profile."
+    },
+    {
+      "type": "p",
+      "text": "Open promising videos and then inspect the channels behind them."
+    },
+    {
+      "type": "h2",
+      "text": "3. Use filters to narrow the search"
+    },
+    {
+      "type": "p",
+      "text": "YouTube lets you refine search results with filters, including content type. You can filter specifically for channels, or stay with videos and narrow by factors such as upload date and duration.",
+      "sources": [
+        {
+          "label": "YouTube Help, Advanced search (Filters)",
+          "url": "https://support.google.com/youtube/answer/111997?hl=en"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "I would normally start with videos because they give you evidence of topic fit. Then use the Channel filter when you want to widen the list of creators associated with a keyword or category."
+    },
+    {
+      "type": "p",
+      "text": "Recent uploads matter. A channel that was excellent in your niche three years ago but has stopped publishing may not be a useful collaboration target today."
+    },
+    {
+      "type": "h2",
+      "text": "4. Judge the channel by its recent body of work"
+    },
+    {
+      "type": "p",
+      "text": "One relevant video is not enough."
+    },
+    {
+      "type": "p",
+      "text": "Open the channel and scan the last ten to twenty uploads. How many are relevant to your buyer? Is the subject a recurring area of expertise or a one-off experiment? Does the creator go deep enough to have a real point of view?"
+    },
+    {
+      "type": "p",
+      "text": "YouTube channel pages expose uploaded videos and playlists, which makes this review much easier. Playlists can be especially useful because creators often organize their strongest subject areas themselves.",
+      "sources": [
+        {
+          "label": "YouTube Help, Find your way around YouTube channel pages",
+          "url": "https://support.google.com/youtube/answer/11997749?hl=en"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A cybersecurity creator with 25,000 subscribers and fifty useful security videos is usually a more logical security-software partner than a broad business channel with 500,000 subscribers and one security interview. That is a fit judgment, not a universal performance rule."
+    },
+    {
+      "type": "h2",
+      "text": "5. Search the creator’s videos for your category"
+    },
+    {
+      "type": "p",
+      "text": "Once a channel looks promising, look for evidence that the creator already understands your category, competitors or adjacent problems."
+    },
+    {
+      "type": "p",
+      "text": "Search their channel where available, scan titles and playlists, and read descriptions on the most relevant videos. Watch enough of the actual content to understand how they discuss the subject."
+    },
+    {
+      "type": "p",
+      "text": "You are trying to answer a simple question: would a collaboration with your company feel like a natural extension of what this person already publishes?"
+    },
+    {
+      "type": "h2",
+      "text": "6. Look at the audience signals you can actually see"
+    },
+    {
+      "type": "p",
+      "text": "Subscriber count is visible. Perfect audience demographics usually are not."
+    },
+    {
+      "type": "p",
+      "text": "YouTube gives creators detailed audience analytics inside YouTube Studio, including metrics such as monthly audience and, where enough data exists, demographic information. Brands do not automatically see all of that for every public channel.",
+      "sources": [
+        {
+          "label": "YouTube Help, Understand your YouTube audience",
+          "url": "https://support.google.com/youtube/answer/9314416?hl=en"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "So during discovery, use public signals carefully. Read the comments. Look at the language people use. Check whether viewers sound like practitioners, buyers, students, hobbyists or other creators. Look at the companies and roles people mention when the discussion makes that visible."
+    },
+    {
+      "type": "p",
+      "text": "These are directional clues, not precise audience measurement. If a creator progresses to a paid partnership, ask for relevant audience data or a media kit before making a large spend decision.",
+      "sources": [
+        {
+          "label": "How Much Should You Pay a B2B Influencer?",
+          "url": "/blog/how-much-to-pay-b2b-influencer"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "7. Do not confuse subscribers with active audience"
+    },
+    {
+      "type": "p",
+      "text": "A channel can have 100,000 subscribers and a much smaller current audience. Another can have 15,000 subscribers and consistently reach a meaningful percentage of a tight professional niche.",
+      "sources": [
+        {
+          "label": "How Many Followers Should a B2B Influencer Have?",
+          "url": "/blog/how-many-followers-b2b-influencer"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "YouTube itself distinguishes subscriber count from monthly audience, which measures unique viewers over the previous 28 days. The latter is only visible to the creator in Analytics, but the distinction is useful when evaluating partnerships.",
+      "sources": [
+        {
+          "label": "YouTube Help, Understand your YouTube audience",
+          "url": "https://support.google.com/youtube/answer/9314416?hl=en"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Publicly, look at recent views across several videos rather than the subscriber number in isolation. Then ask the creator for first-party audience data if the partnership becomes serious."
+    },
+    {
+      "type": "h2",
+      "text": "8. Look for commercial readiness, but do not require it"
+    },
+    {
+      "type": "p",
+      "text": "Some creators make brand partnerships easy to spot. They may list business contact details, publish sponsored videos, use YouTube’s paid-promotion tools or participate in YouTube Creator Partnerships."
+    },
+    {
+      "type": "p",
+      "text": "As of 2026, YouTube Creator Partnerships includes creator search and list-management tools in Google Ads in locations where the YouTube Partner Program is active. Eligible creators can also share channel and audience insights with brands and advertisers.",
+      "sources": [
+        {
+          "label": "Google Ads Help, About YouTube Creator Partnerships",
+          "url": "https://support.google.com/google-ads/answer/15471603?hl=en"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "That can be useful if you have access, but it should not become your only creator universe. Some excellent niche B2B experts are not professional influencers and may have done very few brand deals."
+    },
+    {
+      "type": "h2",
+      "text": "9. Search adjacent topics to find better creators"
+    },
+    {
+      "type": "p",
+      "text": "Your product category is often too narrow a search term."
+    },
+    {
+      "type": "p",
+      "text": "If you sell referral software, do not search only “referral software.” Search customer acquisition, word of mouth, fintech growth, ecommerce retention, loyalty, SaaS growth and other buyer problems your expertise can contribute to."
+    },
+    {
+      "type": "p",
+      "text": "This is where many of the better B2B collaborations appear. The creator owns the broader conversation. Your company contributes evidence, data or a case study that makes one part of that conversation stronger."
+    },
+    {
+      "type": "h2",
+      "text": "10. Score topic fit before subscriber count"
+    },
+    {
+      "type": "p",
+      "text": "I would shortlist YouTube creators using five questions:",
+      "sources": [
+        {
+          "label": "What Makes a Good B2B Influencer for Your Brand?",
+          "url": "/blog/what-makes-a-good-b2b-influencer"
+        }
+      ]
+    },
+    {
+      "type": "li",
+      "text": "Topic fit: do they repeatedly publish on the subject your buyer cares about?"
+    },
+    {
+      "type": "li",
+      "text": "Buyer fit: is there credible evidence that the right professional audience watches them?"
+    },
+    {
+      "type": "li",
+      "text": "Credibility: do they have real expertise, experience or trusted curation in the niche?"
+    },
+    {
+      "type": "li",
+      "text": "Content quality: can they explain the subject well enough to hold attention and create useful discussion?"
+    },
+    {
+      "type": "li",
+      "text": "Collaboration fit: does your company have data, expertise, a case study or product access that could improve a video they would naturally make?"
+    },
+    {
+      "type": "p",
+      "text": "Then look at subscriber count, recent views, publishing frequency and likely price."
+    },
+    {
+      "type": "p",
+      "text": "Reach matters. It just should not be the thing that turns a bad subject match into a good one."
+    },
+    {
+      "type": "h2",
+      "text": "Find creators through creators"
+    },
+    {
+      "type": "p",
+      "text": "Once you find one excellent YouTube creator, use them as a map of the niche."
+    },
+    {
+      "type": "p",
+      "text": "Who do they interview? Which channels do they reference? Who appears in their comments? Which podcasts are they on? Which experts show up repeatedly in their live streams or collaborations?"
+    },
+    {
+      "type": "p",
+      "text": "YouTube is full of connected specialist communities. One relevant channel can lead to a much better second layer of creators than another broad keyword search."
+    },
+    {
+      "type": "h2",
+      "text": "A simple YouTube creator discovery workflow"
+    },
+    {
+      "type": "p",
+      "text": "If i were doing this manually for a new B2B brand, i would:",
+      "sources": [
+        {
+          "label": "How Do I Find B2B Influencers in My Industry?",
+          "url": "/blog/how-to-find-b2b-influencers-in-your-industry"
+        }
+      ]
+    },
+    {
+      "type": "li",
+      "text": "Define one buyer and ten to twenty questions they care about."
+    },
+    {
+      "type": "li",
+      "text": "Search those questions on YouTube and inspect the strongest relevant videos."
+    },
+    {
+      "type": "li",
+      "text": "Open the channels behind those videos."
+    },
+    {
+      "type": "li",
+      "text": "Review the last ten to twenty uploads for repeated expertise."
+    },
+    {
+      "type": "li",
+      "text": "Check recent views, publishing frequency, comments and visible audience signals."
+    },
+    {
+      "type": "li",
+      "text": "Search adjacent topics and follow creator-to-creator connections."
+    },
+    {
+      "type": "li",
+      "text": "Score topic fit, buyer fit, credibility, content quality and collaboration fit."
+    },
+    {
+      "type": "li",
+      "text": "Ask shortlisted creators for audience data or a media kit before committing meaningful budget."
+    },
+    {
+      "type": "p",
+      "text": "If you cannot explain why this creator, for this buyer, on this topic, the research is not finished."
+    },
+    {
+      "type": "h2",
+      "text": "Where B2B Influencer Finder fits"
+    },
+    {
+      "type": "p",
+      "text": "This process is very doable manually. It also gets slow when you are searching dozens of topics across YouTube, LinkedIn, newsletters, podcasts and other creator channels."
+    },
+    {
+      "type": "p",
+      "text": "B2B Influencer Finder starts with the useful content and expertise your company already has, then finds creators whose existing work overlaps with it. The goal is to give you a shortlist where the reason for the match is visible.",
+      "sources": [
+        {
+          "label": "See how creator matching works",
+          "url": "/#how-it-works"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "For YouTube, that means finding creators who already publish around the buyer problem and identifying the company evidence that could make a collaboration genuinely useful."
+    },
+    {
+      "type": "h2",
+      "text": "What not to do"
+    },
+    {
+      "type": "li",
+      "text": "Do not search only for your product category. Search the wider buyer problem."
+    },
+    {
+      "type": "li",
+      "text": "Do not shortlist a creator from one relevant video. Review their recent body of work."
+    },
+    {
+      "type": "li",
+      "text": "Do not treat subscriber count as current audience size."
+    },
+    {
+      "type": "li",
+      "text": "Do not infer precise audience demographics from public comments. Use them as directional signals and request first-party data when needed."
+    },
+    {
+      "type": "li",
+      "text": "Do not require every good creator to already be a professional influencer. Specialist practitioners can be valuable too."
+    },
+    {
+      "type": "li",
+      "text": "Do not force a dedicated product review when your evidence would fit more naturally inside a broader educational video."
+    },
+    {
+      "type": "li",
+      "text": "Do not assume YouTube search order is an objective ranking of the best creators for your brand."
+    },
+    {
+      "type": "h2",
+      "text": "The short version"
+    },
+    {
+      "type": "p",
+      "text": "To find B2B creators on YouTube, search the questions your buyers care about, discover creators through relevant videos, then review each channel for repeated expertise, current activity, audience fit and collaboration potential."
+    },
+    {
+      "type": "p",
+      "text": "The useful question is not “Who has the biggest YouTube channel?”"
+    },
+    {
+      "type": "p",
+      "text": "It is “Who already explains something my buyers care about, and what could my company contribute that would make their next piece of content better?”"
+    },
+    {
+      "type": "p",
+      "text": "That is a much stronger starting point for B2B creator discovery."
+    },
+    {
+      "type": "h2",
+      "text": "Sources"
+    },
+    {
+      "type": "p",
+      "text": "YouTube Help, Advanced search (Filters)",
+      "sources": [
+        {
+          "label": "YouTube Help, Advanced search (Filters)",
+          "url": "https://support.google.com/youtube/answer/111997?hl=en"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "YouTube Help, Find your way around YouTube channel pages",
+      "sources": [
+        {
+          "label": "YouTube Help, Find your way around YouTube channel pages",
+          "url": "https://support.google.com/youtube/answer/11997749?hl=en"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "YouTube Help, Learn more about how YouTube works for you",
+      "sources": [
+        {
+          "label": "YouTube Help, Learn more about how YouTube works for you",
+          "url": "https://support.google.com/youtube/answer/9962575?hl=en"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "YouTube Help, Understand your YouTube audience",
+      "sources": [
+        {
+          "label": "YouTube Help, Understand your YouTube audience",
+          "url": "https://support.google.com/youtube/answer/9314416?hl=en"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Google Ads Help, About YouTube Creator Partnerships",
+      "sources": [
+        {
+          "label": "Google Ads Help, About YouTube Creator Partnerships",
+          "url": "https://support.google.com/google-ads/answer/15471603?hl=en"
+        }
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "how-many-followers-b2b-influencer",
+    "what-makes-a-good-b2b-influencer",
+    "how-to-find-b2b-newsletter-substack-creators"
+  ]
+}
