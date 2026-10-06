@@ -239,7 +239,7 @@
 @media(max-width:700px) { .validation-flow { grid-template-columns: 1fr; } .validation-flow li,.validation-flow li:first-child { padding: 20px 0; border-right: 0; border-bottom: 1px solid #d4ddcb; } .validation-flow li:last-child { border-bottom: 0; } .validation-examples { flex-direction: column; gap: 14px; } .validation-examples>span { width: auto; } }
 
 .marketing-hero h1 { text-wrap: balance; }
-.marketing-hero .marketing-intro { max-width: 800px; margin: 0 auto 32px; text-wrap: pretty; }
+.marketing-hero .marketing-intro { max-width: 800px; margin: 0 auto 44px; text-wrap: pretty; }
 
 /* One message, two sources, one product connection. */
 .validation-simple header { max-width: 870px; }
