@@ -344,12 +344,13 @@
 .resource-paths-browse a { display: inline-flex; align-items: center; min-height: 44px; font-weight: 600; }
 @media(max-width:700px) { .resource-paths-grid { grid-template-columns: 1fr; } }
 
-/* Custom brand-and-creator identity. */
-.marketing-brand.brand-lockup{gap:12px;flex-shrink:0;color:#20392c;text-decoration:none}
-.brand-symbol{width:50px;height:50px;flex-shrink:0}
-.brand-wordmark{display:flex;align-items:flex-start;gap:9px}
-.brand-prefix{font-size:10px;font-weight:750;letter-spacing:1px;border:1px solid #a7b5a2;border-radius:4px;padding:4px 5px;margin-top:3px;line-height:1}
-.brand-wordmark strong{font-size:19px;font-weight:750;letter-spacing:-.7px;line-height:1.02}
-.brand-finder{display:block}
-.brand-period{color:#e91d55}
-@media(max-width:640px){.brand-symbol{width:38px;height:38px}.marketing-brand.brand-lockup{gap:7px}.brand-wordmark{gap:5px}.brand-wordmark strong{font-size:15px}.brand-prefix{font-size:8px;padding:3px;letter-spacing:.3px}}
+/* Search-and-people identity, with an explicit dark-background treatment. */
+.marketing-brand.brand-lockup{--brand-ink:#18291f;--brand-accent:var(--pink-action);gap:8px;flex-shrink:0;color:var(--brand-ink);text-decoration:none}
+.brand-symbol{width:42px;height:42px;flex-shrink:0;color:var(--brand-accent)}
+.brand-wordmark{display:flex;flex-direction:column;align-items:flex-start}
+.brand-wordmark strong{font-size:19px;font-weight:750;letter-spacing:-.6px;line-height:1.08;white-space:nowrap}
+.brand-finder{display:block;color:var(--brand-accent)}
+.marketing-brand.brand-lockup-inverse{--brand-ink:#ffffff}
+.site-footer .brand-lockup:hover{color:var(--brand-ink)}
+.brand-lockup:focus-visible{outline:2px solid var(--brand-accent);outline-offset:6px;border-radius:4px}
+@media(max-width:640px){.brand-symbol{width:36px;height:36px}.marketing-brand.brand-lockup{gap:7px}.brand-wordmark strong{font-size:16px;letter-spacing:-.5px}}
