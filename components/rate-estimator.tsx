@@ -44,6 +44,5 @@ export function RateEstimator() {
         <div className="rate-result-note">An estimated offer, not a confirmed creator rate.</div>
       </div>
     </div>
-    <details className="rate-method"><summary>How this estimate is calculated</summary><p>These are our starting-offer benchmarks for substantive B2B content, not surveyed market rates. Between the listed audience sizes, we interpolate in a straight line. Total offers rise with audience size, while the cost per 1,000 falls. Displayed amounts are rounded to the nearest dollar. Audience size alone does not measure quality or audience fit. Agree scope and price with the creator; usage rights, exclusivity and extra revisions are separate.</p><table><caption>{config.label} benchmarks (USD per {config.unit})</caption><thead><tr><th>{config.audience}</th><th>Starting offer</th></tr></thead><tbody>{audienceAnchors.map((size, index) => <tr key={size}><td>{size.toLocaleString("en-US")}</td><td>{dollars(config.rates[index])}</td></tr>)}</tbody></table></details>
   </section>;
 }

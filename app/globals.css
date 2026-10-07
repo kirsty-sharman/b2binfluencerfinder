@@ -827,15 +827,9 @@ select:focus-visible {
 .rate-result-note { border-top: 1px solid #ffffff20; padding-top: 17px; color: #b5c5ab; line-height: 1.5; font-size: 11px; }
 @keyframes rate-reveal { from { opacity: .5; transform: translateY(3px); } to { opacity: 1; transform: translateY(0); } }
 @media(prefers-reduced-motion: reduce) { .rate-price { animation: none; } .rate-channel-switch button { transition: none; } }
-.rate-method { padding: 24px 32px; border-top: 1px solid var(--border); }
-.rate-method summary { cursor: pointer; font-weight: 650; }
-.rate-method p { max-width: 800px; font-size: 14px; line-height: 1.65; }
-.rate-method table { width: 100%; max-width: 480px; text-align: left; border-collapse: collapse; margin-top: 20px; }
-.rate-method caption { text-align: left; font-weight: 650; margin-bottom: 12px; }
-.rate-method td, .rate-method th { padding: 10px; border-bottom: 1px solid var(--border); }
 .rate-public-cta { text-align: center; margin-top: 32px; }
 .rate-public-cta a { color: #ba1240; text-decoration: underline; }
-@media(max-width: 700px) { .rate-layout { grid-template-columns: 1fr; padding: 20px; gap: 24px; } .rate-channel-switch { display: grid; grid-template-columns: repeat(2,1fr); margin: 20px 20px 0; } .rate-inputs { padding: 0; } .rate-result { padding: 24px; min-height: 350px; } .rate-page { padding-block: 36px; } .rate-method { padding: 20px; } }
+@media(max-width: 700px) { .rate-layout { grid-template-columns: 1fr; padding: 20px; gap: 24px; } .rate-channel-switch { display: grid; grid-template-columns: repeat(2,1fr); margin: 20px 20px 0; } .rate-inputs { padding: 0; } .rate-result { padding: 24px; min-height: 350px; } .rate-page { padding-block: 36px; } }
 .logout-button { width: 100%; border: 0; background: transparent; text-align: left; font: inherit; cursor: pointer; }
 .logout-button:disabled { opacity: .6; cursor: wait; }
 .logout-error { color: #b50b3d; font-size: 12px; padding: 0 8px; }

@@ -15,13 +15,13 @@ export async function joinWaitlist(_: WaitlistState, data: FormData): Promise<Wa
     if (error) {
       // Log the error code only: database error details can contain submitted personal data.
       console.error("Waitlist submission failed", { code: error.code, missingMigration: error.code === "PGRST202" });
-      return { error: "Waitlist signup is temporarily unavailable. Please try again later." };
+      return { error: "Applications are temporarily unavailable. Please try again later." };
     }
     return { success: true };
   } catch {
     console.error("Waitlist submission failed before completion", {
       supabaseConfigured: Boolean(process.env.NEXT_PUBLIC_SUPABASE_URL && process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY),
     });
-    return { error: "Waitlist signup is temporarily unavailable. Please try again later." };
+    return { error: "Applications are temporarily unavailable. Please try again later." };
   }
 }

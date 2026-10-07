@@ -9,7 +9,7 @@ import { MarketingNavigation } from "@/components/marketing-navigation";
 import "./marketing.css";
 export const metadata: Metadata = { alternates: { canonical: BLOG_ORIGIN },
   title: "B2B Influencer Finder | Your AI creator discovery agent",
-  description: "Find relevant B2B influencers and creators across LinkedIn, YouTube, podcasts, newsletters, blogs and X. Match them with your strongest content. Join the waitlist.",
+  description: "Find relevant B2B influencers and creators across LinkedIn, YouTube, podcasts, newsletters, blogs and X. Match them with your strongest content. Apply for access.",
 };
 const channels = [
   [BriefcaseBusiness, "LinkedIn", "Industry experts and professional creators sharing insights with business audiences."],
@@ -56,7 +56,7 @@ export default function HomePage() {
         </div>
         <footer><h3>We help you find those experts.</h3><p>Match your best content with relevant creators who could turn it into an article, video or newsletter.</p><small>Expert coverage can help people and AI discover your brand. It doesn’t guarantee an AI recommendation.</small></footer>
       </section>
-      <section id="plans" className="marketing-section marketing-wrap"><span className="marketing-eyebrow">Choose your approach · Early access plans</span><h2>Run it yourself.<br/>Or get hands-on help from our team.</h2><div className="marketing-plan-grid">{[
+      <section id="plans" className="marketing-section marketing-wrap"><span className="marketing-eyebrow">Choose your approach · Plans</span><h2>Run it yourself.<br/>Or get hands-on help from our team.</h2><div className="marketing-plan-grid">{[
         {name:"Finder",type:"Software only",price:"80",description:"Use the software to find and shortlist creators. You handle outreach and manage the partnerships.",features:["B2B influencer discovery","LinkedIn, YouTube, podcasts, newsletters, blogs & X","Website and content analysis","Creator-to-content matching","Collaboration ideas","Match evidence","Approve / reject workflow","Creator shortlist"],cta:"Start finding influencers"},
         {name:"Managed",type:"Software + human to help you with outreach and bookings.",price:"800",description:"Get the software plus a real team to review matches, contact creators and follow up for you.",features:["Everything in Finder","Human-reviewed matches","Personalized creator outreach","Follow-ups","Response management","Collaboration support"],cta:"Get managed outreach"},
       ].map(plan=><article className="marketing-plan" key={plan.name}><h3>{plan.name}</h3><span className="marketing-plan-type">{plan.type}</span><p className="marketing-price"><strong>${plan.price}</strong> /month</p><p>{plan.description}</p><ul>{plan.features.map(feature=><li key={feature}>{feature}</li>)}</ul>{plan.name==="Managed"?<p className="marketing-fine">You approve who we contact. We handle outreach. Fees charged by creators are separate.</p>:null}<CTA label={plan.cta}/></article>)}</div></section>
@@ -65,7 +65,7 @@ export default function HomePage() {
         <ul className="b2b-industries">{["B2B SaaS Companies", "B2B Financial Services", "B2B Agencies", "B2B Professional Services", "B2B Sales Teams", "B2B HR Companies", "B2B Marketers", "Specialist B2B Industries"].map((industry, index) => <li key={industry}><span className="b2b-industry-number" aria-hidden="true">{String(index + 1).padStart(2, "0")}</span><span>{industry}</span></li>)}</ul>
         <div className="b2b-principle"><span className="b2b-principle-label">The audience that matters</span><p>The right <strong>10,00</strong> people.<br/><span>More valuable than the wrong million.</span></p><Image className="b2b-principle-photo" src="/photos/audience.webp" alt="Illustrative small group of professionals engaged in an industry workshop" width={1200} height={800} sizes="(max-width:800px) 90vw, 320px"/></div>
       </section>
-      <section id="waitlist" className="marketing-waitlist"><div className="marketing-wrap"><div><span className="marketing-eyebrow">Get early access</span><h2>Get your expertise into<br/><em>the industry conversation.</em></h2><p>Find relevant B2B influencers who can bring their own perspective to your strongest ideas—and introduce your expertise to a wider audience.</p></div><div><CTA label="Find my B2B influencers"/><p className="marketing-fine">Starting at $80/month. Join the waitlist for early access.</p></div></div></section>
+      <section id="waitlist" className="marketing-waitlist"><div className="marketing-wrap"><div><span className="marketing-eyebrow">Apply for access</span><h2>Get your expertise into<br/><em>the industry conversation.</em></h2><p>Find relevant B2B influencers who can bring their own perspective to your strongest ideas—and introduce your expertise to a wider audience.</p></div><div><CTA label="Find my B2B influencers"/><p className="marketing-fine">Starting at $80/month. Apply for access today.</p></div></div></section>
     <div className="marketing-wrap"><ResourcePaths/></div></main><MarketingFooter/>
   </div>;
 }
