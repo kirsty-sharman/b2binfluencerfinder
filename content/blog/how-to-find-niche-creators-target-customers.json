@@ -9,7 +9,7 @@
   "status": "published",
   "author": "B2B Influencer Finder",
   "publishedAt": "2026-10-06",
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-14",
   "hero": "find-niche-creators-target-customers.webp",
   "heroAlt": "B2B brand matching with niche creators whose audiences overlap with its target customers",
   "diagram": "niche-creator-audience-fit-framework.webp",
@@ -472,6 +472,16 @@
       "text": "Do not treat a brand mention as useful third-party evidence if the surrounding context is vague or unrelated."
     },
     {
+      "type": "p",
+      "text": "Once you have qualified your shortlist, turn those individual matches into a repeatable program. Our guide to building a B2B creator program covers buyer-journey roles, pilot partnerships, briefs and a practical 90-day rollout.",
+      "sources": [
+        {
+          "label": "How to Build a Winning B2B Creator Program",
+          "url": "/blog/how-to-build-a-winning-b2b-creator-program"
+        }
+      ]
+    },
+    {
       "type": "h2",
       "text": "The short version"
     },
@@ -537,6 +547,7 @@
     }
   ],
   "relatedArticles": [
+    "how-to-build-a-winning-b2b-creator-program",
     "how-many-followers-b2b-influencer",
     "what-makes-a-good-b2b-influencer",
     "how-to-find-b2b-influencers-in-your-industry"

@@ -9,7 +9,7 @@
   "status": "published",
   "author": "B2B Influencer Finder",
   "publishedAt": "2026-10-06",
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-14",
   "hero": "b2b-influencer-outreach.webp",
   "heroAlt": "B2B influencer outreach message connecting a creator with a relevant brand content collaboration",
   "diagram": "b2b-influencer-outreach-framework.webp",
@@ -403,6 +403,16 @@
       ]
     },
     {
+      "type": "p",
+      "text": "After a creator replies, plan how the partnership fits into your wider program. Our guide to building a B2B creator program explains how to set a brief, run a pilot and develop an ongoing roster.",
+      "sources": [
+        {
+          "label": "How to Build a Winning B2B Creator Program",
+          "url": "/blog/how-to-build-a-winning-b2b-creator-program"
+        }
+      ]
+    },
+    {
       "type": "h2",
       "text": "The short version"
     },
@@ -460,6 +470,7 @@
     }
   ],
   "relatedArticles": [
+    "how-to-build-a-winning-b2b-creator-program",
     "should-b2b-brands-pay-influencers",
     "how-much-to-pay-b2b-influencer",
     "b2b-influencer-marketing-cost"
