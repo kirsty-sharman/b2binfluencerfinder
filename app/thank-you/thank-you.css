@@ -1,0 +1,42 @@
+.thanks-page { min-height:100vh; }
+.thanks-home { display:flex; align-items:center; gap:8px; font-size:13px; }
+.thanks-hero { display:grid; grid-template-columns:1.15fr 1fr; gap:80px; align-items:center; padding:88px 0 100px; }
+.thanks-status { display:inline-flex; align-items:center; gap:8px; padding:8px 13px; border:1px solid #ccd9c8; border-radius:100px; background:#edf3e9; font-size:12px; margin-bottom:30px; }
+.marketing .thanks-hero h1 { font-size:clamp(42px,5.2vw,68px); letter-spacing:-3px; line-height:1.08; }
+.thanks-intro { font-size:18px; max-width:510px; }
+.marketing .thanks-promise { font-size:18px; color:var(--m-ink); max-width:480px; margin-top:28px; }
+.thanks-promise strong { color:#bd1746; white-space:nowrap; }
+.thanks-note { display:flex; align-items:flex-start; gap:12px; font-size:13px; line-height:1.7; color:var(--m-muted); margin-top:28px; }
+.thanks-note svg { flex-shrink:0; margin-top:3px; }
+.thanks-next { background:white; border:1px solid #e0e4da; border-radius:22px; padding:36px; box-shadow:0 20px 60px #24351d08; position:relative; }
+.thanks-next:before { content:""; position:absolute; height:5px; top:0; left:36px; right:36px; background:#e72557; border-radius:0 0 4px 4px; }
+.marketing .thanks-next h2 { font-size:32px; letter-spacing:-1px; }
+.thanks-next ol { list-style:none; padding:0; margin:30px 0; }
+.thanks-next li { display:flex; gap:17px; position:relative; padding-bottom:26px; }
+.thanks-next li:last-child { padding-bottom:0; }
+.thanks-next li>span { flex-shrink:0; width:34px; height:34px; border-radius:50%; background:#f4f4ee; display:grid; place-items:center; font-size:11px; position:relative; z-index:1; }
+.thanks-next li:not(:last-child):after { content:""; position:absolute; left:16px; top:34px; bottom:0; width:1px; background:#e1e6dc; }
+.thanks-next .thanks-complete>span { background:#e72557; color:white; }
+.marketing .thanks-next h3 { font-size:16px; margin:5px 0 6px; letter-spacing:-.2px; }
+.thanks-next p { font-size:14px; margin:0; }
+.thanks-next-foot { border-top:1px solid #e3e7de; padding-top:20px; font-size:12px; color:#a32749; }
+.thanks-services { border-top:1px solid #dfe4da; padding:70px 0; }
+.thanks-section-heading { max-width:700px; }
+.marketing .thanks-section-heading h2 { font-size:clamp(32px,4vw,46px); }
+.thanks-service-grid { display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-top:36px; }
+.thanks-service-grid article { display:flex; flex-direction:column; border:1px solid #dfe4da; border-radius:16px; padding:34px; background:#f0f3ec; }
+.thanks-service-grid article:nth-child(2) { background:#fff0f4; border-color:#f0dce3; }
+.thanks-service-grid article>svg { margin-bottom:28px; }
+.thanks-service-grid .marketing-eyebrow { margin-bottom:14px; }
+.marketing .thanks-service-grid h3 { font-size:30px; letter-spacing:-1px; line-height:1.2; margin-bottom:18px; }
+.thanks-service-grid p { font-size:15px; }
+.thanks-service-footer { margin-top:auto; padding-top:18px; border-top:1px solid #20282215; display:flex; flex-direction:column; gap:20px; }
+.thanks-service-footer span { font-size:12px; color:var(--m-muted); line-height:1.7; }
+.thanks-service-footer a { display:flex; align-items:center; gap:8px; font-size:14px; font-weight:600; }
+.thanks-reading { border-top:1px solid #dfe4da; padding:55px 0; display:grid; grid-template-columns:1.2fr 1fr; gap:60px; align-items:center; }
+.marketing .thanks-reading h2 { font-size:30px; letter-spacing:-1px; }
+.thanks-reading p { font-size:14px; margin-bottom:0; }
+.thanks-reading>a { border-radius:14px; padding:30px; display:flex; align-items:center; justify-content:space-between; gap:20px; background:#202e27; color:white; font-size:21px; line-height:1.4; }
+.thanks-page a:focus-visible { outline:3px solid #de2052; outline-offset:5px; }
+@media(max-width:850px) { .thanks-hero { grid-template-columns:1fr; gap:40px; padding:50px 0 60px; }.thanks-intro,.marketing .thanks-promise { max-width:100%; }.thanks-reading { gap:25px; }.thanks-service-grid article { padding:25px; } }
+@media(max-width:580px) { .thanks-page .marketing-wrap { width:calc(100% - 36px); }.marketing .thanks-hero h1 { font-size:43px; letter-spacing:-2px; }.thanks-next { padding:26px; }.thanks-service-grid,.thanks-reading { grid-template-columns:1fr; }.thanks-services { padding-block:45px; }.thanks-home { font-size:12px; }.thanks-page .marketing-footer { gap:20px; flex-wrap:wrap; } }
